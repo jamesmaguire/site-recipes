@@ -1,11 +1,11 @@
 #filterInput {
-    width: 40%;
+    background: #EEEEEE;
+    width: 45%;
     text-align: left;
-    font-size: 110%;
+    font-size: 100%;
     padding: 4px;
     margin: 0;
     border: none;
-    border-bottom: 2px solid lightgrey;
 }
 
 ul {
