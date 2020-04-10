@@ -1,0 +1,27 @@
+#+TITLE: Curried Chickpea and Quinoa
+#+DATE: 2019-05-22
+#+SETUPFILE: ../recipe.setup
+
+  [[https://naturallyella.com/curried-chickpea-bowls/][Original link]]
+
+* Ingredients
+** Chickpeas
+    - 2 teaspoons olive oil
+    - 2 shallots, minced
+    - 2 cloves garlic, minced
+    - 1 tablespoon curry powder
+    - 1/2 cup cream or coconut milk
+    - 2 cups chickpeas
+    - Vegetable broth, as needed
+    - Salt, as needed
+
+** Serving
+    - 1 cup cooked quinoa
+    - 2 tablespoons parsley
+    - 1 to 2 tablespoons lemon juice
+
+* Instructions
+   1. Heat a pot or dutch oven over medium-low heat. Add the shallot and cook for 3 to 4 minutes, until soft and fragrant. Stir in the garlic, cooking for another 1 to 2 minutes. Add the curry powder, followed by the cream or coconut milk.
+   1. Add the chickpeas and a splash of vegetable broth or water. Cook on low until the chickpeas are hot and tender, 6 to 8 minutes. If needed, add a splash or two of vegetable broth of coconut milk.
+   1. Serve the curried chickpeas over the quinoa and sprinkle with parsley/feta. Serve with lemon wedges if desired.
+

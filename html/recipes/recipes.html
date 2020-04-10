@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Recipes</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Recipes</h1>
+
+<div id="outline-container-org29b28fe" class="outline-2">
+<h2 id="org29b28fe"><span class="timestamp-wrapper"><span class="timestamp">[2019-12-24 Tue] </span></span> Oat &amp; Lentil "Meat Loaf"</h2>
+<div class="outline-text-2" id="text-org29b28fe">
+<p>
+<a href="https://gamechangersmovie.com/recipes/oat-lentil-meat-loaf/">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-orgee1eef7" class="outline-3">
+<h3 id="orgee1eef7">Ingredients</h3>
+<div class="outline-text-3" id="text-orgee1eef7">
+<ul class="org-ul">
+<li>2 medium carrots, grated</li>
+<li>1 zuchinni, grated</li>
+<li>½ onion, chopped</li>
+<li>2 cloves garlic, minced or pressed</li>
+<li>300g firm tofu, drained</li>
+<li>¼ cup walnuts, finely ground</li>
+<li>½ cup cooked brown lentils</li>
+<li>1¼ cups quick-cooking oats</li>
+<li>3 tablespoons soy sauce</li>
+<li>2 tablespoons BBQ sauce or ketchup (plus additional for topping)</li>
+<li>1 tablespoon Dijon mustard</li>
+<li>2 teaspoons dried parsley</li>
+<li>½ teaspoon thyme</li>
+<li>½ teaspoon sage</li>
+<li>½ teaspoon rosemary</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgd948ba3" class="outline-3">
+<h3 id="orgd948ba3">Instructions</h3>
+<div class="outline-text-3" id="text-orgd948ba3">
+<ol class="org-ol">
+<li>Preheat the oven to 375ºF/190ºC.</li>
+<li>Sauté the carrot, zuchinni, onion, and garlic on high heat in a skillet with a few drops of water for 5 minutes, until tender. Remove from heat and cool.</li>
+<li>Mash the tofu in a large bowl. Stir in the cooked mixture and remaining ingredients, and combine well.</li>
+<li>Spoon the mixture into a parchment-lined loaf pan. Top with a layer of BBQ sauce.</li>
+<li>Bake for 55–60 minutes, or until a toothpick inserted in the center comes out clean.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgd6f05a9" class="outline-3">
+<h3 id="orgd6f05a9">Tips</h3>
+<div class="outline-text-3" id="text-orgd6f05a9">
+<ul class="org-ul">
+<li>This meatloaf is wonderful the next day pan-fried on whole grain bread with mustard, pickles, and ketchup.</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org9e0e5e3" class="outline-2">
+<h2 id="org9e0e5e3"><span class="timestamp-wrapper"><span class="timestamp">[2019-10-02 Wed] </span></span> Edamame Brown Rice Bowl&#xa0;&#xa0;&#xa0;<span class="tag"><span class="bowl">bowl</span></span></h2>
+<div class="outline-text-2" id="text-org9e0e5e3">
+</div>
+<div id="outline-container-orgfe6ade7" class="outline-3">
+<h3 id="orgfe6ade7">Ingredients</h3>
+<div class="outline-text-3" id="text-orgfe6ade7">
+</div>
+<div id="outline-container-org1fc1014" class="outline-4">
+<h4 id="org1fc1014">Tamari scallion sauce</h4>
+<div class="outline-text-4" id="text-org1fc1014">
+<ul class="org-ul">
+<li>1 cup sliced green onions</li>
+<li>¼ cup rice vinegar</li>
+<li>2 tbsp orange juice</li>
+<li>4 tsp sesame oil</li>
+<li>1 tsp tamari/soy sauce</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgf849c20" class="outline-4">
+<h4 id="orgf849c20">Other bits</h4>
+<div class="outline-text-4" id="text-orgf849c20">
+<ul class="org-ul">
+<li>1 cup cooked brown rice</li>
+<li>4 cup shelled edamame</li>
+<li>1/3 cup roasted sliced almonds (optional)</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgdbfee25" class="outline-3">
+<h3 id="orgdbfee25">Instructions</h3>
+<div class="outline-text-3" id="text-orgdbfee25">
+<ol class="org-ol">
+<li>Make the sauce by putting all sauce ingredients into the blender until sorta smooth.</li>
+<li>Assemble the bowl with equal parts rice and edamame, then drizzle with a couple tablespoons of sauce. Sprinkle with almonds if so desired.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org6826d77" class="outline-2">
+<h2 id="org6826d77"><span class="timestamp-wrapper"><span class="timestamp">[2019-10-02 Wed] </span></span> Oil-Free Hummus&#xa0;&#xa0;&#xa0;<span class="tag"><span class="sauce">sauce</span>&#xa0;<span class="chickpeas">chickpeas</span></span></h2>
+<div class="outline-text-2" id="text-org6826d77">
+<p>
+<a href="https://elavegan.com/oil-free-hummus/">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-org9597deb" class="outline-3">
+<h3 id="org9597deb">Ingredients</h3>
+<div class="outline-text-3" id="text-org9597deb">
+<ul class="org-ul">
+<li>One can chickpeas</li>
+<li>1/4 cup (60 g) tahini</li>
+<li>4 tbsp (40 ml) lemon juice (or more to taste)</li>
+<li>1/3 tsp salt or more to taste</li>
+<li>1/4 tsp ground cumin</li>
+<li>4 tbsp (40 ml) plant-based milk (or more for a creamier hummus)</li>
+<li>2-3 small cloves of garlic</li>
+<li>1/3 tsp baking soda</li>
+<li>Paprika for serving</li>
+<li>Fresh parsley for serving</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgc684ab7" class="outline-3">
+<h3 id="orgc684ab7">Instructions</h3>
+<div class="outline-text-3" id="text-orgc684ab7">
+<ol class="org-ol">
+<li>Rinse and drain canned chickpeas, then place in a medium saucepan and add 1/3 tsp baking soda. Cover chickpeas by at least 2 inches (ca. 5 cm) of water and bring to a boil over high heat. See recipe notes if you want to cook the chickpeas from dry.</li>
+<li>Boil the chickpeas for about 15 minutes. Once they look overcooked and slightly mushy, they are ready! Drain the chickpeas in a strainer, rinse with plenty of cool water and set aside.</li>
+<li>Process the lemon juice, garlic, salt, cumin, half of the plant-based milk, and tahini in a food processor until the mixture is smooth and creamy. Pause the food processor to scrape down the sides of the processor.</li>
+<li>Add the mushy chickpeas to the food processor and blend for about 1-2 minutes, scraping down the sides of the processor as needed.</li>
+<li>Now add the remaining plant-based milk and blend for a further 1-2 minutes, or until very smooth, creamy and fluffy.</li>
+<li>Taste the hummus and add more salt to taste and more lemon juice, if desired.</li>
+<li>Serve in a bowl and top with more lemon juice (I also added a bit of the chickpea cooking water), a dash of paprika (use smoked paprika for a variation), and fresh herbs.</li>
+<li>Store leftover hummus covered in the refrigerator for up to 5-6 days.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org7202a54" class="outline-3">
+<h3 id="org7202a54">Notes</h3>
+<div class="outline-text-3" id="text-org7202a54">
+<ul class="org-ul">
+<li>If you don't want to use canned chickpeas you can cook them from dry. Here is how:</li>
+<li>In a medium bowl, cover 3/4 cup (150 grams) dried chickpeas by at least 2 inches (ca. 5 cm) of cold water.</li>
+<li>Add 1/2 tsp baking soda and let soak at room temperature overnight. Drain and rinse.</li>
+<li>In a medium pot, cover soaked chickpeas by about 4 inches (ca. 10 cm) of water.</li>
+<li>Add 1/2 tsp baking soda and bring to a boil over high heat.</li>
+<li>Reduce the heat and simmer until chickpeas are soft, about 1 1/2 hours.</li>
+<li>Drain and rinse under running water.</li>
+<li>Recipe serves 6.</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org38621ec" class="outline-2">
+<h2 id="org38621ec"><span class="timestamp-wrapper"><span class="timestamp">[2019-08-12 Mon] </span></span> Vegan Palak Paneer&#xa0;&#xa0;&#xa0;<span class="tag"><span class="rice">rice</span></span></h2>
+<div class="outline-text-2" id="text-org38621ec">
+<p>
+<a href="https://minimalistbaker.com/vegan-palak-paneer-with-curried-tofu/">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-org19d4c39" class="outline-3">
+<h3 id="org19d4c39">Ingredients</h3>
+<div class="outline-text-3" id="text-org19d4c39">
+</div>
+<div id="outline-container-org52cfb53" class="outline-4">
+<h4 id="org52cfb53">Tofu</h4>
+<div class="outline-text-4" id="text-org52cfb53">
+<ul class="org-ul">
+<li>1 450g block firm tofu (drained, patted dry, and cubed)</li>
+<li>1 ½ tsp curry powder (or store-bought)</li>
+<li>1 Tbsp coconut aminos</li>
+<li>1/4 tsp sea salt</li>
+<li>2 tsp nutritional yeast (adds a slightly cheesy flavor)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgdd0b2d2" class="outline-4">
+<h4 id="orgdd0b2d2">Spinach</h4>
+<div class="outline-text-4" id="text-orgdd0b2d2">
+<ul class="org-ul">
+<li>5 cups loosely packed fresh spinach (about 170g)</li>
+<li>Water</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org3c22a77" class="outline-4">
+<h4 id="org3c22a77">Vegetables</h4>
+<div class="outline-text-4" id="text-org3c22a77">
+<ul class="org-ul">
+<li>1 ½ Tbsp avocado or coconut oil (or sub water + add more as needed)</li>
+<li>1 ½ tsp cumin seed (or ground cumin)</li>
+<li>2 Tbsp minced ginger</li>
+<li>1 medium diced white onion</li>
+<li>1 serrano or jalapeno pepper (seeds removed, diced // add more or less to preferred spiciness)</li>
+<li>1 can diced tomatoes (slightly drained // or sub fresh chopped ripe tomatoes)</li>
+<li>4 cloves garlic</li>
+<li>1/4-1/2 cup vegetable broth or water</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org4156b26" class="outline-4">
+<h4 id="org4156b26">Sauce</h4>
+<div class="outline-text-4" id="text-org4156b26">
+<ul class="org-ul">
+<li>1 ½ Tbsp avocado or coconut oil (or sub water + add more as needed)</li>
+<li>2 tsp curry powder</li>
+<li>1 tsp garam masala</li>
+<li>1/3 cup full fat coconut milk (plus more for serving)</li>
+<li>Sea salt, coconut aminos, or tamari (to taste // we used a few teaspoons of coconut aminos)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org81da66c" class="outline-4">
+<h4 id="org81da66c">For serving (optional)</h4>
+<div class="outline-text-4" id="text-org81da66c">
+<ul class="org-ul">
+<li>Rice or Quinoa</li>
+<li>Cilantro</li>
+<li>Garlic Naan</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org99fcc05" class="outline-3">
+<h3 id="org99fcc05">Instructions</h3>
+<div class="outline-text-3" id="text-org99fcc05">
+<ol class="org-ol">
+<li>This recipe is all about multi-tasking and is totally doable in 30 minutes. Start by preheating the oven to 210°C and draining your tofu. Then wrap in a clean towel and set something heavy on top. (This step can also be done in advance with a tofu press.)</li>
+<li>Cube tofu and add to a medium mixing bowl. Season with curry powder, coconut aminos, sea salt, and nutritional yeast. Shake the bowl to gently toss. Set aside.</li>
+<li>Heat a medium oven-safe seasoned cast iron over medium heat (if using a stainless steel skillet, add a little oil so it doesn’t stick). Once hot, add the tofu and sauté for 3-4 minutes, or until a couple of the sides are browned. Then transfer to the hot oven and bake for 15 minutes. If you prefer firmer tofu, bake longer. If you want softer tofu that mocks paneer, bake less. Set aside to rest in the pan.</li>
+<li>Fill a large pot halfway full with water and bring to a boil over high heat. While you wait, move on to the next step.</li>
+<li>Heat a large rimmed skillet over medium heat. Once hot, add oil and cumin seed, ginger, onion, and serrano pepper. Sauté until onion is soft and translucent — about 5 minutes.</li>
+<li>Add diced tomatoes and garlic and stir to combine. Sauté for 3-4 minutes, or until the tomato has softened.</li>
+<li>Your water should be boiling now. Add spinach and cook uncovered for 2 minutes. Then strain and rinse with cold water. Drain well. Set aside.</li>
+<li>Add the tomato mixture to a blender or food processor along with cooked drained spinach and the vegetable broth (or water). Blend into a smooth sauce, scraping down sides as needed. If it has trouble blending, add more vegetable broth or water.</li>
+<li>Lastly, cook your sauce. Heat the same rimmed skillet from earlier over medium heat. Once hot, add remaining oil (or some water), curry powder, and garam masala. Stir and cook for 30 seconds.</li>
+<li>Add the spinach sauce and stir. Cook the mixture over medium-low heat for about 3-4 minutes to deepen the flavors. If it bubbles too much, lower heat to a simmer. Then add coconut milk and stir.</li>
+<li>Taste and adjust flavor as needed, adding salt or coconut aminos to deepen the flavor and curry powder for more rich curry flavor.</li>
+<li>Serve over your tofu “paneer” and garnish with another drizzle of full fat coconut milk and fresh cilantro. Rice makes a lovely side, as does garlic naan! Store leftovers covered in the refrigerator up to 4-5 days, or in the freezer up to 1 month. Reheat in the microwave or in a rimmed skillet until hot.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga5df251" class="outline-2">
+<h2 id="orga5df251"><span class="timestamp-wrapper"><span class="timestamp">[2019-05-30 Thu] </span></span> Almond butter tofu stir-fry&#xa0;&#xa0;&#xa0;<span class="tag"><span class="tofu">tofu</span>&#xa0;<span class="rice">rice</span></span></h2>
+<div class="outline-text-2" id="text-orga5df251">
+<p>
+<a href="https://minimalistbaker.com/almond-butter-tofu-stir-fry/">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-org3376369" class="outline-3">
+<h3 id="org3376369">Ingredients</h3>
+<div class="outline-text-3" id="text-org3376369">
+</div>
+<div id="outline-container-org69e8dcf" class="outline-4">
+<h4 id="org69e8dcf">Tofu</h4>
+<div class="outline-text-4" id="text-org69e8dcf">
+<ul class="org-ul">
+<li>340 g package extra firm tofu</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org61d585c" class="outline-4">
+<h4 id="org61d585c">Marinade</h4>
+<div class="outline-text-4" id="text-org61d585c">
+<ul class="org-ul">
+<li>2 Tbsp sesame oil (divided)</li>
+<li>4 Tbsp reduced-sodium tamari (or soy sauce if not GF)</li>
+<li>3 Tbsp maple syrup</li>
+<li>2 Tbsp almond butter (or sub peanut butter)</li>
+<li>2 Tbsp lime juice</li>
+<li>1-2 tsp chili garlic sauce (or 1/2 tsp red pepper flake)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgeb1d82a" class="outline-4">
+<h4 id="orgeb1d82a">Veggies</h4>
+<div class="outline-text-4" id="text-orgeb1d82a">
+<ul class="org-ul">
+<li>453 g green beans (trimmed)</li>
+<li>2-3 small spicy peppers (I used cherry bomb - use bell peppers for less heat)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org9b5b70e" class="outline-4">
+<h4 id="org9b5b70e">Serving (optional)</h4>
+<div class="outline-text-4" id="text-org9b5b70e">
+<ul class="org-ul">
+<li>Brown rice, white rice, or Cauliflower Rice</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgc37c0e2" class="outline-3">
+<h3 id="orgc37c0e2">Instructions</h3>
+<div class="outline-text-3" id="text-orgc37c0e2">
+<ol class="org-ol">
+<li>Preheat oven to 200 degrees C and line a baking sheet with parchment paper. Also wrap tofu in a clean, absorbent towel and set something heavy on top - like a cast-iron skillet - to press out excess moisture.</li>
+<li>Once oven is preheated, unwrap tofu and cut into small cubes. Arrange on the lined baking sheet in an even layer and bake for 25-30 minutes or until puffy, dried out, and slightly crispy on the edges (see photo). This step helps crisp up the tofu. The longer you bake it, the firmer and crispier it will get, so adjust cooking time accordingly.</li>
+<li>In the meantime, to a small mixing bowl, add half of the sesame oil (1 Tbsp as original recipe is written // adjust if altering batch size), tamari, maple syrup, almond butter, lime juice, and chili garlic sauce/red pepper flake/Thai chilies. Whisk to combine. Then taste and adjust flavor as needed, adding more almond butter for creaminess / nuttiness, tamari for saltiness, lime juice for acidity, or chili garlic sauce for heat. Set aside.</li>
+<li>If serving with rice, prepare at this time (see notes).</li>
+<li>Add baked tofu to the almond butter-tamari sauce and let marinate for 5 minutes, stirring occasionally. The longer it marinates, the more intense the flavor, but I find 5-10 minutes to be sufficient.</li>
+<li>Heat a large skillet over medium heat. Once hot, add the tofu, leaving most of the marinade behind (this will be added to the vegetables for flavor).</li>
+<li>Cook for about 5 minutes, stirring occasionally, until browned on all sides and slightly caramelized. Remove from pan and set aside.</li>
+<li>To the skillet, add remaining sesame oil (1 Tbsp as original recipe is written <i>/ adjust if altering batch size), green beans and peppers and 2-3 Tbsp (30-45 ml /</i> amount as original recipe is written // adjust if altering batch size) of the marinade. Cover to steam for about 4-5 minutes or until green beans are slightly tender. Then remove lid, increase heat to medium high, and add remaining marinade and the tofu. Cook for an additional 1-2 minutes, stirring frequently. Then remove from heat.</li>
+<li>Serve as is or over cooked rice or cauliflower rice. For more heat, serve with chili garlic sauce or Sriracha.</li>
+<li>Best when fresh. Store leftovers in the refrigerator up to 3 days. Reheat on the stovetop or in the microwave until hot.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org8d3f971" class="outline-2">
+<h2 id="org8d3f971"><span class="timestamp-wrapper"><span class="timestamp">[2019-05-28 Tue] </span></span> Creamy Pasta Soup&#xa0;&#xa0;&#xa0;<span class="tag"><span class="pasta">pasta</span>&#xa0;<span class="soup">soup</span></span></h2>
+<div class="outline-text-2" id="text-org8d3f971">
+<p>
+<a href="https://elavegan.com/creamy-pasta-soup-recipe/">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-org2dcba2e" class="outline-3">
+<h3 id="org2dcba2e">Ingredients</h3>
+<div class="outline-text-3" id="text-org2dcba2e">
+</div>
+<div id="outline-container-org93ff513" class="outline-4">
+<h4 id="org93ff513">For the soup:</h4>
+<div class="outline-text-4" id="text-org93ff513">
+<ul class="org-ul">
+<li>1 large (225 g) carrot, peeled and chopped</li>
+<li>1-2 stalks (75 g) celery, chopped</li>
+<li>200 g broccoli florets</li>
+<li>1/2 tbsp oil</li>
+<li>1 medium onion, diced</li>
+<li>4 garlic cloves, minced</li>
+<li>5-6 cups (1200-1400 ml) vegetable broth</li>
+<li>Spice mix: 2 tsp onion powder, 2 tsp Italian seasoning, 1-2 tsp ground lovage (or to taste), salt and pepper to taste</li>
+<li>200 g pasta (I used gluten-free)</li>
+<li>Fresh herbs to garnish</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgf58eb6d" class="outline-4">
+<h4 id="orgf58eb6d">Cashew-Cannellini Cream:</h4>
+<div class="outline-text-4" id="text-orgf58eb6d">
+<ul class="org-ul">
+<li>One 400g g can white cannellini beans (drained and rinsed)</li>
+<li>1/2 cup (75 g) cashews soaked (*see recipe notes)</li>
+<li>1 1/2 cups plant-based milk</li>
+<li>1 tbsp lemon juice</li>
+<li>1/4 tsp salt</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd70b1dc" class="outline-3">
+<h3 id="orgd70b1dc">Instructions</h3>
+<div class="outline-text-3" id="text-orgd70b1dc">
+<ol class="org-ol">
+<li>Soak cashews for a couple of hours OR boil them for 20 minutes in water until they are soft. Once the cashews are soft, transfer them to a blender, add the cannellini beans, the plant-based milk, lemon juice &amp; salt and blend on high speed for about 2 minutes or until super smooth and creamy. Set aside.</li>
+<li>For the soup: Heat oil in a large pot over medium heat, add the onion, all veggies and fry for about 4 minutes. Then add the garlic, the spices and fry for a further minute.</li>
+<li>Add in the veggie broth (I first used 5 cups but had to add another cup later). Bring to a boil and then reduce the heat.</li>
+<li>Now add the cashew-cannellini cream and stir. Let the soup simmer for about 6-8 minutes.</li>
+<li>Finally, add pasta of choice and let the soup simmer for about 8-10 minutes or until the pasta is al-dente (check the package instructions). Stir frequently! If the soup is too thick either add more veggie broth or plant-based milk! Taste and adjust seasoning. You will most likely need to add more salt!</li>
+<li>Garnish with fresh herbs and enjoy!</li>
+</ol>
+</div>
+
+<div id="outline-container-org7c9947c" class="outline-4">
+<h4 id="org7c9947c">Notes</h4>
+<div class="outline-text-4" id="text-org7c9947c">
+<p>
+For a nut-free version, simply use 75 grams of hemp seeds!
+</p>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org12cff5e" class="outline-2">
+<h2 id="org12cff5e"><span class="timestamp-wrapper"><span class="timestamp">[2019-05-28 Tue] </span></span> Vegetarian Chili&#xa0;&#xa0;&#xa0;<span class="tag"><span class="mexican">mexican</span></span></h2>
+<div class="outline-text-2" id="text-org12cff5e">
+<p>
+<a href="https://cookieandkate.com/vegetarian-chili-recipe/">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-orgdedae29" class="outline-3">
+<h3 id="orgdedae29">Ingredients</h3>
+<div class="outline-text-3" id="text-orgdedae29">
+<ul class="org-ul">
+<li>2 tablespoons extra-virgin olive oil</li>
+<li>1 medium red onion, chopped</li>
+<li>1 large red bell pepper, chopped</li>
+<li>2 medium carrots, chopped</li>
+<li>2 ribs celery, chopped</li>
+<li>½ teaspoon salt, divided</li>
+<li>4 cloves garlic, pressed or minced</li>
+<li>2 tablespoons chili powder*</li>
+<li>2 teaspoons ground cumin</li>
+<li>1 ½ teaspoons smoked paprika*</li>
+<li>1 teaspoon dried oregano</li>
+<li>1 large can (800 g) or 2 small cans (400 g) diced tomatoes**, with their juices</li>
+<li>2 cans (800 g) black beans, rinsed and drained</li>
+<li>1 can (400 g) pinto beans, rinsed and drained</li>
+<li>2 cups vegetable broth or water</li>
+<li>1 bay leaf</li>
+<li>2 tablespoons chopped fresh cilantro, plus more for garnishing</li>
+<li>1 to 2 teaspoons sherry vinegar or red wine vinegar or lime juice, to taste</li>
+<li>Garnishes: chopped cilantro, sliced avocado, tortilla chips, sour cream or crème fraîche, grated cheddar cheese, etc.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org3ea7965" class="outline-3">
+<h3 id="org3ea7965">Instructions</h3>
+<div class="outline-text-3" id="text-org3ea7965">
+<ol class="org-ol">
+<li>In a large Dutch oven or heavy-bottomed pot over medium heat, warm the olive oil until shimmering. Add the chopped onion, bell pepper, carrot, celery and ¼ teaspoon of the salt. Stir to combine and cook, stirring occasionally, until the vegetables are tender and the onion is translucent, about 7 to 10 minutes.</li>
+<li>Add the garlic, chili powder, cumin, smoked paprika and oregano. Cook until fragrant while stirring constantly, about 1 minute.</li>
+<li>Add the diced tomatoes and their juices, the drained black beans and pinto beans, vegetable broth and bay leaf. Stir to combine and let the mixture come to a simmer. Continue cooking, stirring occasionally and reducing heat as necessary to maintain a gentle simmer, for 30 minutes.</li>
+<li>Remove the chili from the heat.</li>
+<li>For the best texture and flavor, transfer 1 ½ cups of the chili to a blender, making sure to get some of the liquid portion. Securely fasten the lid and blend until smooth (watch out for hot steam), then pour the blended mixture back into the pot. (Or, you can blend the chili briefly with an immersion blender, or mash the chili with a potato masher until it reaches a thicker, more chili-like consistency.)</li>
+<li>Add the chopped cilantro, stir to blend, and then mix in the vinegar, to taste. Add salt to taste, too&#x2014;I added ¼ teaspoon more at this point.</li>
+<li>Divide the mixture into individual bowls and serve with garnishes of your choice. This chili will keep well in the refrigerator for about 4 days or you can freeze it for longer-term storage.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgc2b2c0e" class="outline-2">
+<h2 id="orgc2b2c0e"><span class="timestamp-wrapper"><span class="timestamp">[2019-05-22 Wed] </span></span> Curried Chickpea and Quinoa&#xa0;&#xa0;&#xa0;<span class="tag"><span class="chickpeas">chickpeas</span>&#xa0;<span class="curry">curry</span>&#xa0;<span class="quinoa">quinoa</span></span></h2>
+<div class="outline-text-2" id="text-orgc2b2c0e">
+<p>
+<a href="https://naturallyella.com/curried-chickpea-bowls/">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-org2b61add" class="outline-3">
+<h3 id="org2b61add">Ingredients</h3>
+<div class="outline-text-3" id="text-org2b61add">
+</div>
+<div id="outline-container-org2d90c89" class="outline-4">
+<h4 id="org2d90c89">Chickpeas</h4>
+<div class="outline-text-4" id="text-org2d90c89">
+<ul class="org-ul">
+<li>2 teaspoons olive oil</li>
+<li>2 shallots, minced</li>
+<li>2 cloves garlic, minced</li>
+<li>1 tablespoon curry powder</li>
+<li>1/2 cup cream or coconut milk</li>
+<li>2 cups chickpeas</li>
+<li>Vegetable broth, as needed</li>
+<li>Salt, as needed</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgdd85799" class="outline-4">
+<h4 id="orgdd85799">Serving</h4>
+<div class="outline-text-4" id="text-orgdd85799">
+<ul class="org-ul">
+<li>1 cup cooked quinoa</li>
+<li>2 tablespoons parsley</li>
+<li>1 to 2 tablespoons lemon juice</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org4125b52" class="outline-3">
+<h3 id="org4125b52">Instructions</h3>
+<div class="outline-text-3" id="text-org4125b52">
+<ol class="org-ol">
+<li>Heat a pot or dutch oven over medium-low heat. Add the shallot and cook for 3 to 4 minutes, until soft and fragrant. Stir in the garlic, cooking for another 1 to 2 minutes. Add the curry powder, followed by the cream or coconut milk.</li>
+<li>Add the chickpeas and a splash of vegetable broth or water. Cook on low until the chickpeas are hot and tender, 6 to 8 minutes. If needed, add a splash or two of vegetable broth of coconut milk.</li>
+<li>Serve the curried chickpeas over the quinoa and sprinkle with parsley/feta. Serve with lemon wedges if desired.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgb14d731" class="outline-2">
+<h2 id="orgb14d731"><span class="timestamp-wrapper"><span class="timestamp">[2019-05-14 Tue] </span></span> Firecracker Vegan Lettuce Wraps&#xa0;&#xa0;&#xa0;<span class="tag"><span class="spicy">spicy</span>&#xa0;<span class="tofu">tofu</span></span></h2>
+<div class="outline-text-2" id="text-orgb14d731">
+<p>
+<a href="https://pinchofyum.com/vegan-lettuce-wraps">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-org9ef4727" class="outline-3">
+<h3 id="org9ef4727">Ingredients</h3>
+<div class="outline-text-3" id="text-org9ef4727">
+</div>
+<div id="outline-container-org0e1e15a" class="outline-4">
+<h4 id="org0e1e15a">Sauce</h4>
+<div class="outline-text-4" id="text-org0e1e15a">
+<ul class="org-ul">
+<li>1/2 cup peanut butter</li>
+<li>1/3 cup low sodium soy sauce</li>
+<li>1/3 cup sesame oil</li>
+<li>1/4 cup rice vinegar</li>
+<li>2 tablespoons chili paste (like sambal oelek) ++ for more</li>
+<li>firecrackery-ness</li>
+<li>2 tablespoons sugar</li>
+<li>a small knob of fresh ginger, peeled</li>
+<li>a clove of fresh garlic, peeled</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org25edb77" class="outline-4">
+<h4 id="org25edb77">Other</h4>
+<div class="outline-text-4" id="text-org25edb77">
+<ul class="org-ul">
+<li>1 container extra firm tofu (see notes)</li>
+<li>150 g brown rice noodles</li>
+<li>lettuce leaves for wrapping</li>
+<li>peanuts, cilantro, lime for serving</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org2dc8290" class="outline-3">
+<h3 id="org2dc8290">Instructions</h3>
+<div class="outline-text-3" id="text-org2dc8290">
+<ol class="org-ol">
+<li>Noodle Prep: Soak your noodles in a bowl of lukewarm water for at least 30 minutes while prepping the rest of the recipe. You want the noodles to be soft and flexible.</li>
+<li>Sauce: Blend all the sauce ingredients together in a small blender or food processor until smooth and creamy.</li>
+<li>Tofu: Press the tofu with a few paper towels to get some of the moisture out. Cut the tofu into small pieces. Heat a little oil in a nonstick skillet. Add your tofu. Stir-fry until golden brown. I usually let it sauté for at least 15 minutes. Add about half of the sauce to the pan. Stir-fry for another 3-5 minutes. As the sauce browns, it will form small crispy pieces around the tofu. Yum! Transfer tofu to a bowl.</li>
+<li>Noodles: Drain and rinse your noodles. Add another swish of oil to the pan and plop the noodles in. Add about half of the remaining sauce. Stir fry for just a minute or two until coated. Add a splash of water if it's too sticky. Remove from heat immediately and toss with the tofu.</li>
+<li>Lettuce Wrap It Up: Fill your butter lettuce leaves with the noodle/tofu mixture (it's okay if it's sticky &#x2013; you're just wrapping it up in lettuce). Top with peanuts, cashews, cilantro, scallions, lime, and/or Sriracha if you want.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org34267dd" class="outline-2">
+<h2 id="org34267dd"><span class="timestamp-wrapper"><span class="timestamp">[2019-05-12 Sun] </span></span> Curried Sweet Potato and Lentil Soup&#xa0;&#xa0;&#xa0;<span class="tag"><span class="soup">soup</span>&#xa0;<span class="lentils">lentils</span></span></h2>
+<div class="outline-text-2" id="text-org34267dd">
+<p>
+<a href="http://leitesculinaria.com/106497/recipes-curried-sweet-potato-and-lentil-soup.html">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-orgba311fa" class="outline-3">
+<h3 id="orgba311fa">Ingredients</h3>
+<div class="outline-text-3" id="text-orgba311fa">
+<ul class="org-ul">
+<li>500g sweet potatoes (1 to 2 sweet potatoes)</li>
+<li>2 cups (350 grams) red split lentils</li>
+<li>1 to 2 teaspoons mild olive or vegetable oil</li>
+<li>1 1/2 to 3 tablespoons (up to 112 grams) red curry paste</li>
+<li>6 1/2 cups (1.5 liters) stock (whether beef stockor chicken stock or</li>
+<li>vegetable stock), plus more as needed</li>
+<li>Juice of 2 limes (3 to 4 tablespoons)</li>
+<li>Coarse black pepper</li>
+<li>Sea salt flakes</li>
+<li>Cilantro, crushed peanuts, or coconut milk for garnish (optional)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgb32419c" class="outline-3">
+<h3 id="orgb32419c">Instructions</h3>
+<div class="outline-text-3" id="text-orgb32419c">
+<ol class="org-ol">
+<li>Peel the sweet potatoes and chop them into 1/2-inch (1-cm) dice.</li>
+<li>Rinse the lentils in a sieve under cold running water until the water runs clear.</li>
+<li>Heat a large saucepan or pot&#x2014;one that has a lid&#x2014; over medium-high heat. Add the oil and red curry paste and stir-fry just until it becomes strongly aromatic, about 1 minute. If you like things with just a mild heat, add just 1 1/2 tablespoons red curry paste. If you like things hotter, opt for 2 to 3 tablespoons red curry paste.</li>
+<li>Add the potato and lentils and stir to coat them with the paste. Pour in the stock and bring everything to a boil. Reduce the heat to a very gentle simmer, cover, and gently simmer just until the lentils and sweet potato are soft, 25 to 35 minutes. Remove from the heat.</li>
+<li>If using a blender or food processor, let the soup cool for at least 10 minutes and then carefully ladle it into a food processor and blitz until smooth, working in batches if necessary. The soup will be quite thick. If a thinner soup is desired, add stock as necessary. Return the soup to the pan and, if necessary, rewarm over low heat. If using an immersion or stick blender, stick the blender straight in the pot and puree until smooth. If a thinner soup is desired, add stock as necessary. If necessary, rewarm over low heat.</li>
+<li>Add a generous pinch of pepper and the lime juice to the soup and stir to combine. Serve immediately and, if desired, garnish with cilantro, peanuts, or a drizzle of coconut milk. Serve immediately (As with most soups, this freezes just fine in an airtight container or portioned in individual servings in resealable plastic bags. Defrost and rewarm over low heat before serving. Keep in mind that the soup will thicken in the fridge or freezer, so you'll need to add more stock or water when rewarming it to attain the original consistency.)</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org0b5677f" class="outline-2">
+<h2 id="org0b5677f"><span class="timestamp-wrapper"><span class="timestamp">[2019-04-09 Tue] </span></span> Vegan Meatballs with Gravy&#xa0;&#xa0;&#xa0;<span class="tag"><span class="rice">rice</span></span></h2>
+<div class="outline-text-2" id="text-org0b5677f">
+<p>
+<a href="https://elavegan.com/vegan-meatballs-gravy-gluten-free-recipe/">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-org425e914" class="outline-3">
+<h3 id="org425e914">Ingredients</h3>
+<div class="outline-text-3" id="text-org425e914">
+</div>
+<div id="outline-container-orgd921e53" class="outline-4">
+<h4 id="orgd921e53">Vegan meatballs:</h4>
+<div class="outline-text-4" id="text-orgd921e53">
+<ul class="org-ul">
+<li>One 400 g can black beans , drained and rinsed (250 g)</li>
+<li>1/4 cup sunflower seeds (35 g)</li>
+<li>1/2 cup oats (gluten-free if needed) (45 g)</li>
+<li>2 tbsp tomato paste (60 g)</li>
+<li>2 cloves of garlic</li>
+<li>1/2 large onion, chopped</li>
+<li>2 tbsp ground chia seeds or flax seeds</li>
+<li>Spice mix: 1/2 tbsp onion powder, 1 tsp garlic powder, 1 tsp ground</li>
+<li>oregano, 1 tsp ground cumin, 1/2 tsp smoked paprika, 1/4 tsp red pepper</li>
+<li>flakes</li>
+<li>Sea salt and pepper to taste</li>
+<li>Oil for frying</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org4e4721f" class="outline-4">
+<h4 id="org4e4721f">Mashed taters:</h4>
+<div class="outline-text-4" id="text-org4e4721f">
+<ul class="org-ul">
+<li>6 medium-sized potatoes</li>
+<li>1/4 cup coconut milk canned (60 ml) (*see recipe notes)</li>
+<li>1/2 tsp nutmeg (or more/less to taste)</li>
+<li>black pepper, sea salt to taste</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org35a4be8" class="outline-4">
+<h4 id="org35a4be8">Gravy:</h4>
+<div class="outline-text-4" id="text-org35a4be8">
+<ul class="org-ul">
+<li>1 1/2 cups vegetable broth or water (360 ml)</li>
+<li>1/3 cup plant-based cream or canned coconut milk (80 ml)</li>
+<li>2 tbsp tomato paste (60 g)</li>
+<li>1/2 tsp fresh ginger (minced)</li>
+<li>Ground spice mix: 3 tsp curry powder, 1 1/2 tsp onion powder, 1 tsp</li>
+<li>garlic powder, 1 tsp oregano, 1 tsp cumin, 1 tsp turmeric, 1/2 tsp</li>
+<li>nutmeg, 1/2 tsp smoked paprika, 1/4 tsp red pepper flakes, 1 tsp coconut</li>
+<li>sugar (or brown sugar), sea salt and pepper to taste</li>
+<li>1 tbsp cornstarch (to thicken)</li>
+<li>Fresh parsley to garnish</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgaeb61c1" class="outline-3">
+<h3 id="orgaeb61c1">Instructions</h3>
+<div class="outline-text-3" id="text-orgaeb61c1">
+<ol class="org-ol">
+<li>Preheat oven to 390 degrees F (200 degrees C).</li>
+<li>Prepare mashed potatoes as described in this recipe or make your favorite pasta or rice (whatever you want to serve with your vegan meatballs).</li>
+</ol>
+</div>
+
+<div id="outline-container-orgf489a0a" class="outline-4">
+<h4 id="orgf489a0a">Meatballs:</h4>
+<div class="outline-text-4" id="text-orgf489a0a">
+<ol class="org-ol">
+<li>Put all ingredients (except oil) to a food processor or blender and pulse a couple of times. Scrape down the sides and pulse again. Repeat for about one minute or until the mixture sticks together.</li>
+<li>Roll the mixture with your hands into balls. I used 1 tbsp per ball (the recipe makes about 15 balls).</li>
+<li>Heat 2-3 tbsp oil in a pan/skillet and fry balls for about 6-8 minutes over medium heat. Shake the pan from time to time to fry the balls evenly from all sides.</li>
+<li>Transfer the balls to a baking sheet and bake in the oven for about 20 minutes.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org906a7e3" class="outline-4">
+<h4 id="org906a7e3">Mashed taters:</h4>
+<div class="outline-text-4" id="text-org906a7e3">
+<ol class="org-ol">
+<li>Peel and chop potatoes, transfer them to a pot with salted water and bring to a boil.</li>
+<li>Cook on medium heat for about 15 minutes or until tender, drain.</li>
+<li>Transfer back to the pot, add coconut milk, nutmeg, black pepper and sea salt to taste and mash with a potato masher (don't use a food processor or blender).</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgd62d0c2" class="outline-4">
+<h4 id="orgd62d0c2">Gravy:</h4>
+<div class="outline-text-4" id="text-orgd62d0c2">
+<ol class="org-ol">
+<li>To make the gravy, simply add the tomato paste to a pan (use the same pan which you used for the vegan meatballs), pour in the plant-based cream and stir with a whisk to smooth out the tomato paste. Then slowly add the vegetable broth while stirring.</li>
+<li>Bring the sauce to a boil, add all other ingredients (except cornstarch and fresh parsley) and let simmer over medium heat for about 10-12 minutes (the longer you simmer the gravy, the more flavorful and thicker it will be).</li>
+<li>In a small bowl mix cornstarch with a little bit of water and add it to the pan. The gravy will get a little bit thicker. Keep simmering for a further 2-3 minutes.</li>
+<li>Pour the gravy over the vegan meatballs and serve with either mashed potatoes, pasta or rice! Store leftovers of the gravy in a container in the fridge (can be kept in the fridge for about 3-4 days).</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga106b89" class="outline-2">
+<h2 id="orga106b89"><span class="timestamp-wrapper"><span class="timestamp">[2019-02-19 Tue] </span></span> Coconut Chana Saag&#xa0;&#xa0;&#xa0;<span class="tag"><span class="curry">curry</span>&#xa0;<span class="rice">rice</span>&#xa0;<span class="chickpeas">chickpeas</span></span></h2>
+<div class="outline-text-2" id="text-orga106b89">
+</div>
+<div id="outline-container-orge335c5f" class="outline-3">
+<h3 id="orge335c5f">Ingredients</h3>
+<div class="outline-text-3" id="text-orge335c5f">
+<ul class="org-ul">
+<li>2 tablespoons coconut oil</li>
+<li>1 onion</li>
+<li>3 cloves garlic</li>
+<li>2 tablespoons minced ginger</li>
+<li>2 tablespoons curry powder - need more</li>
+<li>1 teaspoon salt</li>
+<li>Black pepper</li>
+<li>1/2 teaspoon anise seed (or crushed fennel seeds) - need more</li>
+<li>1/2 teaspoon garam masala</li>
+<li>1/2 teaspoon ground cumin</li>
+<li>1/2 teaspoon cayenne</li>
+<li>1 can whole tomatoes</li>
+<li>2 cans chickpeas</li>
+<li>200g chopped kale</li>
+<li>1 can coconut milk</li>
+<li>2 tablespoons lime juice</li>
+<li>Basmati rice, mango chutney, coriander for serving</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgbc2545f" class="outline-3">
+<h3 id="orgbc2545f">Instructions</h3>
+<div class="outline-text-3" id="text-orgbc2545f">
+<ol class="org-ol">
+<li>Preheat pot over medium heat and add coconut oil and onions. Saute for 5-7 min</li>
+<li>Add garlic, ginger and cook for 30s, before adding curry powder, salt, pepper, anise seeds, garam masala, cumin, cayenne. Toast spices for a bit</li>
+<li>Add tomato juice from can and mix in. Then squish the tomatos in your hand to mash them and add to pot. Add chick peas also</li>
+<li>Cover pan and simmer for 10 min, stirring occasionally</li>
+<li>Stir in kale until wilted then simmer for another 5 min</li>
+<li>Add coconut milk and heat through. Add lime juice and season</li>
+<li>Serve with rice, chutney and corriander</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org71970b2" class="outline-2">
+<h2 id="org71970b2"><span class="timestamp-wrapper"><span class="timestamp">[2018-09-08 Sat] </span></span> Pizza Dough&#xa0;&#xa0;&#xa0;<span class="tag"><span class="bread">bread</span></span></h2>
+<div class="outline-text-2" id="text-org71970b2">
+<p>
+<a href="https://www.mom4real.com/homemade-pizza-dough-recipe/">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-orga96635b" class="outline-3">
+<h3 id="orga96635b">Ingredients</h3>
+<div class="outline-text-3" id="text-orga96635b">
+<ul class="org-ul">
+<li>3.5 Cups Bread or All-Purpose Flour</li>
+<li>1 Teaspoon Sugar</li>
+<li>1 Envelope Instant Dry Yeast</li>
+<li>2 Teaspoons Kosher Salt</li>
+<li>1.5 Cups Warm Water</li>
+<li>2 Tablespoons Olive Oil</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org78485d8" class="outline-3">
+<h3 id="org78485d8">Instructions</h3>
+<div class="outline-text-3" id="text-org78485d8">
+<ol class="org-ol">
+<li>Mix together flour, sugar, dry yeast and kosher salt. Slowly add water and olive oil. Mix together until dough forms into a ball. If the dough is too sticky, add a tablespoon of flour until it forms a ball. If the dough is too dry, add a tablespoon of warm water until it forms a ball. Once your dough is formed, knead into a smooth firm ball on a floured surface.</li>
+<li>Grease a large bowl with olive oil and place your dough in the bowl. Cover with plastic wrap, and let sit for at least an hour.</li>
+<li>The dough will double in size. Now flour your surface and cut the dough in half. Place a damp cloth over the dough and allow it to sit for 10 minutes. Now it's time to roll your dough out into whatever shape you like, while gently pulling the dough to stretch it.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org98a4ef4" class="outline-2">
+<h2 id="org98a4ef4"><span class="timestamp-wrapper"><span class="timestamp">[2018-08-24 Fri] </span></span> My overnight oats&#xa0;&#xa0;&#xa0;<span class="tag"><span class="breakfast">breakfast</span></span></h2>
+<div class="outline-text-2" id="text-org98a4ef4">
+</div>
+<div id="outline-container-org5444b41" class="outline-3">
+<h3 id="org5444b41">Ingredients</h3>
+<div class="outline-text-3" id="text-org5444b41">
+<ul class="org-ul">
+<li>1 banana</li>
+<li>1/2 cup of rolled oats</li>
+<li>3/4 cup of oat milk</li>
+<li>Shredded coconut</li>
+<li>1 teaspoon of chia seeds</li>
+<li>1-2 chopped dates</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org6f76b5c" class="outline-3">
+<h3 id="org6f76b5c">Instructions</h3>
+<div class="outline-text-3" id="text-org6f76b5c">
+<ol class="org-ol">
+<li>Mush banana at the base of a glass jar</li>
+<li>Add all other ingredients and mix</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgaa4fc56" class="outline-2">
+<h2 id="orgaa4fc56"><span class="timestamp-wrapper"><span class="timestamp">[2018-08-18 Sat] </span></span> Chickpea Carrot Patties&#xa0;&#xa0;&#xa0;<span class="tag"><span class="patties">patties</span></span></h2>
+<div class="outline-text-2" id="text-orgaa4fc56">
+</div>
+<div id="outline-container-org82a2561" class="outline-3">
+<h3 id="org82a2561">Ingredients</h3>
+<div class="outline-text-3" id="text-org82a2561">
+<ul class="org-ul">
+<li>1 carrot</li>
+<li>1 clove garlic</li>
+<li>1 can chickpeas</li>
+<li>1.5 tsp ground cumin</li>
+<li>1.5 tsp parsley</li>
+<li>Salt + pepper</li>
+<li>1 large egg (or aquafaba)</li>
+<li>2 tbsp plain flour</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org9807473" class="outline-3">
+<h3 id="org9807473">Instructions</h3>
+<div class="outline-text-3" id="text-org9807473">
+<ol class="org-ol">
+<li>Grate carrot coarsely and put aside</li>
+<li>Combine chickpeas, garlic, spices on food processor. Slightly process into rough paste</li>
+<li>Add carrot, egg, flour. Process until blended, but rugged</li>
+<li>Fry 2-3 minutes each side</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org7813c10" class="outline-2">
+<h2 id="org7813c10"><span class="timestamp-wrapper"><span class="timestamp">[2018-08-03 Fri] </span></span> Coconut Curry Lentil Soup&#xa0;&#xa0;&#xa0;<span class="tag"><span class="soup">soup</span></span></h2>
+<div class="outline-text-2" id="text-org7813c10">
+<p>
+<a href="http://vegangela.com/2014/01/09/coconut-curry-lentil-soup/">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-org0aca63b" class="outline-3">
+<h3 id="org0aca63b">Ingredients</h3>
+<div class="outline-text-3" id="text-org0aca63b">
+<ul class="org-ul">
+<li>1 tbsp coconut oil (or olive oil)</li>
+<li>1 large onion, chopped</li>
+<li>2 cloves garlic, minced</li>
+<li>1 tbsp fresh ginger, minced</li>
+<li>2 tbsp tomato paste (or ketchup)</li>
+<li>2 tbsp curry powder</li>
+<li>½ tsp hot red pepper flakes</li>
+<li>4 cups vegetable broth</li>
+<li>1 400ml can coconut milk</li>
+<li>1 400g can diced tomatoes</li>
+<li>1.5 cups dry red lentils</li>
+<li>2-3 handfuls of chopped kale or spinach</li>
+<li>salt and pepper, to taste</li>
+<li>Garnish: chopped cilantro (fresh coriander) and/or vegan sour cream</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org3634df6" class="outline-3">
+<h3 id="org3634df6">Instructions</h3>
+<div class="outline-text-3" id="text-org3634df6">
+<ol class="org-ol">
+<li>In a stockpot, heat the coconut oil over medium heat and stir-fry the onion, garlic and ginger until the onion is translucent, a couple minutes.</li>
+<li>Add the tomato paste (or ketchup), curry powder, and red pepper flakes and cook for another minute.</li>
+<li>Add the vegetable broth, coconut milk, diced tomatoes and lentils. Cover and bring to a boil, then simmer on low heat for 20-30 minutes, until the lentils are very tender. Season with salt and pepper.</li>
+<li>{Make-Ahead: May be cooled, frozen in air-tight containers, and re-heated over medium-low heat.}</li>
+<li>Before serving, stir in the kale/spinach and garnish with cilantro and/or vegan sour cream.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org0cc28bb" class="outline-2">
+<h2 id="org0cc28bb"><span class="timestamp-wrapper"><span class="timestamp">[2018-07-31 Tue] </span></span> Quinoa Enchilada Casserole&#xa0;&#xa0;&#xa0;<span class="tag"><span class="mexican">mexican</span>&#xa0;<span class="quinoa">quinoa</span></span></h2>
+<div class="outline-text-2" id="text-org0cc28bb">
+<p>
+<a href="https://minimalistbaker.com/mediterranean-baked-sweet-potatoes/">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-org246fbb9" class="outline-3">
+<h3 id="org246fbb9">Ingredients</h3>
+<div class="outline-text-3" id="text-org246fbb9">
+<ul class="org-ul">
+<li>1 cup quinoa</li>
+<li>Enchilada sauce</li>
+<li>Capsicum</li>
+<li>Avocado</li>
+<li>Green chilies</li>
+<li>Corn</li>
+<li>Black beans</li>
+<li>Cilantro</li>
+<li>Cumin</li>
+<li>Chili powder</li>
+<li>0.5 cup nutritional yeast</li>
+<li>0.5 - 1 cup bread crumbs</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org59d2983" class="outline-3">
+<h3 id="org59d2983">Instructions</h3>
+<div class="outline-text-3" id="text-org59d2983">
+<ol class="org-ol">
+<li>In a large saucepan of 2 cups water, cook quinoa according to package instructions; set aside.</li>
+<li>Preheat oven to 375 degrees F. Lightly oil an 8×8 or 2 quart baking dish or coat with nonstick spray.</li>
+<li>In a large bowl, combine quinoa, enchilada sauce, green chiles, corn, black beans, cilantro, cumin and chili powder; season with salt and pepper, to taste. Stir in nutritional yeast.</li>
+<li>Spread quinoa mixture into the prepared baking dish. Top with bread crumbs. Place into oven and bake, about 15 minutes.</li>
+<li>Serve immediately, garnished with avocado and tomato, if desired.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd7f4592" class="outline-2">
+<h2 id="orgd7f4592"><span class="timestamp-wrapper"><span class="timestamp">[2018-07-15 Sun] </span></span> Vege Chilli Con Carne&#xa0;&#xa0;&#xa0;<span class="tag"><span class="mexican">mexican</span></span></h2>
+<div class="outline-text-2" id="text-orgd7f4592">
+<p>
+<a href="http://www.jamieoliver.com/recipes/vegetables-recipes/veggie-chilli/">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-orgf7242ec" class="outline-3">
+<h3 id="orgf7242ec">Ingredients</h3>
+<div class="outline-text-3" id="text-orgf7242ec">
+<ul class="org-ul">
+<li>2 medium sweet potatoes (500g)</li>
+<li>1 level teaspoon cayenne pepper, plus extra for sprinkling</li>
+<li>1 heaped teaspoon ground cumin, plus extra for sprinkling</li>
+<li>1 level teaspoon ground cinnamon, plus extra for sprinkling</li>
+<li>olive oil</li>
+<li>1 onion</li>
+<li>1 red pepper</li>
+<li>1 yellow pepper</li>
+<li>2 cloves of garlic</li>
+<li>1 bunch of fresh coriander</li>
+<li>1 fresh red chilli</li>
+<li>1 fresh green chilli</li>
+<li>2 400 g tinned beans, such as kidney, chickpea, pinto, cannellini</li>
+<li>2 400 g tins of quality plum tomatoes</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org9dbfee6" class="outline-3">
+<h3 id="org9dbfee6">Instructions</h3>
+<div class="outline-text-3" id="text-org9dbfee6">
+<ol class="org-ol">
+<li>Preheat the oven to 200°C.</li>
+<li>Peel and chop the sweet potatoes into bite-sized chunks, then place onto a baking tray.</li>
+<li>Sprinkle with a pinch each of cayenne, cumin, cinnamon, sea salt and black pepper, drizzle with oil then toss to coat. Roast for 40 minutes, or until golden and tender.</li>
+<li>Peel and roughly chop the onion. Halve, deseed and roughly chop the peppers, then peel and finely chop the garlic.</li>
+<li>Pick the coriander leaves, finely chopping the stalks. Deseed and finely chop the chillies.</li>
+<li>Meanwhile, heat 2 tablespoons of oil in a large pan over a medium-high heat, add the onion, peppers and garlic, and cook for 5 minutes.</li>
+<li>Add the coriander stalks, chilli and spices, and cook for a further 5 to 10 minutes, or until softened, stirring occasionally.</li>
+<li>Drain and add the beans. Tip in the tomatoes, breaking them up with the back of a spoon, then stir well.</li>
+<li>Bring to the boil, then reduce to medium-low and leave to tick away for 25 to 30 minutes, or until thickened and reduced &#x2013; keep an eye on it, and add a splashes of water to loosen, if needed.</li>
+<li>Stir the roasted sweet potato through the chilli with most of the coriander leaves, then taste and adjust the seasoning, if needed.</li>
+<li>Scatter over the remaining coriander. Delicious served with soured cream, guacamole and rice or tortilla chips.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org10d8382" class="outline-2">
+<h2 id="org10d8382"><span class="timestamp-wrapper"><span class="timestamp">[2018-06-12 Tue] </span></span> Roast Carrot Lentil Curry Bowls&#xa0;&#xa0;&#xa0;<span class="tag"><span class="rice">rice</span>&#xa0;<span class="sauce">sauce</span>&#xa0;<span class="bowl">bowl</span></span></h2>
+<div class="outline-text-2" id="text-org10d8382">
+<p>
+<a href="http://pinchofyum.com/lentil-curry-bowls-with-cilantro-cashew-sauce%20">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-orgfccad00" class="outline-3">
+<h3 id="orgfccad00">Ingredients</h3>
+<div class="outline-text-3" id="text-orgfccad00">
+</div>
+<div id="outline-container-org81b4d03" class="outline-4">
+<h4 id="org81b4d03">For the Cilantro Cashew Sauce:</h4>
+<div class="outline-text-4" id="text-org81b4d03">
+<ul class="org-ul">
+<li>1/2 cup fresh cilantro</li>
+<li>3/4 cup cashews (mine were salted)</li>
+<li>? cup water</li>
+<li>1/4 teaspoon salt</li>
+<li>juice of 2 limes</li>
+<li>1 clove garlic (optional)</li>
+<li>1-2 teaspoons honey</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgdd84675" class="outline-4">
+<h4 id="orgdd84675">For the Roasted Carrots:</h4>
+<div class="outline-text-4" id="text-orgdd84675">
+<ul class="org-ul">
+<li>8-10 carrots, peeled and chopped into chunks</li>
+<li>1 tablespoon olive oil</li>
+<li>1 teaspoon garam masala</li>
+<li>1/2 teaspoon chili powder</li>
+<li>salt to taste</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org41194bc" class="outline-4">
+<h4 id="org41194bc">For the Rice and Lentil Curry:</h4>
+<div class="outline-text-4" id="text-org41194bc">
+<ul class="org-ul">
+<li>1 cup basmati rice</li>
+<li>1 tablespoon oil</li>
+<li>1/2 cup chopped onion</li>
+<li>2 cloves garlic</li>
+<li>2 tablespoons red Thai curry paste</li>
+<li>1 teaspoon garam masala</li>
+<li>1/2 teaspoon cumin seed (or ground cumin)</li>
+<li>1 cup brown lentils, rinsed</li>
+<li>400 g tomato puree (passata)</li>
+<li>2 cups chicken or vegetable broth</li>
+<li>pinch of salt</li>
+<li>avocado and cilantro for topping</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org998a150" class="outline-3">
+<h3 id="org998a150">Instructions</h3>
+<div class="outline-text-3" id="text-org998a150">
+<ol class="org-ol">
+<li>For the sauce, puree all ingredients in a food processor or blender until smooth. Taste and adjust.</li>
+<li>For the carrots, toss all ingredients together. Roast at 450 degrees for 20-30 minutes or until golden brown and roasty. &lt;&#x2013; favorite word.</li>
+<li>Cook the rice according to package directions. I used a rice cooker.</li>
+<li>For the curry, heat the oil in a skillet over medium heat. Add the onion and garlic; saute for 3-5 minutes. Add the curry paste and spices; saute for 2-3 minutes.</li>
+<li>Add the lentils, tomato sauce, and broth. Simmer until lots of the liquid has evaporated - continue adding ½ cup of liquid as needed (the lentils will just keep soaking it up). Repeat this process for about 30-45 minutes until the lentils are soft.</li>
+<li>Add the rice to the lentil mixture; stir to combine, adding extra broth or water as necessary. Season with salt.</li>
+<li>Serve in bowls topped with the roasted carrots, avocado slices, cilantro, and cilantro cashew dressing.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org355ab16" class="outline-2">
+<h2 id="org355ab16"><span class="timestamp-wrapper"><span class="timestamp">[2018-05-14 Mon] </span></span> Creamy Jalapeno Avocado Sauce&#xa0;&#xa0;&#xa0;<span class="tag"><span class="sauce">sauce</span></span></h2>
+<div class="outline-text-2" id="text-org355ab16">
+<p>
+<a href="https://livingfoodlove.wordpress.com/2014/05/29/raw-vegan-creamy-jalapeno-avocado-sauce/">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-org62654c2" class="outline-3">
+<h3 id="org62654c2">Ingredients</h3>
+<div class="outline-text-3" id="text-org62654c2">
+<ul class="org-ul">
+<li>2 avocados</li>
+<li>2 fresh jalenpenos, seeded</li>
+<li>Juice of 1 lemon</li>
+<li>5.8 cup water</li>
+<li>1/6 cup cashew butter</li>
+<li>1.5 tbsp shallots</li>
+<li>2 tbsp cilantro</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org1f7ef1a" class="outline-3">
+<h3 id="org1f7ef1a">Instructions</h3>
+<div class="outline-text-3" id="text-org1f7ef1a">
+<ol class="org-ol">
+<li>Blend</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org0e44fee" class="outline-2">
+<h2 id="org0e44fee"><span class="timestamp-wrapper"><span class="timestamp">[2018-05-14 Mon] </span></span> Simmered Coconut Curried Tofu&#xa0;&#xa0;&#xa0;<span class="tag"><span class="tofu">tofu</span>&#xa0;<span class="rice">rice</span></span></h2>
+<div class="outline-text-2" id="text-org0e44fee">
+</div>
+<div id="outline-container-org89d9592" class="outline-3">
+<h3 id="org89d9592">Ingredients</h3>
+<div class="outline-text-3" id="text-org89d9592">
+<ul class="org-ul">
+<li>1 block firm tofu</li>
+<li>1 tablespoon olive oil</li>
+<li>2 teaspoons sesame oil</li>
+<li>3 tablespoons peanut butter</li>
+<li>2 tablespoons soy sauce</li>
+<li>2 tablespoons water</li>
+<li>1 teaspoon curry powder</li>
+<li>1/4 cup coconut flakes</li>
+<li>2 tablespoons minced fresh cilantro</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgadc8b47" class="outline-3">
+<h3 id="orgadc8b47">Instructions</h3>
+<div class="outline-text-3" id="text-orgadc8b47">
+<ol class="org-ol">
+<li>Sure tofu in oil till brown</li>
+<li>Reduce heat to medium and add sesame oil, peanut butter, soy sauce, water and curry powder. Stir in and heat for 5 minutes</li>
+<li>Add coconut flakes and cilantro. Heat for 1 min</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd1b3c9c" class="outline-2">
+<h2 id="orgd1b3c9c"><span class="timestamp-wrapper"><span class="timestamp">[2018-05-14 Mon] </span></span> Spicy Buddha Bowl&#xa0;&#xa0;&#xa0;<span class="tag"><span class="bowl">bowl</span></span></h2>
+<div class="outline-text-2" id="text-orgd1b3c9c">
+<p>
+<a href="http://www.crazyvegankitchen.com/spicy-buddha-bowl/">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-orgb661763" class="outline-3">
+<h3 id="orgb661763">Ingredients</h3>
+<div class="outline-text-3" id="text-orgb661763">
+<ul class="org-ul">
+<li>1 cup Cooked Brown Rice</li>
+<li>1 Sweet Potato, cut into large chunks</li>
+<li>1 teaspoon Olive Oil</li>
+<li>Salt/Pepper</li>
+<li>1 can Organic Chickpeas, drained</li>
+<li>1 1/2 tablespoons Sriracha</li>
+<li>2 teaspoons Maple Syrup</li>
+<li>1/2 teaspoon Paprika</li>
+<li>1/2 teaspoon Garlic Powder</li>
+<li>Salt/Pepper</li>
+<li>1 cup chopped Red Cabbage</li>
+<li>1 cup Baby Spinach</li>
+<li>1 Avocado, sliced</li>
+<li>Turmeric Tahini Dressing:</li>
+<li>4 Tablespoons Tahini</li>
+<li>4 Tablespoons Warm Water</li>
+<li>1 teaspoon Maple Syrup</li>
+<li>1/4 teaspoon Cayenne Pepper</li>
+<li>1/2 teaspoon Turmeric</li>
+<li>1/2 teaspoon Sriracha</li>
+<li>Salt to taste</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org73f76c7" class="outline-3">
+<h3 id="org73f76c7">Instructions</h3>
+<div class="outline-text-3" id="text-org73f76c7">
+<ol class="org-ol">
+<li>Preheat oven to 180 degrees Celsius. Coat sweet potato in 1 tsp oil and season with salt and pepper. Place on baking tray and pop into the oven to roast for 35 minutes, turning once halfway through the cooking time.</li>
+<li>Whilst sweet potato is cooking, prepare chickpeas.</li>
+<li>In a bowl, combine chickpeas, sriracha, maple syrup, paprika, garlic powder, salt and pepper. Mix to combine. Heat a saucepan and transfer chickpea mixture into saucepan to cook for 5-10 minutes. Make sure to keep the chickpeas moving so they don't burn. Cook until chickpeas are slightly sticky and no longer watery. Keep aside.</li>
+<li>In a clean saucepan, wilt spinach slightly and season. Transfer to a bowl and repeat the wilting and seasoning process with the cabbage.</li>
+<li>Once sweet potato is cooked through, prepare your Buddha Bowl by placing your rice in the bottom of a bowl and then topping with the sweet potato, chickpeas, spinach, red cabbage and avocado.</li>
+<li>To make dressing, whisk all ingredients together. Liberally splash on Buddha Bowl and enjoy!!!</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org504822e" class="outline-2">
+<h2 id="org504822e"><span class="timestamp-wrapper"><span class="timestamp">[2018-05-14 Mon] </span></span> Sweet Potato Chickpea Buddha Bowl&#xa0;&#xa0;&#xa0;<span class="tag"><span class="rice">rice</span>&#xa0;<span class="bowl">bowl</span>&#xa0;<span class="chickpeas">chickpeas</span></span></h2>
+<div class="outline-text-2" id="text-org504822e">
+<p>
+<a href="https://minimalistbaker.com/sweet-potato-chickpea-buddha-bowl/">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-org244bec5" class="outline-3">
+<h3 id="org244bec5">Ingredients</h3>
+<div class="outline-text-3" id="text-org244bec5">
+<ul class="org-ul">
+<li>2 Tbsp olive, melted coconut, or grape seed oil</li>
+<li>1/2 red onion, sliced in wedges</li>
+<li>2 large sweet potatoes, halved</li>
+<li>1 bundle (227 g) broccolini, large stems removed, chopped</li>
+<li>2 big handfuls kale, larger stems removed</li>
+<li>1/4 tsp each salt + pepper</li>
+</ul>
+</div>
+
+<div id="outline-container-orgd14930e" class="outline-4">
+<h4 id="orgd14930e">Chickpeas</h4>
+<div class="outline-text-4" id="text-orgd14930e">
+<ul class="org-ul">
+<li>1 can (400 g) chickpeas, drained, rinsed + patted dry</li>
+<li>1 tsp cumin</li>
+<li>3/4 tsp chili powder</li>
+<li>3/4 tsp garlic powder</li>
+<li>1/4 tsp each salt + pepper</li>
+<li>1/2 tsp oregano (optional)</li>
+<li>2/4 tsp turmeric (optional)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org0241b4d" class="outline-4">
+<h4 id="org0241b4d">Tahini sauce (optional)</h4>
+<div class="outline-text-4" id="text-org0241b4d">
+<ul class="org-ul">
+<li>1/4 cup (56 g) tahini</li>
+<li>1 Tbsp maple syrup</li>
+<li>1/2 lemon, juiced</li>
+<li>2-4 Tbsp hot water to thin</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgbcc4d2d" class="outline-3">
+<h3 id="orgbcc4d2d">Instructions</h3>
+<div class="outline-text-3" id="text-orgbcc4d2d">
+<ol class="org-ol">
+<li>Preheat oven to 400 degrees F and arrange sweet potatoes and onions on a bare baking sheet. Drizzle both with a bit of oil, making sure the flesh of the sweet potatoes are well coated and placed skin side down on the sheet.</li>
+<li>Bake for 10 minutes, then remove from oven flip sweet potatoes and add broccolini. Drizzle broccolini with a bit of oil and season with a pinch each salt and pepper.</li>
+<li>Bake for another 8-10 minutes, then remove from oven and add kale. Drizzle kale with a touch more oil and season with a pinch each salt and pepper. Bake for another 4-5 minutes then set aside.</li>
+<li>While vegetables are roasting, heat a large skillet over medium heat and add chickpeas to a mixing bowl and toss with seasonings.</li>
+<li>Once hot, add 1 Tbsp oil and chickpeas and sauté, stirring frequently. If they're browning too quickly, turn down heat. If there isn't much browning going on, increase heat. I found 10 minutes total at slightly over medium heat was perfect.</li>
+<li>Once the chickpeas are browned and fragrant, remove from heat and set aside.</li>
+<li>Prepare sauce by adding tahini, maple syrup and lemon juice to a mixing bowl and whisking to combine. Add hot water until a pourable sauce is formed. Set aside.</li>
+<li>To serve: Slice sweet potatoes into bite size pieces. Divide vegetables between 3 serving bowls and top with chickpeas + tahini sauce.</li>
+<li>Best when fresh, though leftovers will keep for a few days in the fridge.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgb74dbc6" class="outline-2">
+<h2 id="orgb74dbc6"><span class="timestamp-wrapper"><span class="timestamp">[2018-04-14 Sat] </span></span> Vegetarian Burrito Bowl&#xa0;&#xa0;&#xa0;<span class="tag"><span class="rice">rice</span></span></h2>
+<div class="outline-text-2" id="text-orgb74dbc6">
+<p>
+<a href="http://thefoodiephysician.com/2015/03/dining-with-doc-protein-packed.html">Original link</a>
+</p>
+</div>
+
+<div id="outline-container-org6661d91" class="outline-3">
+<h3 id="org6661d91">Ingredients</h3>
+<div class="outline-text-3" id="text-org6661d91">
+<ul class="org-ul">
+<li>4 Chile Relleno Boca Essentials patties</li>
+<li>3 cups cooked brown rice</li>
+<li>1 cup grape tomatoes, quartered</li>
+<li>1 ½ cups shredded Romaine lettuce</li>
+<li>½ ripe Haas avocado, diced (optional)</li>
+</ul>
+</div>
+
+<div id="outline-container-org4699927" class="outline-4">
+<h4 id="org4699927">Corn salsa:</h4>
+<div class="outline-text-4" id="text-org4699927">
+<ul class="org-ul">
+<li>1 cup cooked corn</li>
+<li>2 tablespoons finely chopped red onion</li>
+<li>1 tablespoon chopped cilantro</li>
+<li>1 teaspoon lime juice</li>
+<li>Salt</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgeae9b45" class="outline-4">
+<h4 id="orgeae9b45">Avocado Cilantro Sauce:</h4>
+<div class="outline-text-4" id="text-orgeae9b45">
+<ul class="org-ul">
+<li>½ ripe Haas avocado</li>
+<li>2 tablespoons nonfat plain Greek yogurt</li>
+<li>2 tablespoons cilantro</li>
+<li>1 ½ teaspoons lime juice</li>
+<li>½ teaspoon honey</li>
+<li>2 tablespoons water</li>
+<li>Kosher salt</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org361fdf0" class="outline-3">
+<h3 id="org361fdf0">Instructions</h3>
+<div class="outline-text-3" id="text-org361fdf0">
+<ol class="org-ol">
+<li>Cook the Chile Relleno Boca Essentials patties according to package directions. Chop them into bite-sized pieces.</li>
+<li>Mix all of the corn salsa ingredients together in a bowl.</li>
+<li>To make the avocado cilantro sauce, puree all of the ingredients in a mini food processor or blender. Adjust seasoning to taste.</li>
+<li>Divide the rice among 4 bowls. Top with equal portions of Boca patties, corn salsa, tomato, lettuce and avocado. Drizzle the avocado cilantro sauce on top. Enjoy!</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

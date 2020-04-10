@@ -1,0 +1,29 @@
+#+TITLE: Vegetable Paella
+#+DATE: 2018-04-14
+#+SETUPFILE: ../recipe.setup
+
+  [[https://realfood.tesco.com/recipes/vegetable-paella.html][Original link]]
+
+* Ingredients
+   - 1 tbsp oil
+   - 1 onion, chopped
+   - 1 garlic clove, finely chopped
+   - 300g paella rice or short grain rice
+   - 2tsp smoked paprika
+   - 900ml (1½pt) vegetable stock
+   - 1 x 400g tin chopped tomatoes
+   - 150g runner beans, sliced on an angle
+   - 1 red pepper, roughly chopped
+   - 1 x 210g tin chickpeas, drained
+   - handful parsley, roughly chopped
+   - 1 tsp dried chilli flakes
+   - 1 lemon, juiced
+   - a pinch of salt
+   - 1 pinch of pepper
+
+* Instructions
+   1. Heat 1 tbsp oil in a large frying pan and cook the onion and garlic for 5 minutes, until softened.
+   2. Stir in the rice, chilli flakes and paprika, cook for a further minute, then add the stock and tomatoes. Bring to the boil and simmer for 10 minutes, stirring occasionally.
+   3. Add the runner beans, pepper and chickpeas and cook for another 10 minutes. Squeeze over the lemon juice and scatter with the parsley.
+   4. Serve with lemon
+

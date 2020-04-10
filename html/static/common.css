@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+html {
+    min-height: 100%
+}
+
+body {
+    font-family: Open Sans, Lora, serif;
+    font-size: 12px;
+    line-height: 1.4;
+    background: linear-gradient(to bottom right,
+                                rgba(251,250,246,1),
+                                rgba(212,206,191,1));
+}
+
+#content {
+    color: #565656;
+    background: #FFF;
+    width: 482px;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    border-radius: 5px;
+    padding: 20px 30px;
+    box-shadow: 1px 1px  20px  -5px  rgba(0,0,0,0.2);
+    border-left: 1px black dashed;
+}
+
+h1 { /* Title */
+    color: #241C3E;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 150%;
+    border-bottom: 3px solid #EDEDEC;
+    padding-bottom: 20px;
+}
+
+#org-div-home-and-up {
+    text-align: center;
+    font-size: 100%;
+    padding-top: 10px;
+    text-transform: lowercase;
+}
+
+a {
+    color: steelblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-shadow: 2px 2px 2px lightgrey;
+}

@@ -1,0 +1,881 @@
+#+TITLE: Recipes
+#+SETUPFILE: theme/theme.setup
+#+OPTIONS: toc:nil creator:nil timestamp:nil html-postamble:nil num:nil
+
+* [2019-12-24] Oat & Lentil "Meat Loaf"
+  [[https://gamechangersmovie.com/recipes/oat-lentil-meat-loaf/][Original link]]
+
+** Ingredients
+   - 2 medium carrots, grated
+   - 1 zuchinni, grated
+   - ½ onion, chopped
+   - 2 cloves garlic, minced or pressed
+   - 300g firm tofu, drained
+   - ¼ cup walnuts, finely ground
+   - ½ cup cooked brown lentils
+   - 1¼ cups quick-cooking oats
+   - 3 tablespoons soy sauce
+   - 2 tablespoons BBQ sauce or ketchup (plus additional for topping)
+   - 1 tablespoon Dijon mustard
+   - 2 teaspoons dried parsley
+   - ½ teaspoon thyme
+   - ½ teaspoon sage
+   - ½ teaspoon rosemary
+     
+** Instructions
+   1. Preheat the oven to 375ºF/190ºC.
+   2. Sauté the carrot, zuchinni, onion, and garlic on high heat in a skillet with a few drops of water for 5 minutes, until tender. Remove from heat and cool.
+   3. Mash the tofu in a large bowl. Stir in the cooked mixture and remaining ingredients, and combine well.
+   4. Spoon the mixture into a parchment-lined loaf pan. Top with a layer of BBQ sauce.
+   5. Bake for 55–60 minutes, or until a toothpick inserted in the center comes out clean.
+      
+** Tips
+   - This meatloaf is wonderful the next day pan-fried on whole grain bread with mustard, pickles, and ketchup.
+
+* [2019-10-02] Edamame Brown Rice Bowl                                 :bowl:
+
+** Ingredients
+*** Tamari scallion sauce
+    - 1 cup sliced green onions
+    - ¼ cup rice vinegar
+    - 2 tbsp orange juice
+    - 4 tsp sesame oil
+    - 1 tsp tamari/soy sauce
+
+*** Other bits
+    - 1 cup cooked brown rice
+    - 4 cup shelled edamame
+    - 1/3 cup roasted sliced almonds (optional)
+
+** Instructions
+   1. Make the sauce by putting all sauce ingredients into the blender until sorta smooth.
+   2. Assemble the bowl with equal parts rice and edamame, then drizzle with a couple tablespoons of sauce. Sprinkle with almonds if so desired. 
+
+* [2019-10-02] Oil-Free Hummus                              :sauce:chickpeas:
+  [[https://elavegan.com/oil-free-hummus/][Original link]]
+
+** Ingredients
+   - One can chickpeas
+   - 1/4 cup (60 g) tahini
+   - 4 tbsp (40 ml) lemon juice (or more to taste)
+   - 1/3 tsp salt or more to taste
+   - 1/4 tsp ground cumin
+   - 4 tbsp (40 ml) plant-based milk (or more for a creamier hummus)
+   - 2-3 small cloves of garlic
+   - 1/3 tsp baking soda
+   - Paprika for serving
+   - Fresh parsley for serving
+
+** Instructions
+   1. Rinse and drain canned chickpeas, then place in a medium saucepan and add 1/3 tsp baking soda. Cover chickpeas by at least 2 inches (ca. 5 cm) of water and bring to a boil over high heat. See recipe notes if you want to cook the chickpeas from dry.
+   2. Boil the chickpeas for about 15 minutes. Once they look overcooked and slightly mushy, they are ready! Drain the chickpeas in a strainer, rinse with plenty of cool water and set aside.
+   3. Process the lemon juice, garlic, salt, cumin, half of the plant-based milk, and tahini in a food processor until the mixture is smooth and creamy. Pause the food processor to scrape down the sides of the processor.
+   4. Add the mushy chickpeas to the food processor and blend for about 1-2 minutes, scraping down the sides of the processor as needed.
+   5. Now add the remaining plant-based milk and blend for a further 1-2 minutes, or until very smooth, creamy and fluffy.
+   6. Taste the hummus and add more salt to taste and more lemon juice, if desired.
+   7. Serve in a bowl and top with more lemon juice (I also added a bit of the chickpea cooking water), a dash of paprika (use smoked paprika for a variation), and fresh herbs.
+   8. Store leftover hummus covered in the refrigerator for up to 5-6 days.
+
+** Notes
+   - If you don't want to use canned chickpeas you can cook them from dry. Here is how:
+   - In a medium bowl, cover 3/4 cup (150 grams) dried chickpeas by at least 2 inches (ca. 5 cm) of cold water.
+   - Add 1/2 tsp baking soda and let soak at room temperature overnight. Drain and rinse.
+   - In a medium pot, cover soaked chickpeas by about 4 inches (ca. 10 cm) of water.
+   - Add 1/2 tsp baking soda and bring to a boil over high heat.
+   - Reduce the heat and simmer until chickpeas are soft, about 1 1/2 hours.
+   - Drain and rinse under running water.
+   - Recipe serves 6. 
+
+* [2019-08-12] Vegan Palak Paneer                                      :rice:
+  [[https://minimalistbaker.com/vegan-palak-paneer-with-curried-tofu/][Original link]]
+
+** Ingredients
+*** Tofu
+    - 1 450g block firm tofu (drained, patted dry, and cubed)
+    - 1 ½ tsp curry powder (or store-bought)
+    - 1 Tbsp coconut aminos
+    - 1/4 tsp sea salt
+    - 2 tsp nutritional yeast (adds a slightly cheesy flavor)
+
+*** Spinach
+    - 5 cups loosely packed fresh spinach (about 170g)
+    - Water
+
+*** Vegetables
+    - 1 ½ Tbsp avocado or coconut oil (or sub water + add more as needed)
+    - 1 ½ tsp cumin seed (or ground cumin)
+    - 2 Tbsp minced ginger
+    - 1 medium diced white onion
+    - 1 serrano or jalapeno pepper (seeds removed, diced // add more or less to preferred spiciness)
+    - 1 can diced tomatoes (slightly drained // or sub fresh chopped ripe tomatoes)
+    - 4 cloves garlic 
+    - 1/4-1/2 cup vegetable broth or water
+
+*** Sauce
+    - 1 ½ Tbsp avocado or coconut oil (or sub water + add more as needed)
+    - 2 tsp curry powder
+    - 1 tsp garam masala
+    - 1/3 cup full fat coconut milk (plus more for serving)
+    -  Sea salt, coconut aminos, or tamari (to taste // we used a few teaspoons of coconut aminos)
+
+*** For serving (optional)
+    - Rice or Quinoa
+    - Cilantro
+    - Garlic Naan
+
+** Instructions
+   1. This recipe is all about multi-tasking and is totally doable in 30 minutes. Start by preheating the oven to 210°C and draining your tofu. Then wrap in a clean towel and set something heavy on top. (This step can also be done in advance with a tofu press.)
+   1. Cube tofu and add to a medium mixing bowl. Season with curry powder, coconut aminos, sea salt, and nutritional yeast. Shake the bowl to gently toss. Set aside.
+   1. Heat a medium oven-safe seasoned cast iron over medium heat (if using a stainless steel skillet, add a little oil so it doesn’t stick). Once hot, add the tofu and sauté for 3-4 minutes, or until a couple of the sides are browned. Then transfer to the hot oven and bake for 15 minutes. If you prefer firmer tofu, bake longer. If you want softer tofu that mocks paneer, bake less. Set aside to rest in the pan.
+   1. Fill a large pot halfway full with water and bring to a boil over high heat. While you wait, move on to the next step.
+   1. Heat a large rimmed skillet over medium heat. Once hot, add oil and cumin seed, ginger, onion, and serrano pepper. Sauté until onion is soft and translucent — about 5 minutes.
+   1. Add diced tomatoes and garlic and stir to combine. Sauté for 3-4 minutes, or until the tomato has softened.
+   1. Your water should be boiling now. Add spinach and cook uncovered for 2 minutes. Then strain and rinse with cold water. Drain well. Set aside.
+   1. Add the tomato mixture to a blender or food processor along with cooked drained spinach and the vegetable broth (or water). Blend into a smooth sauce, scraping down sides as needed. If it has trouble blending, add more vegetable broth or water.
+   1. Lastly, cook your sauce. Heat the same rimmed skillet from earlier over medium heat. Once hot, add remaining oil (or some water), curry powder, and garam masala. Stir and cook for 30 seconds.
+   1. Add the spinach sauce and stir. Cook the mixture over medium-low heat for about 3-4 minutes to deepen the flavors. If it bubbles too much, lower heat to a simmer. Then add coconut milk and stir.
+   1. Taste and adjust flavor as needed, adding salt or coconut aminos to deepen the flavor and curry powder for more rich curry flavor.
+   1. Serve over your tofu “paneer” and garnish with another drizzle of full fat coconut milk and fresh cilantro. Rice makes a lovely side, as does garlic naan! Store leftovers covered in the refrigerator up to 4-5 days, or in the freezer up to 1 month. Reheat in the microwave or in a rimmed skillet until hot.
+
+* [2019-05-30] Almond butter tofu stir-fry                        :tofu:rice:
+  [[https://minimalistbaker.com/almond-butter-tofu-stir-fry/][Original link]]
+
+** Ingredients
+*** Tofu
+    - 340 g package extra firm tofu
+
+*** Marinade
+    - 2 Tbsp sesame oil (divided)
+    - 4 Tbsp reduced-sodium tamari (or soy sauce if not GF)
+    - 3 Tbsp maple syrup
+    - 2 Tbsp almond butter (or sub peanut butter)
+    - 2 Tbsp lime juice
+    - 1-2 tsp chili garlic sauce (or 1/2 tsp red pepper flake)
+
+*** Veggies
+    - 453 g green beans (trimmed)
+    - 2-3 small spicy peppers (I used cherry bomb - use bell peppers for less heat)
+
+*** Serving (optional)
+    - Brown rice, white rice, or Cauliflower Rice
+
+** Instructions
+   1. Preheat oven to 200 degrees C and line a baking sheet with parchment paper. Also wrap tofu in a clean, absorbent towel and set something heavy on top - like a cast-iron skillet - to press out excess moisture.
+   1. Once oven is preheated, unwrap tofu and cut into small cubes. Arrange on the lined baking sheet in an even layer and bake for 25-30 minutes or until puffy, dried out, and slightly crispy on the edges (see photo). This step helps crisp up the tofu. The longer you bake it, the firmer and crispier it will get, so adjust cooking time accordingly.
+   1. In the meantime, to a small mixing bowl, add half of the sesame oil (1 Tbsp as original recipe is written // adjust if altering batch size), tamari, maple syrup, almond butter, lime juice, and chili garlic sauce/red pepper flake/Thai chilies. Whisk to combine. Then taste and adjust flavor as needed, adding more almond butter for creaminess / nuttiness, tamari for saltiness, lime juice for acidity, or chili garlic sauce for heat. Set aside.
+   1. If serving with rice, prepare at this time (see notes).
+   1. Add baked tofu to the almond butter-tamari sauce and let marinate for 5 minutes, stirring occasionally. The longer it marinates, the more intense the flavor, but I find 5-10 minutes to be sufficient.
+   1. Heat a large skillet over medium heat. Once hot, add the tofu, leaving most of the marinade behind (this will be added to the vegetables for flavor).
+   1. Cook for about 5 minutes, stirring occasionally, until browned on all sides and slightly caramelized. Remove from pan and set aside.
+   1. To the skillet, add remaining sesame oil (1 Tbsp as original recipe is written // adjust if altering batch size), green beans and peppers and 2-3 Tbsp (30-45 ml // amount as original recipe is written // adjust if altering batch size) of the marinade. Cover to steam for about 4-5 minutes or until green beans are slightly tender. Then remove lid, increase heat to medium high, and add remaining marinade and the tofu. Cook for an additional 1-2 minutes, stirring frequently. Then remove from heat.
+   1. Serve as is or over cooked rice or cauliflower rice. For more heat, serve with chili garlic sauce or Sriracha.
+   1. Best when fresh. Store leftovers in the refrigerator up to 3 days. Reheat on the stovetop or in the microwave until hot.
+
+* [2019-05-28] Creamy Pasta Soup                                 :pasta:soup:
+  [[https://elavegan.com/creamy-pasta-soup-recipe/][Original link]]
+
+** Ingredients
+*** For the soup:
+    - 1 large (225 g) carrot, peeled and chopped
+    - 1-2 stalks (75 g) celery, chopped
+    - 200 g broccoli florets
+    - 1/2 tbsp oil
+    - 1 medium onion, diced
+    - 4 garlic cloves, minced
+    - 5-6 cups (1200-1400 ml) vegetable broth
+    - Spice mix: 2 tsp onion powder, 2 tsp Italian seasoning, 1-2 tsp ground lovage (or to taste), salt and pepper to taste
+    - 200 g pasta (I used gluten-free)
+    - Fresh herbs to garnish
+
+*** Cashew-Cannellini Cream:
+    - One 400g g can white cannellini beans (drained and rinsed)
+    - 1/2 cup (75 g) cashews soaked (*see recipe notes)
+    - 1 1/2 cups plant-based milk
+    - 1 tbsp lemon juice
+    - 1/4 tsp salt
+
+** Instructions
+   1. Soak cashews for a couple of hours OR boil them for 20 minutes in water until they are soft. Once the cashews are soft, transfer them to a blender, add the cannellini beans, the plant-based milk, lemon juice & salt and blend on high speed for about 2 minutes or until super smooth and creamy. Set aside.
+   1. For the soup: Heat oil in a large pot over medium heat, add the onion, all veggies and fry for about 4 minutes. Then add the garlic, the spices and fry for a further minute.
+   1. Add in the veggie broth (I first used 5 cups but had to add another cup later). Bring to a boil and then reduce the heat.
+   1. Now add the cashew-cannellini cream and stir. Let the soup simmer for about 6-8 minutes.
+   1. Finally, add pasta of choice and let the soup simmer for about 8-10 minutes or until the pasta is al-dente (check the package instructions). Stir frequently! If the soup is too thick either add more veggie broth or plant-based milk! Taste and adjust seasoning. You will most likely need to add more salt!
+   1. Garnish with fresh herbs and enjoy!
+
+*** Notes
+    For a nut-free version, simply use 75 grams of hemp seeds!
+
+* [2019-05-28] Vegetarian Chili                                     :mexican:
+  [[https://cookieandkate.com/vegetarian-chili-recipe/][Original link]]
+
+** Ingredients
+   - 2 tablespoons extra-virgin olive oil
+   - 1 medium red onion, chopped
+   - 1 large red bell pepper, chopped
+   - 2 medium carrots, chopped
+   - 2 ribs celery, chopped
+   - ½ teaspoon salt, divided
+   - 4 cloves garlic, pressed or minced
+   - 2 tablespoons chili powder*
+   - 2 teaspoons ground cumin
+   - 1 ½ teaspoons smoked paprika*
+   - 1 teaspoon dried oregano
+   - 1 large can (800 g) or 2 small cans (400 g) diced tomatoes**, with their juices
+   - 2 cans (800 g) black beans, rinsed and drained
+   - 1 can (400 g) pinto beans, rinsed and drained
+   - 2 cups vegetable broth or water
+   - 1 bay leaf
+   - 2 tablespoons chopped fresh cilantro, plus more for garnishing
+   - 1 to 2 teaspoons sherry vinegar or red wine vinegar or lime juice, to taste
+   - Garnishes: chopped cilantro, sliced avocado, tortilla chips, sour cream or crème fraîche, grated cheddar cheese, etc.
+
+** Instructions
+   1. In a large Dutch oven or heavy-bottomed pot over medium heat, warm the olive oil until shimmering. Add the chopped onion, bell pepper, carrot, celery and ¼ teaspoon of the salt. Stir to combine and cook, stirring occasionally, until the vegetables are tender and the onion is translucent, about 7 to 10 minutes.
+   1. Add the garlic, chili powder, cumin, smoked paprika and oregano. Cook until fragrant while stirring constantly, about 1 minute.
+   1. Add the diced tomatoes and their juices, the drained black beans and pinto beans, vegetable broth and bay leaf. Stir to combine and let the mixture come to a simmer. Continue cooking, stirring occasionally and reducing heat as necessary to maintain a gentle simmer, for 30 minutes.
+   1. Remove the chili from the heat.
+   1. For the best texture and flavor, transfer 1 ½ cups of the chili to a blender, making sure to get some of the liquid portion. Securely fasten the lid and blend until smooth (watch out for hot steam), then pour the blended mixture back into the pot. (Or, you can blend the chili briefly with an immersion blender, or mash the chili with a potato masher until it reaches a thicker, more chili-like consistency.)
+   1. Add the chopped cilantro, stir to blend, and then mix in the vinegar, to taste. Add salt to taste, too---I added ¼ teaspoon more at this point.
+   1. Divide the mixture into individual bowls and serve with garnishes of your choice. This chili will keep well in the refrigerator for about 4 days or you can freeze it for longer-term storage.
+
+* [2019-05-22] Curried Chickpea and Quinoa           :chickpeas:curry:quinoa:
+  [[https://naturallyella.com/curried-chickpea-bowls/][Original link]]
+
+** Ingredients
+*** Chickpeas
+    - 2 teaspoons olive oil
+    - 2 shallots, minced
+    - 2 cloves garlic, minced
+    - 1 tablespoon curry powder
+    - 1/2 cup cream or coconut milk
+    - 2 cups chickpeas
+    - Vegetable broth, as needed
+    - Salt, as needed
+
+*** Serving
+    - 1 cup cooked quinoa
+    - 2 tablespoons parsley
+    - 1 to 2 tablespoons lemon juice
+
+** Instructions
+   1. Heat a pot or dutch oven over medium-low heat. Add the shallot and cook for 3 to 4 minutes, until soft and fragrant. Stir in the garlic, cooking for another 1 to 2 minutes. Add the curry powder, followed by the cream or coconut milk.
+   1. Add the chickpeas and a splash of vegetable broth or water. Cook on low until the chickpeas are hot and tender, 6 to 8 minutes. If needed, add a splash or two of vegetable broth of coconut milk.
+   1. Serve the curried chickpeas over the quinoa and sprinkle with parsley/feta. Serve with lemon wedges if desired.
+
+* [2019-05-14] Firecracker Vegan Lettuce Wraps                   :spicy:tofu:
+  [[https://pinchofyum.com/vegan-lettuce-wraps][Original link]]
+
+** Ingredients
+*** Sauce
+    - 1/2 cup peanut butter
+    - 1/3 cup low sodium soy sauce
+    - 1/3 cup sesame oil
+    - 1/4 cup rice vinegar
+    - 2 tablespoons chili paste (like sambal oelek) ++ for more
+    - firecrackery-ness
+    - 2 tablespoons sugar
+    - a small knob of fresh ginger, peeled
+    - a clove of fresh garlic, peeled
+
+*** Other
+    - 1 container extra firm tofu (see notes)
+    - 150 g brown rice noodles
+    - lettuce leaves for wrapping
+    - peanuts, cilantro, lime for serving
+
+** Instructions
+   1. Noodle Prep: Soak your noodles in a bowl of lukewarm water for at least 30 minutes while prepping the rest of the recipe. You want the noodles to be soft and flexible.
+   2. Sauce: Blend all the sauce ingredients together in a small blender or food processor until smooth and creamy.
+   3. Tofu: Press the tofu with a few paper towels to get some of the moisture out. Cut the tofu into small pieces. Heat a little oil in a nonstick skillet. Add your tofu. Stir-fry until golden brown. I usually let it sauté for at least 15 minutes. Add about half of the sauce to the pan. Stir-fry for another 3-5 minutes. As the sauce browns, it will form small crispy pieces around the tofu. Yum! Transfer tofu to a bowl.
+   4. Noodles: Drain and rinse your noodles. Add another swish of oil to the pan and plop the noodles in. Add about half of the remaining sauce. Stir fry for just a minute or two until coated. Add a splash of water if it's too sticky. Remove from heat immediately and toss with the tofu.
+   5. Lettuce Wrap It Up: Fill your butter lettuce leaves with the noodle/tofu mixture (it's okay if it's sticky -- you're just wrapping it up in lettuce). Top with peanuts, cashews, cilantro, scallions, lime, and/or Sriracha if you want.
+
+* [2019-05-12] Curried Sweet Potato and Lentil Soup            :soup:lentils:
+  [[http://leitesculinaria.com/106497/recipes-curried-sweet-potato-and-lentil-soup.html][Original link]]
+
+** Ingredients
+   - 500g sweet potatoes (1 to 2 sweet potatoes)
+   - 2 cups (350 grams) red split lentils
+   - 1 to 2 teaspoons mild olive or vegetable oil
+   - 1 1/2 to 3 tablespoons (up to 112 grams) red curry paste
+   - 6 1/2 cups (1.5 liters) stock (whether beef stockor chicken stock or
+   - vegetable stock), plus more as needed
+   - Juice of 2 limes (3 to 4 tablespoons)
+   - Coarse black pepper
+   - Sea salt flakes
+   - Cilantro, crushed peanuts, or coconut milk for garnish (optional)
+
+** Instructions
+   1. Peel the sweet potatoes and chop them into 1/2-inch (1-cm) dice.
+   2. Rinse the lentils in a sieve under cold running water until the water runs clear.
+   3. Heat a large saucepan or pot---one that has a lid--- over medium-high heat. Add the oil and red curry paste and stir-fry just until it becomes strongly aromatic, about 1 minute. If you like things with just a mild heat, add just 1 1/2 tablespoons red curry paste. If you like things hotter, opt for 2 to 3 tablespoons red curry paste.
+   4. Add the potato and lentils and stir to coat them with the paste. Pour in the stock and bring everything to a boil. Reduce the heat to a very gentle simmer, cover, and gently simmer just until the lentils and sweet potato are soft, 25 to 35 minutes. Remove from the heat.
+   5. If using a blender or food processor, let the soup cool for at least 10 minutes and then carefully ladle it into a food processor and blitz until smooth, working in batches if necessary. The soup will be quite thick. If a thinner soup is desired, add stock as necessary. Return the soup to the pan and, if necessary, rewarm over low heat. If using an immersion or stick blender, stick the blender straight in the pot and puree until smooth. If a thinner soup is desired, add stock as necessary. If necessary, rewarm over low heat.
+   6. Add a generous pinch of pepper and the lime juice to the soup and stir to combine. Serve immediately and, if desired, garnish with cilantro, peanuts, or a drizzle of coconut milk. Serve immediately (As with most soups, this freezes just fine in an airtight container or portioned in individual servings in resealable plastic bags. Defrost and rewarm over low heat before serving. Keep in mind that the soup will thicken in the fridge or freezer, so you'll need to add more stock or water when rewarming it to attain the original consistency.)
+
+* [2019-04-09] Vegan Meatballs with Gravy                              :rice:
+  [[https://elavegan.com/vegan-meatballs-gravy-gluten-free-recipe/][Original link]]
+
+** Ingredients
+*** Vegan meatballs:
+    - One 400 g can black beans , drained and rinsed (250 g)
+    - 1/4 cup sunflower seeds (35 g)
+    - 1/2 cup oats (gluten-free if needed) (45 g)
+    - 2 tbsp tomato paste (60 g)
+    - 2 cloves of garlic
+    - 1/2 large onion, chopped
+    - 2 tbsp ground chia seeds or flax seeds
+    - Spice mix: 1/2 tbsp onion powder, 1 tsp garlic powder, 1 tsp ground
+    - oregano, 1 tsp ground cumin, 1/2 tsp smoked paprika, 1/4 tsp red pepper
+    - flakes
+    - Sea salt and pepper to taste
+    - Oil for frying
+
+*** Mashed taters:
+    - 6 medium-sized potatoes
+    - 1/4 cup coconut milk canned (60 ml) (*see recipe notes)
+    - 1/2 tsp nutmeg (or more/less to taste)
+    - black pepper, sea salt to taste
+
+*** Gravy:
+    - 1 1/2 cups vegetable broth or water (360 ml)
+    - 1/3 cup plant-based cream or canned coconut milk (80 ml)
+    - 2 tbsp tomato paste (60 g)
+    - 1/2 tsp fresh ginger (minced)
+    - Ground spice mix: 3 tsp curry powder, 1 1/2 tsp onion powder, 1 tsp
+    - garlic powder, 1 tsp oregano, 1 tsp cumin, 1 tsp turmeric, 1/2 tsp
+    - nutmeg, 1/2 tsp smoked paprika, 1/4 tsp red pepper flakes, 1 tsp coconut
+    - sugar (or brown sugar), sea salt and pepper to taste
+    - 1 tbsp cornstarch (to thicken)
+    - Fresh parsley to garnish
+
+** Instructions
+   1. Preheat oven to 390 degrees F (200 degrees C).
+   2. Prepare mashed potatoes as described in this recipe or make your favorite pasta or rice (whatever you want to serve with your vegan meatballs).
+
+*** Meatballs:
+    1. Put all ingredients (except oil) to a food processor or blender and pulse a couple of times. Scrape down the sides and pulse again. Repeat for about one minute or until the mixture sticks together.
+    2. Roll the mixture with your hands into balls. I used 1 tbsp per ball (the recipe makes about 15 balls).
+    3. Heat 2-3 tbsp oil in a pan/skillet and fry balls for about 6-8 minutes over medium heat. Shake the pan from time to time to fry the balls evenly from all sides.
+    4. Transfer the balls to a baking sheet and bake in the oven for about 20 minutes.
+
+*** Mashed taters:
+    1. Peel and chop potatoes, transfer them to a pot with salted water and bring to a boil.
+    2. Cook on medium heat for about 15 minutes or until tender, drain.
+    3. Transfer back to the pot, add coconut milk, nutmeg, black pepper and sea salt to taste and mash with a potato masher (don't use a food processor or blender).
+
+*** Gravy:
+    1. To make the gravy, simply add the tomato paste to a pan (use the same pan which you used for the vegan meatballs), pour in the plant-based cream and stir with a whisk to smooth out the tomato paste. Then slowly add the vegetable broth while stirring.
+    2. Bring the sauce to a boil, add all other ingredients (except cornstarch and fresh parsley) and let simmer over medium heat for about 10-12 minutes (the longer you simmer the gravy, the more flavorful and thicker it will be).
+    3. In a small bowl mix cornstarch with a little bit of water and add it to the pan. The gravy will get a little bit thicker. Keep simmering for a further 2-3 minutes.
+    4. Pour the gravy over the vegan meatballs and serve with either mashed potatoes, pasta or rice! Store leftovers of the gravy in a container in the fridge (can be kept in the fridge for about 3-4 days).
+
+* [2019-02-19] Coconut Chana Saag                      :curry:rice:chickpeas:
+
+** Ingredients
+   - 2 tablespoons coconut oil
+   - 1 onion
+   - 3 cloves garlic
+   - 2 tablespoons minced ginger
+   - 2 tablespoons curry powder - need more
+   - 1 teaspoon salt
+   - Black pepper
+   - 1/2 teaspoon anise seed (or crushed fennel seeds) - need more
+   - 1/2 teaspoon garam masala
+   - 1/2 teaspoon ground cumin
+   - 1/2 teaspoon cayenne
+   - 1 can whole tomatoes
+   - 2 cans chickpeas
+   - 200g chopped kale
+   - 1 can coconut milk
+   - 2 tablespoons lime juice
+   - Basmati rice, mango chutney, coriander for serving
+
+** Instructions
+   1. Preheat pot over medium heat and add coconut oil and onions. Saute for 5-7 min
+   2. Add garlic, ginger and cook for 30s, before adding curry powder, salt, pepper, anise seeds, garam masala, cumin, cayenne. Toast spices for a bit
+   3. Add tomato juice from can and mix in. Then squish the tomatos in your hand to mash them and add to pot. Add chick peas also
+   4. Cover pan and simmer for 10 min, stirring occasionally
+   5. Stir in kale until wilted then simmer for another 5 min
+   6. Add coconut milk and heat through. Add lime juice and season
+   7. Serve with rice, chutney and corriander
+
+* [2019-02-07] 1 Pot Lentil Dal                               :rice:noexport:
+  [[https://minimalistbaker.com/1-pot-lentil-dal/][Original link]]
+
+** Ingredients
+   - Rice
+   - 2 Tbsp (30 g) coconut oil*
+   - optional: 1 small green chili
+   - 1 Tbsp (3 g) minced fresh ginger
+   - 1 shallot, thinly sliced
+   - 3 cloves garlic, minced (1.5 Tbsp or 9 g)
+   - 4 Tbsp (60 g) Green Curry Paste (DIY or store-bought)
+   - 2 1/4 cups (540 ml) light coconut milk* (canned is best)
+   - 1 tsp ground turmeric
+   - 1 tsp curry powder (store-bought or DIY)
+   - Pinch each sea salt + black pepper
+   - 1 cup (192 g) green lentils*, well rinsed and drained
+   - 1 tsp coconut aminos or tamari (or soy sauce if not GF)
+   - 1-2 Tbsp (12-24 g) coconut sugar or maple syrup (or other sweetener to taste)
+   - 2 Tbsp (30 ml) fresh lemon juice
+   - optional: pinch cayenne pepper (for more heat), cilantro and lemon/lime wedges
+
+** Instructions
+   1. Set rice cooking
+   2. Heat a large pot over medium heat. Once hot, add coconut oil, green chili (optional), ginger, shallot, and garlic. Sauté for 3-4 minutes, stirring occasionally. Reduce heat if browning too quickly.
+   3. Add curry paste and stir to coat. Sauté for another 2-3 minutes. Then add coconut milk, turmeric, curry powder, salt, and pepper. Stir to combine.
+   4. Bring to a simmer over medium heat. Once simmering, add the lentils, coconut aminos (or tamari), coconut sugar (or maple syrup), and lemon juice and stir.
+   5. Bring the mixture back to a simmer, and then reduce heat to low or medium-low and continue gently simmering for 15-20 minutes or until lentils are tender.
+   6. Once the lentils are tender, taste and adjust flavor as needed, adding more lemon juice for acidity, a pinch of cayenne for heat (optional), curry powder or paste for more intense curry flavor, salt for saltiness, or coconut sugar or maple syrup for sweetness. The curry should be equally tangy and salty with a hint of sweetness and spice.
+   7. Serve the dal as is or over rice of choice (I love white or brown rice, but it's also delicious over cauliflower rice). Garnish with lemon or lime wedges and cilantro (optional).
+   8. Store leftovers in the refrigerator up to 4-5 days or in the freezer for 1 month.
+
+* [2018-09-08] Pizza Dough                                            :bread:
+  [[https://www.mom4real.com/homemade-pizza-dough-recipe/][Original link]]
+
+** Ingredients
+   - 3.5 Cups Bread or All-Purpose Flour
+   - 1 Teaspoon Sugar
+   - 1 Envelope Instant Dry Yeast
+   - 2 Teaspoons Kosher Salt
+   - 1.5 Cups Warm Water
+   - 2 Tablespoons Olive Oil
+
+** Instructions
+   1. Mix together flour, sugar, dry yeast and kosher salt. Slowly add water and olive oil. Mix together until dough forms into a ball. If the dough is too sticky, add a tablespoon of flour until it forms a ball. If the dough is too dry, add a tablespoon of warm water until it forms a ball. Once your dough is formed, knead into a smooth firm ball on a floured surface.
+   2. Grease a large bowl with olive oil and place your dough in the bowl. Cover with plastic wrap, and let sit for at least an hour.
+   3. The dough will double in size. Now flour your surface and cut the dough in half. Place a damp cloth over the dough and allow it to sit for 10 minutes. Now it's time to roll your dough out into whatever shape you like, while gently pulling the dough to stretch it.
+
+* [2018-08-24] My overnight oats                                  :breakfast:
+
+** Ingredients
+   - 1 banana
+   - 1/2 cup of rolled oats
+   - 3/4 cup of oat milk
+   - Shredded coconut
+   - 1 teaspoon of chia seeds
+   - 1-2 chopped dates
+
+** Instructions
+   1. Mush banana at the base of a glass jar
+   2. Add all other ingredients and mix
+
+* [2018-08-18] Chickpea Carrot Patties                              :patties:
+
+** Ingredients
+   - 1 carrot
+   - 1 clove garlic
+   - 1 can chickpeas
+   - 1.5 tsp ground cumin
+   - 1.5 tsp parsley
+   - Salt + pepper
+   - 1 large egg (or aquafaba)
+   - 2 tbsp plain flour
+
+** Instructions
+   1. Grate carrot coarsely and put aside
+   2. Combine chickpeas, garlic, spices on food processor. Slightly process into rough paste
+   3. Add carrot, egg, flour. Process until blended, but rugged
+   4. Fry 2-3 minutes each side
+
+* [2018-08-03] Coconut Curry Lentil Soup                               :soup:
+  [[http://vegangela.com/2014/01/09/coconut-curry-lentil-soup/][Original link]]
+
+** Ingredients
+   - 1 tbsp coconut oil (or olive oil)
+   - 1 large onion, chopped
+   - 2 cloves garlic, minced
+   - 1 tbsp fresh ginger, minced
+   - 2 tbsp tomato paste (or ketchup)
+   - 2 tbsp curry powder
+   - ½ tsp hot red pepper flakes
+   - 4 cups vegetable broth
+   - 1 400ml can coconut milk
+   - 1 400g can diced tomatoes
+   - 1.5 cups dry red lentils
+   - 2-3 handfuls of chopped kale or spinach
+   - salt and pepper, to taste
+   - Garnish: chopped cilantro (fresh coriander) and/or vegan sour cream
+
+** Instructions
+   1. In a stockpot, heat the coconut oil over medium heat and stir-fry the onion, garlic and ginger until the onion is translucent, a couple minutes.
+   2. Add the tomato paste (or ketchup), curry powder, and red pepper flakes and cook for another minute.
+   3. Add the vegetable broth, coconut milk, diced tomatoes and lentils. Cover and bring to a boil, then simmer on low heat for 20-30 minutes, until the lentils are very tender. Season with salt and pepper.
+   4. {Make-Ahead: May be cooled, frozen in air-tight containers, and re-heated over medium-low heat.}
+   5. Before serving, stir in the kale/spinach and garnish with cilantro and/or vegan sour cream.
+
+* [2018-07-31] Quinoa Enchilada Casserole                    :mexican:quinoa:
+  [[https://minimalistbaker.com/mediterranean-baked-sweet-potatoes/][Original link]]
+
+** Ingredients
+   - 1 cup quinoa
+   - Enchilada sauce
+   - Capsicum
+   - Avocado
+   - Green chilies
+   - Corn
+   - Black beans
+   - Cilantro
+   - Cumin
+   - Chili powder
+   - 0.5 cup nutritional yeast
+   - 0.5 - 1 cup bread crumbs
+
+** Instructions
+   1. In a large saucepan of 2 cups water, cook quinoa according to package instructions; set aside.
+   2. Preheat oven to 375 degrees F. Lightly oil an 8×8 or 2 quart baking dish or coat with nonstick spray.
+   3. In a large bowl, combine quinoa, enchilada sauce, green chiles, corn, black beans, cilantro, cumin and chili powder; season with salt and pepper, to taste. Stir in nutritional yeast.
+   4. Spread quinoa mixture into the prepared baking dish. Top with bread crumbs. Place into oven and bake, about 15 minutes.
+   5. Serve immediately, garnished with avocado and tomato, if desired.
+
+* [2018-07-15] Vege Chilli Con Carne                                :mexican:
+  [[http://www.jamieoliver.com/recipes/vegetables-recipes/veggie-chilli/][Original link]]
+
+** Ingredients
+   - 2 medium sweet potatoes (500g)
+   - 1 level teaspoon cayenne pepper, plus extra for sprinkling
+   - 1 heaped teaspoon ground cumin, plus extra for sprinkling
+   - 1 level teaspoon ground cinnamon, plus extra for sprinkling
+   - olive oil
+   - 1 onion
+   - 1 red pepper
+   - 1 yellow pepper
+   - 2 cloves of garlic
+   - 1 bunch of fresh coriander
+   - 1 fresh red chilli
+   - 1 fresh green chilli
+   - 2 400 g tinned beans, such as kidney, chickpea, pinto, cannellini
+   - 2 400 g tins of quality plum tomatoes
+
+** Instructions
+   1. Preheat the oven to 200°C.
+   2. Peel and chop the sweet potatoes into bite-sized chunks, then place onto a baking tray.
+   3. Sprinkle with a pinch each of cayenne, cumin, cinnamon, sea salt and black pepper, drizzle with oil then toss to coat. Roast for 40 minutes, or until golden and tender.
+   4. Peel and roughly chop the onion. Halve, deseed and roughly chop the peppers, then peel and finely chop the garlic.
+   5. Pick the coriander leaves, finely chopping the stalks. Deseed and finely chop the chillies.
+   6. Meanwhile, heat 2 tablespoons of oil in a large pan over a medium-high heat, add the onion, peppers and garlic, and cook for 5 minutes.
+   7. Add the coriander stalks, chilli and spices, and cook for a further 5 to 10 minutes, or until softened, stirring occasionally.
+   8. Drain and add the beans. Tip in the tomatoes, breaking them up with the back of a spoon, then stir well.
+   9. Bring to the boil, then reduce to medium-low and leave to tick away for 25 to 30 minutes, or until thickened and reduced -- keep an eye on it, and add a splashes of water to loosen, if needed.
+   10. Stir the roasted sweet potato through the chilli with most of the coriander leaves, then taste and adjust the seasoning, if needed.
+   11. Scatter over the remaining coriander. Delicious served with soured cream, guacamole and rice or tortilla chips.
+
+* [2018-06-12] Roast Carrot Lentil Curry Bowls              :rice:sauce:bowl:
+  [[http://pinchofyum.com/lentil-curry-bowls-with-cilantro-cashew-sauce ][Original link]]
+
+** Ingredients
+*** For the Cilantro Cashew Sauce:
+    - 1/2 cup fresh cilantro
+    - 3/4 cup cashews (mine were salted)
+    - ? cup water
+    - 1/4 teaspoon salt
+    - juice of 2 limes
+    - 1 clove garlic (optional)
+    - 1-2 teaspoons honey
+
+*** For the Roasted Carrots:
+    - 8-10 carrots, peeled and chopped into chunks
+    - 1 tablespoon olive oil
+    - 1 teaspoon garam masala
+    - 1/2 teaspoon chili powder
+    - salt to taste
+
+*** For the Rice and Lentil Curry:
+    - 1 cup basmati rice
+    - 1 tablespoon oil
+    - 1/2 cup chopped onion
+    - 2 cloves garlic
+    - 2 tablespoons red Thai curry paste
+    - 1 teaspoon garam masala
+    - 1/2 teaspoon cumin seed (or ground cumin)
+    - 1 cup brown lentils, rinsed
+    - 400 g tomato puree (passata)
+    - 2 cups chicken or vegetable broth
+    - pinch of salt
+    - avocado and cilantro for topping
+
+** Instructions
+   1. For the sauce, puree all ingredients in a food processor or blender until smooth. Taste and adjust.
+   2. For the carrots, toss all ingredients together. Roast at 450 degrees for 20-30 minutes or until golden brown and roasty. <-- favorite word.
+   3. Cook the rice according to package directions. I used a rice cooker.
+   4. For the curry, heat the oil in a skillet over medium heat. Add the onion and garlic; saute for 3-5 minutes. Add the curry paste and spices; saute for 2-3 minutes.
+   5. Add the lentils, tomato sauce, and broth. Simmer until lots of the liquid has evaporated - continue adding ½ cup of liquid as needed (the lentils will just keep soaking it up). Repeat this process for about 30-45 minutes until the lentils are soft.
+   6. Add the rice to the lentil mixture; stir to combine, adding extra broth or water as necessary. Season with salt.
+   7. Serve in bowls topped with the roasted carrots, avocado slices, cilantro, and cilantro cashew dressing.
+
+* [2018-05-14] Aussie Damper                                 :bread:noexport:
+  [[https://foodequalshappyme.com/2013/01/13/aussie-damper/][Original link]]
+
+** Ingredients:
+   - 3 cups self raising flour
+   - Pinch of salt
+   - 80g chilled butter
+   - 3/4 cup of water
+
+** Instructions
+   1. Sift flour and salt in a bowl. Cut the chilled butter into cubes and rub into the flour with your fingertips until the mixture looks like breadcrumbs.
+   2. Make a well in the center and add the water. Using a butter knife in a cutting motion mix until the mixture comes together. If it looks a little dry you can add a little extra water.
+   3. Turn the mixture out onto a floured surface, and pull it together with your hands. Knead it gently for 1-2mins or until it becomes smooth. Shape it into a round and using a knife dipped in flour, lightly mark 8 wedges on the top.
+   4. Place it on a baking tray lined with baking paper. Sprinkle the top with flour, and bake for 35mins at 200 degrees celcius, or until golden and when tapped underneath sounds hollow.
+   5. Leave it to cool on a wire rack for 30mins. If you cut it too soon it will look undercooked, however it just needs time to rest before cutting.
+
+* [2018-05-14] Classic Italian Bread                         :bread:noexport:
+  [[http://www.girlversusdough.com/2014/09/18/classic-italian-bread/][Original link]]
+
+** Ingredients
+   - 2 1/4 teaspoons (1 packet) Red Star active dry yeast
+   - 1 teaspoon granulated sugar
+   - 1 cup warm water (about 110 degrees F)
+   - 2 1/2 cups bread or all-purpose flour
+   - 2 tablespoons olive oil
+   - 1 teaspoon salt
+
+** Instructions
+   1. In a large bowl or bowl of a stand mixer, combine yeast, sugar and warm water. Let stand 5 minutes until yeast is foamy.
+   2. Add 2 cups flour, olive oil and salt. Stir with a wooden spoon or with a dough hook on low speed until a shaggy dough forms. Turn dough out onto a lightly floured surface and knead by hand 10 minutes, adding just enough of the remaining flour until a soft, smooth and elastic dough forms; OR, increase dough hook speed to medium and knead dough in stand mixer 5 minutes, adding just enough of the remaining flour until a soft, smooth and elastic dough forms.
+   3. Shape dough into a ball; place in an oiled bowl and turn to coat. Cover bowl with plastic wrap and let dough rise 1 hour until doubled.
+   4. Heat oven to 400 degrees F. Line a baking sheet with a silicone mat or lightly grease the surface with oil or cooking spray. On a lightly floured surface, punch down dough, then carefully shape into a batard/torpedo about 12 inches long. Transfer to prepared baking sheet. Cover with a tea towel and let rise another 20 minutes until puffy.
+   5. Use a serrated knife to make a few ¼-inch deep slits in the surface of the loaf. Bake loaf 20 minutes until golden brown. Cool completely on a cooling rack before slicing.
+
+* [2018-05-14] Creamy Jalapeno Avocado Sauce                          :sauce:
+  [[https://livingfoodlove.wordpress.com/2014/05/29/raw-vegan-creamy-jalapeno-avocado-sauce/][Original link]]
+
+** Ingredients
+   - 2 avocados
+   - 2 fresh jalenpenos, seeded
+   - Juice of 1 lemon
+   - 5.8 cup water
+   - 1/6 cup cashew butter
+   - 1.5 tbsp shallots
+   - 2 tbsp cilantro
+
+** Instructions
+   1. Blend
+
+* [2018-05-14] Mediterranean Baked Sweet Potatoes    :mediterranean:noexport:
+  [[https://minimalistbaker.com/mediterranean-baked-sweet-potatoes/][Original link]]
+
+** Ingredients
+   - 4 medium sweet potatoes* (~140 g each)
+   - 1 can (400 g) chickpeas, rinsed and drained
+   - 1/2 Tbsp olive oil
+   - 1/2 tsp each cumin, coriander, cinnamon, smoked (or regular) paprika
+   - optional: Pinch of sea salt or lemon juice
+
+*** Garlic herb sauce
+    - 1/4 cup (60 g) hummus (or tahini)
+    - juice of 1/2 lemon (~1 Tbsp)
+    - 3/4 - 1 tsp dried dill (or sub 2-3 tsp fresh)
+    - 3 cloves garlic, minced (1 1/2 Tbsp or 9 g)
+    - Water or unsweetened almond milk to thin
+    - optional: Sea salt to taste (I didn't need any)
+
+*** Toppings
+    - 1/4 cup (45 g) cherry tomatoes, diced
+    - 1/4 cup (15 g) chopped parsley, minced
+    - 2 Tbsp (30 ml) lemon juice
+    - Chili garlic sauce
+
+** Instructions
+   1. Preheat oven to 400 degrees and line a large baking sheet with foil.
+   2. Rinse and scrub potatoes and cut in half length wise. This will speed cooking time. Otherwise leave whole and bake longer (approximately double the time (45 min - 1 hour).
+   3. Toss rinsed and drained chickpeas with olive oil and spices and place on a foil-lined baking sheet.
+   4. Rub the sweet potatoes with a bit of olive oil and place face down on the same baking sheet (or another baking sheet depending on size).
+   5. While the sweet potatoes and chickpeas are roasting, prepare your sauce by adding all ingredients to a mixing bowl and whisking to combine, only adding enough water to almond milk to thin so it's pourable. Taste and adjust seasonings as needed. Add more garlic for more zing, salt for savoriness, lemon juice for freshness, and dill for a more intense herb flavor. I found mine didn't need anything else.
+   6. NOTE: If you don't have hummus, tahini will make a great base substitute for the sauce - just adjust the seasonings to accommodate the lack of flavor tahini provides.
+   7. Also prepare the parsley-tomato topping by tossing tomato and parsley with lemon juice and setting aside to marinate.
+   8. Once sweet potatoes are fork tender and the chickpeas are golden brown - roughly 25 minutes - remove from oven.
+   9. For serving, flip potatoes flesh-side up and smash down the insides a little bit. Then top with chickpeas, sauce and parsley-tomato garnish. Serve immediately.
+   10. Additional side ideas might include Hummus, Pita Chips, Baba Ganoush, or Persian Eggplant Dip. Enjoy!
+
+* [2018-05-14] Simmered Coconut Curried Tofu                      :tofu:rice:
+
+** Ingredients
+   - 1 block firm tofu
+   - 1 tablespoon olive oil
+   - 2 teaspoons sesame oil
+   - 3 tablespoons peanut butter
+   - 2 tablespoons soy sauce
+   - 2 tablespoons water
+   - 1 teaspoon curry powder
+   - 1/4 cup coconut flakes
+   - 2 tablespoons minced fresh cilantro
+
+** Instructions
+   1. Sure tofu in oil till brown
+   2. Reduce heat to medium and add sesame oil, peanut butter, soy sauce, water and curry powder. Stir in and heat for 5 minutes
+   3. Add coconut flakes and cilantro. Heat for 1 min
+
+* [2018-05-14] Spicy Buddha Bowl                                       :bowl:
+  [[http://www.crazyvegankitchen.com/spicy-buddha-bowl/][Original link]]
+
+** Ingredients
+   - 1 cup Cooked Brown Rice
+   - 1 Sweet Potato, cut into large chunks
+   - 1 teaspoon Olive Oil
+   - Salt/Pepper
+   - 1 can Organic Chickpeas, drained
+   - 1 1/2 tablespoons Sriracha
+   - 2 teaspoons Maple Syrup
+   - 1/2 teaspoon Paprika
+   - 1/2 teaspoon Garlic Powder
+   - Salt/Pepper
+   - 1 cup chopped Red Cabbage
+   - 1 cup Baby Spinach
+   - 1 Avocado, sliced
+   - Turmeric Tahini Dressing:
+   - 4 Tablespoons Tahini
+   - 4 Tablespoons Warm Water
+   - 1 teaspoon Maple Syrup
+   - 1/4 teaspoon Cayenne Pepper
+   - 1/2 teaspoon Turmeric
+   - 1/2 teaspoon Sriracha
+   - Salt to taste
+
+** Instructions
+   1. Preheat oven to 180 degrees Celsius. Coat sweet potato in 1 tsp oil and season with salt and pepper. Place on baking tray and pop into the oven to roast for 35 minutes, turning once halfway through the cooking time.
+   2. Whilst sweet potato is cooking, prepare chickpeas.
+   3. In a bowl, combine chickpeas, sriracha, maple syrup, paprika, garlic powder, salt and pepper. Mix to combine. Heat a saucepan and transfer chickpea mixture into saucepan to cook for 5-10 minutes. Make sure to keep the chickpeas moving so they don't burn. Cook until chickpeas are slightly sticky and no longer watery. Keep aside.
+   4. In a clean saucepan, wilt spinach slightly and season. Transfer to a bowl and repeat the wilting and seasoning process with the cabbage.
+   5. Once sweet potato is cooked through, prepare your Buddha Bowl by placing your rice in the bottom of a bowl and then topping with the sweet potato, chickpeas, spinach, red cabbage and avocado.
+   6. To make dressing, whisk all ingredients together. Liberally splash on Buddha Bowl and enjoy!!!
+
+* [2018-05-14] Sweet Potato Chickpea Buddha Bowl        :rice:bowl:chickpeas:
+  [[https://minimalistbaker.com/sweet-potato-chickpea-buddha-bowl/][Original link]]
+
+** Ingredients
+   - 2 Tbsp olive, melted coconut, or grape seed oil
+   - 1/2 red onion, sliced in wedges
+   - 2 large sweet potatoes, halved
+   - 1 bundle (227 g) broccolini, large stems removed, chopped
+   - 2 big handfuls kale, larger stems removed
+   - 1/4 tsp each salt + pepper
+
+*** Chickpeas
+    - 1 can (400 g) chickpeas, drained, rinsed + patted dry
+    - 1 tsp cumin
+    - 3/4 tsp chili powder
+    - 3/4 tsp garlic powder
+    - 1/4 tsp each salt + pepper
+    - 1/2 tsp oregano (optional)
+    - 2/4 tsp turmeric (optional)
+
+*** Tahini sauce (optional)
+    - 1/4 cup (56 g) tahini
+    - 1 Tbsp maple syrup
+    - 1/2 lemon, juiced
+    - 2-4 Tbsp hot water to thin
+
+** Instructions
+   1. Preheat oven to 400 degrees F and arrange sweet potatoes and onions on a bare baking sheet. Drizzle both with a bit of oil, making sure the flesh of the sweet potatoes are well coated and placed skin side down on the sheet.
+   2. Bake for 10 minutes, then remove from oven flip sweet potatoes and add broccolini. Drizzle broccolini with a bit of oil and season with a pinch each salt and pepper.
+   3. Bake for another 8-10 minutes, then remove from oven and add kale. Drizzle kale with a touch more oil and season with a pinch each salt and pepper. Bake for another 4-5 minutes then set aside.
+   4. While vegetables are roasting, heat a large skillet over medium heat and add chickpeas to a mixing bowl and toss with seasonings.
+   5. Once hot, add 1 Tbsp oil and chickpeas and sauté, stirring frequently. If they're browning too quickly, turn down heat. If there isn't much browning going on, increase heat. I found 10 minutes total at slightly over medium heat was perfect.
+   6. Once the chickpeas are browned and fragrant, remove from heat and set aside.
+   7. Prepare sauce by adding tahini, maple syrup and lemon juice to a mixing bowl and whisking to combine. Add hot water until a pourable sauce is formed. Set aside.
+   8. To serve: Slice sweet potatoes into bite size pieces. Divide vegetables between 3 serving bowls and top with chickpeas + tahini sauce.
+   8. Best when fresh, though leftovers will keep for a few days in the fridge.
+
+* [2018-05-14] Tortilla Soup                          :mexican:soup:noexport:
+  [[http://www.simplyrecipes.com/recipes/tortilla_soup/][Original link]]
+
+** Ingredients
+   - 6 (6-inch) corn tortillas, preferably a little old and dried out
+   - 1/4 cup canola oil, peanut oil, or other high smoke-point oil
+   - 1/2 cup chopped onion
+   - 2 cloves garlic, minced
+   - 1 medium Anaheim, poblano or jalapeño chile, seeded, veins removed, chopped (Depending on the hotness and flavor desired. You can also mix chiles - 1 Anaheim and a half jalapeño.)
+   - 4 cups chicken broth or homemade chicken stock
+   - 1 can (400 g) diced tomatoes, undrained (recommended Muir Glen fire-roasted)
+   - 1/2 teaspoon coarse salt (kosher or sea salt)
+   - 1 1/2 cups shredded cooked chicken
+   - 1 ripe avocado
+   - 1/2 cup (50 g) shredded Monterey Jack cheese (or mild cheddar)
+   - Chopped fresh cilantro
+   - 1 lime, cut into wedges
+
+** Instructions
+   1. Fry tortilla strips: If you are starting with somewhat old, dried out tortillas, great. If not and you are starting with relatively fresh tortillas, put them on a baking sheet and put them in the oven at 200°F for 10-15 minutes to dry them out a bit. It is best to start with tortillas that don't have a lot of moisture in them. Cut the tortillas in half, and then cut the halves into 1/4-inch wide strips. Heat oil over medium-high heat in a 3-quart pot. Working in three batches, fry the tortilla strips in the oil, until lightly browned and crisp. Remove the tortilla strips from the pan and let drain on a paper-towel-lined plate.
+   2. Sauté onions, chile, garlic: Add the chopped onions to the pan, cook 2 minutes, stirring frequently. Add the chopped chile and cook for 2-3 minutes more, until the onions and chiles have softened. Add the garlic and cook for 30 seconds more.
+   3. Add broth, tomatoes, salt, chicken: Add the broth, tomatoes, and salt. Increase the heat to high, heat until the soup begins to boil, then reduce the heat to a low simmer, cover and simmer for 15 minutes. Add the shredded chicken and cook until heated through.
+   4. Serve with tortilla strips and garnishes: To serve, pit, peel, and cut the avocado into 1-inch pieces. Divide half of tortilla strips among 4 individual serving bowls; ladle in soup. Top with avocado and cheese; garnish with remaining tortilla strips and cilantro. Serve with lime wedges.
+
+* [2018-05-14] West African Peanut Soup                  :soup:rice:noexport:
+  [[http://cookieandkate.com/2013/west-african-peanut-soup/][Original link]]
+
+** Ingredients
+   - 6 cups low sodium vegetable broth
+   - 1 medium red onion, chopped
+   - 2 tablespoons peeled and minced fresh ginger
+   - 4 cloves garlic, minced
+   - 1 teaspoon salt
+   - 1 bunch collard greens (or kale), ribs removed and leaves chopped into 1-inch strips
+   - 0.75 cup unsalted peanut butter (chunky or smooth)
+   - 0.5 cup tomato paste*
+   - Hot sauce, like sriracha (AKA rooster sauce)
+   - 0.25 cup roughly chopped peanuts, for garnish
+
+** Instructions
+   1. In a medium Dutch oven or stock pot, bring the broth to a boil. Add the onion, ginger, garlic and salt. Cook on medium-low heat for 20 minutes.
+   2. In a medium-sized, heat-safe mixing bowl, combine the peanut butter and tomato paste, then transfer 1 to 2 cups of the hot stock to the bowl. Whisk the mixture together until smooth, then pour the peanut mixture back into the soup and mix well. Stir in the collard greens and season the soup with hot sauce to taste.
+   3. Simmer for about 15 more minutes on medium-low heat, stirring often. Serve over cooked brown rice if you'd like, and top with a sprinkle of chopped peanuts.
+* [2018-04-14] Vegetable Paella                       :mexican:rice:noexport:
+  [[https://realfood.tesco.com/recipes/vegetable-paella.html][Original link]]
+
+** Ingredients
+   - 1 tbsp oil
+   - 1 onion, chopped
+   - 1 garlic clove, finely chopped
+   - 300g paella rice or short grain rice
+   - 2tsp smoked paprika
+   - 900ml (1½pt) vegetable stock
+   - 1 x 400g tin chopped tomatoes
+   - 150g runner beans, sliced on an angle
+   - 1 red pepper, roughly chopped
+   - 1 x 210g tin chickpeas, drained
+   - handful parsley, roughly chopped
+   - 1 tsp dried chilli flakes
+   - 1 lemon, juiced
+   - a pinch of salt
+   - 1 pinch of pepper
+
+** Instructions
+   1. Heat 1 tbsp oil in a large frying pan and cook the onion and garlic for 5 minutes, until softened.
+   2. Stir in the rice, chilli flakes and paprika, cook for a further minute, then add the stock and tomatoes. Bring to the boil and simmer for 10 minutes, stirring occasionally.
+   3. Add the runner beans, pepper and chickpeas and cook for another 10 minutes. Squeeze over the lemon juice and scatter with the parsley.
+   4. Serve with lemon
+
+* [2018-04-14] Vegetarian Burrito Bowl                                 :rice:
+  [[http://thefoodiephysician.com/2015/03/dining-with-doc-protein-packed.html][Original link]]
+
+** Ingredients
+   - 4 Chile Relleno Boca Essentials patties
+   - 3 cups cooked brown rice
+   - 1 cup grape tomatoes, quartered
+   - 1 ½ cups shredded Romaine lettuce
+   - ½ ripe Haas avocado, diced (optional)
+
+*** Corn salsa:
+    - 1 cup cooked corn
+    - 2 tablespoons finely chopped red onion
+    - 1 tablespoon chopped cilantro
+    - 1 teaspoon lime juice
+    - Salt
+
+*** Avocado Cilantro Sauce:
+    - ½ ripe Haas avocado
+    - 2 tablespoons nonfat plain Greek yogurt
+    - 2 tablespoons cilantro
+    - 1 ½ teaspoons lime juice
+    - ½ teaspoon honey
+    - 2 tablespoons water
+    - Kosher salt
+
+** Instructions
+   1. Cook the Chile Relleno Boca Essentials patties according to package directions. Chop them into bite-sized pieces.
+   2. Mix all of the corn salsa ingredients together in a bowl.
+   3. To make the avocado cilantro sauce, puree all of the ingredients in a mini food processor or blender. Adjust seasoning to taste.
+   4. Divide the rice among 4 bowls. Top with equal portions of Boca patties, corn salsa, tomato, lettuce and avocado. Drizzle the avocado cilantro sauce on top. Enjoy!
+
