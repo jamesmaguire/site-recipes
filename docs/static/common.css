@@ -1,14 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
-html {
-    height: 100%
-}
-
 body {
     font-family: Open Sans, Lora, serif;
     font-size: 12px;
     line-height: 1.4;
-    height: 100%;
     background: linear-gradient(to bottom right,
                                 rgba(251,250,246,1),
                                 rgba(212,206,191,1));
@@ -18,14 +13,14 @@ body {
     color: #565656;
     background: #FFF;
     width: 482px;
-    height: 85%;
+    max-width: 80%;
     overflow-y: auto;
     margin: auto;
     margin-top: 15px;
+    margin-bottom: 100px;
     border-radius: 5px;
     padding: 20px 30px;
     box-shadow: 1px 1px  20px  -5px  rgba(0,0,0,0.2);
-    border-left: 1px grey dashed;
 }
 
 h1 { /* Title */
