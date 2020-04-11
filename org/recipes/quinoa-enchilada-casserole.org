@@ -2,26 +2,26 @@
 #+DATE: 2018-07-31
 #+SETUPFILE: ../recipe.setup
 
-  [[https://minimalistbaker.com/mediterranean-baked-sweet-potatoes/][Original link]]
+[[https://minimalistbaker.com/mediterranean-baked-sweet-potatoes/][Original link]]
 
 * Ingredients
-   - 1 cup quinoa
-   - Enchilada sauce
-   - Capsicum
-   - Avocado
-   - Green chilies
-   - Corn
-   - Black beans
-   - Cilantro
-   - Cumin
-   - Chili powder
-   - 0.5 cup nutritional yeast
-   - 0.5 - 1 cup bread crumbs
+  - 1 cup quinoa
+  - Enchilada sauce
+  - Capsicum
+  - Avocado
+  - Green chilies
+  - Corn
+  - Black beans
+  - Cilantro
+  - Cumin
+  - Chili powder
+  - 0.5 cup nutritional yeast
+  - 0.5 - 1 cup bread crumbs
 
 * Instructions
-   1. In a large saucepan of 2 cups water, cook quinoa according to package instructions; set aside.
-   2. Preheat oven to 375 degrees F. Lightly oil an 8×8 or 2 quart baking dish or coat with nonstick spray.
-   3. In a large bowl, combine quinoa, enchilada sauce, green chiles, corn, black beans, cilantro, cumin and chili powder; season with salt and pepper, to taste. Stir in nutritional yeast.
-   4. Spread quinoa mixture into the prepared baking dish. Top with bread crumbs. Place into oven and bake, about 15 minutes.
-   5. Serve immediately, garnished with avocado and tomato, if desired.
+  1. In a large saucepan of 2 cups water, cook quinoa according to package instructions; set aside.
+  2. Preheat oven to 375 degrees F. Lightly oil an 8 by 8 or 2 quart baking dish or coat with nonstick spray.
+  3. In a large bowl, combine quinoa, enchilada sauce, green chiles, corn, black beans, cilantro, cumin and chili powder; season with salt and pepper, to taste. Stir in nutritional yeast.
+  4. Spread quinoa mixture into the prepared baking dish. Top with bread crumbs. Place into oven and bake, about 15 minutes.
+  5. Serve immediately, garnished with avocado and tomato, if desired.
 

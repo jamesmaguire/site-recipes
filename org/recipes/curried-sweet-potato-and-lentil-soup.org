@@ -2,25 +2,25 @@
 #+DATE: 2019-05-12
 #+SETUPFILE: ../recipe.setup
 
-  [[http://leitesculinaria.com/106497/recipes-curried-sweet-potato-and-lentil-soup.html][Original link]]
+[[http://leitesculinaria.com/106497/recipes-curried-sweet-potato-and-lentil-soup.html][Original link]]
 
 * Ingredients
-   - 500g sweet potatoes (1 to 2 sweet potatoes)
-   - 2 cups (350 grams) red split lentils
-   - 1 to 2 teaspoons mild olive or vegetable oil
-   - 1 1/2 to 3 tablespoons (up to 112 grams) red curry paste
-   - 6 1/2 cups (1.5 liters) stock (whether beef stockor chicken stock or
-   - vegetable stock), plus more as needed
-   - Juice of 2 limes (3 to 4 tablespoons)
-   - Coarse black pepper
-   - Sea salt flakes
-   - Cilantro, crushed peanuts, or coconut milk for garnish (optional)
+  - 500g sweet potatoes (1 to 2 sweet potatoes)
+  - 2 cups (350 grams) red split lentils
+  - 1 to 2 teaspoons mild olive or vegetable oil
+  - 1 1/2 to 3 tablespoons (up to 112 grams) red curry paste
+  - 6 1/2 cups (1.5 liters) stock (whether beef stockor chicken stock or
+  - vegetable stock), plus more as needed
+  - Juice of 2 limes (3 to 4 tablespoons)
+  - Coarse black pepper
+  - Sea salt flakes
+  - Cilantro, crushed peanuts, or coconut milk for garnish (optional)
 
 * Instructions
-   1. Peel the sweet potatoes and chop them into 1/2-inch (1-cm) dice.
-   2. Rinse the lentils in a sieve under cold running water until the water runs clear.
-   3. Heat a large saucepan or pot---one that has a lid--- over medium-high heat. Add the oil and red curry paste and stir-fry just until it becomes strongly aromatic, about 1 minute. If you like things with just a mild heat, add just 1 1/2 tablespoons red curry paste. If you like things hotter, opt for 2 to 3 tablespoons red curry paste.
-   4. Add the potato and lentils and stir to coat them with the paste. Pour in the stock and bring everything to a boil. Reduce the heat to a very gentle simmer, cover, and gently simmer just until the lentils and sweet potato are soft, 25 to 35 minutes. Remove from the heat.
-   5. If using a blender or food processor, let the soup cool for at least 10 minutes and then carefully ladle it into a food processor and blitz until smooth, working in batches if necessary. The soup will be quite thick. If a thinner soup is desired, add stock as necessary. Return the soup to the pan and, if necessary, rewarm over low heat. If using an immersion or stick blender, stick the blender straight in the pot and puree until smooth. If a thinner soup is desired, add stock as necessary. If necessary, rewarm over low heat.
-   6. Add a generous pinch of pepper and the lime juice to the soup and stir to combine. Serve immediately and, if desired, garnish with cilantro, peanuts, or a drizzle of coconut milk. Serve immediately (As with most soups, this freezes just fine in an airtight container or portioned in individual servings in resealable plastic bags. Defrost and rewarm over low heat before serving. Keep in mind that the soup will thicken in the fridge or freezer, so you'll need to add more stock or water when rewarming it to attain the original consistency.)
+  1. Peel the sweet potatoes and chop them into 1/2-inch (1-cm) dice.
+  2. Rinse the lentils in a sieve under cold running water until the water runs clear.
+  3. Heat a large saucepan or pot---one that has a lid--- over medium-high heat. Add the oil and red curry paste and stir-fry just until it becomes strongly aromatic, about 1 minute. If you like things with just a mild heat, add just 1 1/2 tablespoons red curry paste. If you like things hotter, opt for 2 to 3 tablespoons red curry paste.
+  4. Add the potato and lentils and stir to coat them with the paste. Pour in the stock and bring everything to a boil. Reduce the heat to a very gentle simmer, cover, and gently simmer just until the lentils and sweet potato are soft, 25 to 35 minutes. Remove from the heat.
+  5. If using a blender or food processor, let the soup cool for at least 10 minutes and then carefully ladle it into a food processor and blitz until smooth, working in batches if necessary. The soup will be quite thick. If a thinner soup is desired, add stock as necessary. Return the soup to the pan and, if necessary, rewarm over low heat. If using an immersion or stick blender, stick the blender straight in the pot and puree until smooth. If a thinner soup is desired, add stock as necessary. If necessary, rewarm over low heat.
+  6. Add a generous pinch of pepper and the lime juice to the soup and stir to combine. Serve immediately and, if desired, garnish with cilantro, peanuts, or a drizzle of coconut milk. Serve immediately (As with most soups, this freezes just fine in an airtight container or portioned in individual servings in resealable plastic bags. Defrost and rewarm over low heat before serving. Keep in mind that the soup will thicken in the fridge or freezer, so you'll need to add more stock or water when rewarming it to attain the original consistency.)
 

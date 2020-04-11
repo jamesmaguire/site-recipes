@@ -8,7 +8,7 @@
 - [[file:recipes/oil-free-hummus.org][Oil-Free Hummus]]
 - [[file:recipes/vegan-palak-paneer.org][Vegan Palak Paneer]]
 - [[file:recipes/almond-butter-tofu-stir-fry.org][Almond butter tofu stir-fry]]
-- [[file:recipes/creamy-pasta-soup.org][Creamy Pasta Soup]] <<
+- [[file:recipes/creamy-pasta-soup.org][Creamy Pasta Soup]]
 - [[file:recipes/vegetarian-chili.org][Vegetarian Chili]]
 - [[file:recipes/curried-chickpea-and-quinoa.org][Curried Chickpea and Quinoa]]
 - [[file:recipes/firecracker-vegan-lettuce-wraps.org][Firecracker Vegan Lettuce Wraps]]

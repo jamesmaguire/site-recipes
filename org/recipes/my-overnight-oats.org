@@ -2,16 +2,15 @@
 #+DATE: 2018-08-24
 #+SETUPFILE: ../recipe.setup
 
-
 * Ingredients
-   - 1 banana
-   - 1/2 cup of rolled oats
-   - 3/4 cup of oat milk
-   - Shredded coconut
-   - 1 teaspoon of chia seeds
-   - 1-2 chopped dates
+  - 1 banana
+  - 1/2 cup of rolled oats
+  - 3/4 cup of oat milk
+  - Shredded coconut
+  - 1 teaspoon of chia seeds
+  - 1-2 chopped dates
 
 * Instructions
-   1. Mush banana at the base of a glass jar
-   2. Add all other ingredients and mix
+  1. Mush banana at the base of a glass jar
+  2. Add all other ingredients and mix
 

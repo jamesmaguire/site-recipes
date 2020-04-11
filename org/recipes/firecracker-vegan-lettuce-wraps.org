@@ -2,30 +2,30 @@
 #+DATE: 2019-05-14
 #+SETUPFILE: ../recipe.setup
 
-  [[https://pinchofyum.com/vegan-lettuce-wraps][Original link]]
+[[https://pinchofyum.com/vegan-lettuce-wraps][Original link]]
 
 * Ingredients
 ** Sauce
-    - 1/2 cup peanut butter
-    - 1/3 cup low sodium soy sauce
-    - 1/3 cup sesame oil
-    - 1/4 cup rice vinegar
-    - 2 tablespoons chili paste (like sambal oelek) ++ for more
-    - firecrackery-ness
-    - 2 tablespoons sugar
-    - a small knob of fresh ginger, peeled
-    - a clove of fresh garlic, peeled
+   - 1/2 cup peanut butter
+   - 1/3 cup low sodium soy sauce
+   - 1/3 cup sesame oil
+   - 1/4 cup rice vinegar
+   - 2 tablespoons chili paste (like sambal oelek) ++ for more
+   - firecrackery-ness
+   - 2 tablespoons sugar
+   - a small knob of fresh ginger, peeled
+   - a clove of fresh garlic, peeled
 
 ** Other
-    - 1 container extra firm tofu (see notes)
-    - 150 g brown rice noodles
-    - lettuce leaves for wrapping
-    - peanuts, cilantro, lime for serving
+   - 1 container extra firm tofu (see notes)
+   - 150 g brown rice noodles
+   - lettuce leaves for wrapping
+   - peanuts, cilantro, lime for serving
 
 * Instructions
-   1. Noodle Prep: Soak your noodles in a bowl of lukewarm water for at least 30 minutes while prepping the rest of the recipe. You want the noodles to be soft and flexible.
-   2. Sauce: Blend all the sauce ingredients together in a small blender or food processor until smooth and creamy.
-   3. Tofu: Press the tofu with a few paper towels to get some of the moisture out. Cut the tofu into small pieces. Heat a little oil in a nonstick skillet. Add your tofu. Stir-fry until golden brown. I usually let it sauté for at least 15 minutes. Add about half of the sauce to the pan. Stir-fry for another 3-5 minutes. As the sauce browns, it will form small crispy pieces around the tofu. Yum! Transfer tofu to a bowl.
-   4. Noodles: Drain and rinse your noodles. Add another swish of oil to the pan and plop the noodles in. Add about half of the remaining sauce. Stir fry for just a minute or two until coated. Add a splash of water if it's too sticky. Remove from heat immediately and toss with the tofu.
-   5. Lettuce Wrap It Up: Fill your butter lettuce leaves with the noodle/tofu mixture (it's okay if it's sticky -- you're just wrapping it up in lettuce). Top with peanuts, cashews, cilantro, scallions, lime, and/or Sriracha if you want.
+  1. Noodle Prep: Soak your noodles in a bowl of lukewarm water for at least 30 minutes while prepping the rest of the recipe. You want the noodles to be soft and flexible.
+  2. Sauce: Blend all the sauce ingredients together in a small blender or food processor until smooth and creamy.
+  3. Tofu: Press the tofu with a few paper towels to get some of the moisture out. Cut the tofu into small pieces. Heat a little oil in a nonstick skillet. Add your tofu. Stir-fry until golden brown. I usually let it sauté for at least 15 minutes. Add about half of the sauce to the pan. Stir-fry for another 3-5 minutes. As the sauce browns, it will form small crispy pieces around the tofu. Yum! Transfer tofu to a bowl.
+  4. Noodles: Drain and rinse your noodles. Add another swish of oil to the pan and plop the noodles in. Add about half of the remaining sauce. Stir fry for just a minute or two until coated. Add a splash of water if it's too sticky. Remove from heat immediately and toss with the tofu.
+  5. Lettuce Wrap It Up: Fill your butter lettuce leaves with the noodle/tofu mixture (it's okay if it's sticky -- you're just wrapping it up in lettuce). Top with peanuts, cashews, cilantro, scallions, lime, and/or Sriracha if you want.
 

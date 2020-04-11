@@ -2,17 +2,17 @@
 #+DATE: 2018-05-14
 #+SETUPFILE: ../recipe.setup
 
-  [[https://livingfoodlove.wordpress.com/2014/05/29/raw-vegan-creamy-jalapeno-avocado-sauce/][Original link]]
+[[https://livingfoodlove.wordpress.com/2014/05/29/raw-vegan-creamy-jalapeno-avocado-sauce/][Original link]]
 
 * Ingredients
-   - 2 avocados
-   - 2 fresh jalenpenos, seeded
-   - Juice of 1 lemon
-   - 5.8 cup water
-   - 1/6 cup cashew butter
-   - 1.5 tbsp shallots
-   - 2 tbsp cilantro
+  - 2 avocados
+  - 2 fresh jalenpenos, seeded
+  - Juice of 1 lemon
+  - 5/8 cup water
+  - 1/6 cup cashew butter
+  - 1 1/2 tbsp shallots
+  - 2 tbsp cilantro
 
 * Instructions
-   1. Blend
+  1. Blend
 

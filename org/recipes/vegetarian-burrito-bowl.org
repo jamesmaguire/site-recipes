@@ -2,34 +2,34 @@
 #+DATE: 2018-04-14
 #+SETUPFILE: ../recipe.setup
 
-  [[http://thefoodiephysician.com/2015/03/dining-with-doc-protein-packed.html][Original link]]
+[[http://thefoodiephysician.com/2015/03/dining-with-doc-protein-packed.html][Original link]]
 
 * Ingredients
-   - 4 Chile Relleno Boca Essentials patties
-   - 3 cups cooked brown rice
-   - 1 cup grape tomatoes, quartered
-   - 1 ½ cups shredded Romaine lettuce
-   - ½ ripe Haas avocado, diced (optional)
+  - 4 Chile Relleno Boca Essentials patties
+  - 3 cups cooked brown rice
+  - 1 cup grape tomatoes, quartered
+  - 1 1/2 cups shredded Romaine lettuce
+  - 1/2 ripe Haas avocado, diced (optional)
 
 ** Corn salsa:
-    - 1 cup cooked corn
-    - 2 tablespoons finely chopped red onion
-    - 1 tablespoon chopped cilantro
-    - 1 teaspoon lime juice
-    - Salt
+   - 1 cup cooked corn
+   - 2 tablespoons finely chopped red onion
+   - 1 tablespoon chopped cilantro
+   - 1 teaspoon lime juice
+   - Salt
 
 ** Avocado Cilantro Sauce:
-    - ½ ripe Haas avocado
-    - 2 tablespoons nonfat plain Greek yogurt
-    - 2 tablespoons cilantro
-    - 1 ½ teaspoons lime juice
-    - ½ teaspoon honey
-    - 2 tablespoons water
-    - Kosher salt
+   - 1/2 ripe Haas avocado
+   - 2 tablespoons nonfat plain Greek yogurt
+   - 2 tablespoons cilantro
+   - 1 1/2 teaspoons lime juice
+   - 1/2 teaspoon honey
+   - 2 tablespoons water
+   - Kosher salt
 
 * Instructions
-   1. Cook the Chile Relleno Boca Essentials patties according to package directions. Chop them into bite-sized pieces.
-   2. Mix all of the corn salsa ingredients together in a bowl.
-   3. To make the avocado cilantro sauce, puree all of the ingredients in a mini food processor or blender. Adjust seasoning to taste.
-   4. Divide the rice among 4 bowls. Top with equal portions of Boca patties, corn salsa, tomato, lettuce and avocado. Drizzle the avocado cilantro sauce on top. Enjoy!
+  1. Cook the Chile Relleno Boca Essentials patties according to package directions. Chop them into bite-sized pieces.
+  2. Mix all of the corn salsa ingredients together in a bowl.
+  3. To make the avocado cilantro sauce, puree all of the ingredients in a mini food processor or blender. Adjust seasoning to taste.
+  4. Divide the rice among 4 bowls. Top with equal portions of Boca patties, corn salsa, tomato, lettuce and avocado. Drizzle the avocado cilantro sauce on top. Enjoy!
 

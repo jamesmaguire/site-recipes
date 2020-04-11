@@ -2,26 +2,26 @@
 #+DATE: 2018-05-14
 #+SETUPFILE: ../recipe.setup
 
-  [[http://www.simplyrecipes.com/recipes/tortilla_soup/][Original link]]
+[[http://www.simplyrecipes.com/recipes/tortilla_soup/][Original link]]
 
 * Ingredients
-   - 6 (6-inch) corn tortillas, preferably a little old and dried out
-   - 1/4 cup canola oil, peanut oil, or other high smoke-point oil
-   - 1/2 cup chopped onion
-   - 2 cloves garlic, minced
-   - 1 medium Anaheim, poblano or jalapeño chile, seeded, veins removed, chopped (Depending on the hotness and flavor desired. You can also mix chiles - 1 Anaheim and a half jalapeño.)
-   - 4 cups chicken broth or homemade chicken stock
-   - 1 can (400 g) diced tomatoes, undrained (recommended Muir Glen fire-roasted)
-   - 1/2 teaspoon coarse salt (kosher or sea salt)
-   - 1 1/2 cups shredded cooked chicken
-   - 1 ripe avocado
-   - 1/2 cup (50 g) shredded Monterey Jack cheese (or mild cheddar)
-   - Chopped fresh cilantro
-   - 1 lime, cut into wedges
+  - 6 (6-inch) corn tortillas, preferably a little old and dried out
+  - 1/4 cup canola oil, peanut oil, or other high smoke-point oil
+  - 1/2 cup chopped onion
+  - 2 cloves garlic, minced
+  - 1 medium Anaheim, poblano or jalapeño chile, seeded, veins removed, chopped (Depending on the hotness and flavor desired. You can also mix chiles - 1 Anaheim and a half jalapeño.)
+  - 4 cups chicken broth or homemade chicken stock
+  - 1 can (400 g) diced tomatoes, undrained (recommended Muir Glen fire-roasted)
+  - 1/2 teaspoon coarse salt (kosher or sea salt)
+  - 1 1/2 cups shredded cooked chicken
+  - 1 ripe avocado
+  - 1/2 cup (50 g) shredded Monterey Jack cheese (or mild cheddar)
+  - Chopped fresh cilantro
+  - 1 lime, cut into wedges
 
 * Instructions
-   1. Fry tortilla strips: If you are starting with somewhat old, dried out tortillas, great. If not and you are starting with relatively fresh tortillas, put them on a baking sheet and put them in the oven at 200°F for 10-15 minutes to dry them out a bit. It is best to start with tortillas that don't have a lot of moisture in them. Cut the tortillas in half, and then cut the halves into 1/4-inch wide strips. Heat oil over medium-high heat in a 3-quart pot. Working in three batches, fry the tortilla strips in the oil, until lightly browned and crisp. Remove the tortilla strips from the pan and let drain on a paper-towel-lined plate.
-   2. Sauté onions, chile, garlic: Add the chopped onions to the pan, cook 2 minutes, stirring frequently. Add the chopped chile and cook for 2-3 minutes more, until the onions and chiles have softened. Add the garlic and cook for 30 seconds more.
-   3. Add broth, tomatoes, salt, chicken: Add the broth, tomatoes, and salt. Increase the heat to high, heat until the soup begins to boil, then reduce the heat to a low simmer, cover and simmer for 15 minutes. Add the shredded chicken and cook until heated through.
-   4. Serve with tortilla strips and garnishes: To serve, pit, peel, and cut the avocado into 1-inch pieces. Divide half of tortilla strips among 4 individual serving bowls; ladle in soup. Top with avocado and cheese; garnish with remaining tortilla strips and cilantro. Serve with lime wedges.
+  1. Fry tortilla strips: If you are starting with somewhat old, dried out tortillas, great. If not and you are starting with relatively fresh tortillas, put them on a baking sheet and put them in the oven at 200 degF for 10-15 minutes to dry them out a bit. It is best to start with tortillas that don't have a lot of moisture in them. Cut the tortillas in half, and then cut the halves into 1/4-inch wide strips. Heat oil over medium-high heat in a 3-quart pot. Working in three batches, fry the tortilla strips in the oil, until lightly browned and crisp. Remove the tortilla strips from the pan and let drain on a paper-towel-lined plate.
+  2. Sauté onions, chile, garlic: Add the chopped onions to the pan, cook 2 minutes, stirring frequently. Add the chopped chile and cook for 2-3 minutes more, until the onions and chiles have softened. Add the garlic and cook for 30 seconds more.
+  3. Add broth, tomatoes, salt, chicken: Add the broth, tomatoes, and salt. Increase the heat to high, heat until the soup begins to boil, then reduce the heat to a low simmer, cover and simmer for 15 minutes. Add the shredded chicken and cook until heated through.
+  4. Serve with tortilla strips and garnishes: To serve, pit, peel, and cut the avocado into 1-inch pieces. Divide half of tortilla strips among 4 individual serving bowls; ladle in soup. Top with avocado and cheese; garnish with remaining tortilla strips and cilantro. Serve with lime wedges.
 
