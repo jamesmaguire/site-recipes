@@ -1,0 +1,16 @@
+{
+  "theme_color": "#ededec",
+  "background_color": "#ededec",
+  "description": "James and Alex's vegan recipes",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "static/icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "Recipes",
+  "short_name": "Recipes",
+  "start_url": "/www-recipes/index.html"
+}

@@ -4,5 +4,10 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/common.css" />
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/index.css" />
 #+HTML_HEAD: <script type="text/javascript" src="static/search.js"></script>
+
+# PWA files
+#+HTML_HEAD: <script type="text/javascript" src="static/pwa.js"></script>
+#+HTML_HEAD: <link rel="manifest" href="static/manifest.webmanifest" />
+
 #+HTML_LINK_HOME: index.html
 #+HTML_LINK_UP: index.html
