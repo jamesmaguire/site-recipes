@@ -1,0 +1,27 @@
+#+TITLE: Vegan Mac 'n' Cheese
+#+DATE: 2020-04-19
+#+SETUPFILE: ../recipe.setup
+
+[[https://www.jamieoliver.com/recipes/pasta-recipes/vegan-mac-n-cheese/][Original link]]
+
+* Ingredients
+  - 350 g dried macaroni
+  - sea salt
+  - freshly ground black pepper
+  - 1 onion
+  - 1 litre unsweetened plamp milk
+  - 100 g dairy-free margarine
+  - 85 g plain flour
+  - 1 heaped teaspoon Dijon mustard
+  - 1 1/2 tablespoons nutritional yeast flakes
+  - 50 g vegan cheese, optional (available from specialist stores)
+  - 5 cloves of garlic
+  - 1/2 a bunch of fresh thyme
+  - olive oil
+  - 40 g fresh breadcrumbs
+
+* Instructions
+  1. Preheat the oven to 180\deg{}C. Cook the macaroni according to the packet instructions in a large pan of salted boiling water.
+  2. Meanwhile, peel and halve the onion, then place in a small pan over a medium heat with the milk. Slowly bring to the boil, then remove from the heat. Pick out and discard the onion, then set aside. Melt the margarine in another pan over a medium heat, then add the flour, stirring continuously until it forms a paste – this is the roux. Gradually add the warm milk a little at a time, whisking continuously until smooth. Bring to the boil, then simmer for around 10 minutes, or until thickened. Stir in the mustard and nutritional yeast flakes, grate and stir in the vegan cheese (if using), then season to taste with salt and pepper.
+  3. Drain and add the macaroni to the sauce, then toss to coat. Transfer the mixture to an ovenproof baking dish (roughly 20cm x 30cm), then set aside.
+  4. Peel and finely slice the garlic, then pick the thyme leaves, discarding the stalks. Add to a medium pan over a medium heat with a splash of oil. Cook for 2 to 3 minutes, or until golden, then transfer to a food processor with the breadcrumbs and a splash of oil. Blitz until combined and roughly chopped, then sprinkle over the pasta. Place the dish in the hot oven for 20 to 25 minutes, or until golden and bubbling. Leave to stand for around 5 minutes, then serve with seasonal greens.
