@@ -1,6 +1,9 @@
+#content {
+    width: 900px;
+}
+
 h2 {
     color: #241C3E;
-    text-transform: uppercase;
     font-weight: 700;
     font-size: 120%;
     margin-top: 10px;
@@ -16,25 +19,29 @@ h3 {
     margin-left: 10px;
 }
 
-ol, ul {
-    border-left: 2px solid #E3E3E3;
-    padding: 0;
-    margin-left: 15px;
-}
-
 li {
-    list-style-position: inside;
-    padding-bottom: 10px;
-    padding: 4px;
-    padding-left: 10px;
+    padding: 5px;
+    border-radius: 2px;
 }
 
-ul li {
-    list-style-type: none;
+ul {
+    padding: 0;
+    margin-right: 40px;
+    max-width: 260px;
+    list-style: none;
 }
 
-/* .outline-2 { */
-/*     display: float; */
-/*     width: 300px; */
-/*     float: left; */
-/* } */
+ol {
+    padding: 0;
+    margin: 0;
+    margin-left: 15px;
+    max-width: 450px;
+}
+
+li:hover {
+    background: linear-gradient(to right, rgba(212,206,191,0.2), rgba(212,206,191,0));
+}
+
+.outline-2 {
+    float: left;
+}
