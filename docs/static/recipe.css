@@ -4,7 +4,7 @@
 
 h2 {
     color: #241C3E;
-    font-weight: 700;
+    font-weight: bold;
     font-size: 120%;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -12,11 +12,11 @@ h2 {
 
 h3 {
     color: #241C3E;
-    font-weight: 700;
-    font-size: 110%;
+    font-size: 100%;
+    font-weight: normal;
+    font-style: italic;
     padding: 0;
     margin: 0;
-    margin-left: 10px;
 }
 
 li {
