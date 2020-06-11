@@ -45,3 +45,30 @@ li:hover {
 .outline-2 {
     float: left;
 }
+
+table, tbody, colgroup {
+    border: none;
+}
+
+table {
+    font-family: Sans;
+    font-size: 70%;
+    border: black 1px solid;
+}
+
+td, th {
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+th.org-left {
+    text-align: left;
+    font-size: 120%;
+    border-bottom: black 1px solid;
+}
+
+.outline-2 {
+    min-width: 20%;
+    margin-right: 20px;
+}
