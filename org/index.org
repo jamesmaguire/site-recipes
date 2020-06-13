@@ -3,6 +3,7 @@
 
 @@html:<div id="filterinput"><input type="text" id="filterInput" onkeyup="indexFilter()" placeholder="Search..."></div>@@
 
+- [[file:recipes/oven-pancakes.org][Oven pancakes]]
 - [[file:recipes/peanut-butter-smoothie.org][Peanut butter smoothie]]
 - [[file:recipes/chickpea-curry.org][Chickpea Curry]]
 - [[file:recipes/dan-dan-noodles.org][Dan Dan Noodles]]
