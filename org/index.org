@@ -3,39 +3,52 @@
 
 @@html:<div id="filterinput"><input type="text" id="filterInput" onkeyup="indexFilter()" placeholder="Search..."></div>@@
 
-- [[file:recipes/oven-pancakes.org][Oven pancakes]]
-- [[file:recipes/peanut-butter-smoothie.org][Peanut butter smoothie]]
-- [[file:recipes/chickpea-curry.org][Chickpea Curry]]
-- [[file:recipes/dan-dan-noodles.org][Dan Dan Noodles]]
-- [[file:recipes/mac-n-cheese.org][Vegan Mac 'n' Cheese]]
-- [[file:recipes/oat-lentil-meat-loaf.org][Oat & Lentil "Meat Loaf"]]
-- [[file:recipes/edamame-brown-rice-bowl.org][Edamame Brown Rice Bowl]]
-- [[file:recipes/oil-free-hummus.org][Oil-Free Hummus]]
+* Indian
 - [[file:recipes/vegan-palak-paneer.org][Vegan Palak Paneer]]
-- [[file:recipes/almond-butter-tofu-stir-fry.org][Almond butter tofu stir-fry]]
-- [[file:recipes/creamy-pasta-soup.org][Creamy Pasta Soup]]
-- [[file:recipes/vegetarian-chili.org][Vegetarian Chili]]
 - [[file:recipes/curried-chickpea-and-quinoa.org][Curried Chickpea and Quinoa]]
-- [[file:recipes/firecracker-vegan-lettuce-wraps.org][Firecracker Vegan Lettuce Wraps]]
-- [[file:recipes/curried-sweet-potato-and-lentil-soup.org][Curried Sweet Potato and Lentil Soup]]
-- [[file:recipes/vegan-meatballs-with-gravy.org][Vegan Meatballs with Gravy]]
 - [[file:recipes/coconut-chana-saag.org][Coconut Chana Saag]]
 - [[file:recipes/1-pot-lentil-dal.org][1 Pot Lentil Dal]]
-- [[file:recipes/pizza-dough.org][Pizza Dough]]
-- [[file:recipes/my-overnight-oats.org][My overnight oats]]
-- [[file:recipes/chickpea-carrot-patties.org][Chickpea Carrot Patties]]
-- [[file:recipes/coconut-curry-lentil-soup.org][Coconut Curry Lentil Soup]]
+- [[file:recipes/simmered-coconut-curried-tofu.org][Simmered Coconut Curried Tofu]]
+
+* East Asian
+- [[file:recipes/dan-dan-noodles.org][Dan Dan Noodles]]
+- [[file:recipes/edamame-brown-rice-bowl.org][Edamame Brown Rice Bowl]]
+- [[file:recipes/almond-butter-tofu-stir-fry.org][Almond butter tofu stir-fry]]
+- [[file:recipes/firecracker-vegan-lettuce-wraps.org][Firecracker Vegan Lettuce Wraps]]
+
+* Mexican
+- [[file:recipes/vegetarian-chili.org][Vegetarian Chili]]
 - [[file:recipes/quinoa-enchilada-casserole.org][Quinoa Enchilada Casserole]]
 - [[file:recipes/vege-chilli-con-carne.org][Vege Chilli Con Carne]]
-- [[file:recipes/roast-carrot-lentil-curry-bowls.org][Roast Carrot Lentil Curry Bowls]]
-- [[file:recipes/aussie-damper.org][Aussie Damper]]
-- [[file:recipes/classic-italian-bread.org][Classic Italian Bread]]
-- [[file:recipes/creamy-jalapeno-avocado-sauce.org][Creamy Jalapeno Avocado Sauce]]
-- [[file:recipes/mediterranean-baked-sweet-potatoes.org][Mediterranean Baked Sweet Potatoes]]
-- [[file:recipes/simmered-coconut-curried-tofu.org][Simmered Coconut Curried Tofu]]
-- [[file:recipes/spicy-buddha-bowl.org][Spicy Buddha Bowl]]
-- [[file:recipes/sweet-potato-chickpea-buddha-bowl.org][Sweet Potato Chickpea Buddha Bowl]]
-- [[file:recipes/tortilla-soup.org][Tortilla Soup]]
-- [[file:recipes/west-african-peanut-soup.org][West African Peanut Soup]]
 - [[file:recipes/vegetable-paella.org][Vegetable Paella]]
 - [[file:recipes/vegetarian-burrito-bowl.org][Vegetarian Burrito Bowl]]
+
+* White people food
+- [[file:recipes/mac-n-cheese.org][Vegan Mac 'n' Cheese]]
+- [[file:recipes/oat-lentil-meat-loaf.org][Oat & Lentil "Meat Loaf"]]
+- [[file:recipes/vegan-meatballs-with-gravy.org][Vegan Meatballs with Gravy]]
+- [[file:recipes/chickpea-carrot-patties.org][Chickpea Carrot Patties]]
+- [[file:recipes/roast-carrot-lentil-curry-bowls.org][Roast Carrot Lentil Curry Bowls]]
+- [[file:recipes/spicy-buddha-bowl.org][Spicy Buddha Bowl]]
+- [[file:recipes/sweet-potato-chickpea-buddha-bowl.org][Sweet Potato Chickpea Buddha Bowl]]
+
+* Soups
+- [[file:recipes/creamy-pasta-soup.org][Creamy Pasta Soup]]
+- [[file:recipes/curried-sweet-potato-and-lentil-soup.org][Curried Sweet Potato and Lentil Soup]]
+- [[file:recipes/coconut-curry-lentil-soup.org][Coconut Curry Lentil Soup]]
+- [[file:recipes/tortilla-soup.org][Tortilla Soup]]
+- [[file:recipes/west-african-peanut-soup.org][West African Peanut Soup]]
+
+* Breakfasts
+- [[file:recipes/oven-pancakes.org][Oven pancakes]]
+- [[file:recipes/peanut-butter-smoothie.org][Peanut butter smoothie]]
+- [[file:recipes/my-overnight-oats.org][My overnight oats]]
+
+* Sauces/dips
+- [[file:recipes/oil-free-hummus.org][Oil-Free Hummus]]
+- [[file:recipes/creamy-jalapeno-avocado-sauce.org][Creamy Jalapeno Avocado Sauce]]
+
+* Breads
+- [[file:recipes/aussie-damper.org][Aussie Damper]]
+- [[file:recipes/classic-italian-bread.org][Classic Italian Bread]]
+- [[file:recipes/pizza-dough.org][Pizza Dough]]
