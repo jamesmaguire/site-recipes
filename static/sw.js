@@ -2,13 +2,13 @@ self.addEventListener('install', function(e) {
  e.waitUntil(
    caches.open('video-store').then(function(cache) {
      return cache.addAll([
-       '/www-recipes/',
-       '/www-recipes/index.html',
-       '/www-recipes/static/common.css',
-       '/www-recipes/static/index.css',
-       '/www-recipes/static/recipe.css',
-       '/www-recipes/static/search.js',
-       '/www-recipes/static/pwa.js',
+       '/',
+       '/index.html',
+       '/static/common.css',
+       '/static/index.css',
+       '/static/recipe.css',
+       '/static/search.js',
+       '/static/pwa.js',
      ]);
    })
  );
