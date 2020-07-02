@@ -11,6 +11,8 @@
 - [[file:recipes/simmered-coconut-curried-tofu.org][Simmered Coconut Curried Tofu]]
 
 * East Asian
+- [[file:recipes/cashew-ramen-egg.org][Cashew Ramen Egg]]
+- [[file:recipes/tan-tan-noodles.org][Tan Tan Noodles]]
 - [[file:recipes/dan-dan-noodles.org][Dan Dan Noodles]]
 - [[file:recipes/edamame-brown-rice-bowl.org][Edamame Brown Rice Bowl]]
 - [[file:recipes/almond-butter-tofu-stir-fry.org][Almond butter tofu stir-fry]]

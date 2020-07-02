@@ -1,0 +1,28 @@
+#+TITLE: Cashew Ramen Egg
+#+DATE: 2020-07-02
+#+SETUPFILE: ../recipe.setup
+
+[[https://www.youtube.com/watch?v=VG3Mo2oKILI][Original link]]
+
+* Ingredients
+** Egg white
+   - 1 1/2 cups cashew milk
+   - 2 tsp agar agar powder
+   - 1/2 tsp black salt
+
+** Egg yolk
+   - 1/2 cup canned chickpeas
+   - 1/4 cup chickpea water
+   - 1/4 tsp pink salt
+   - 1/2 tbsp turmeric powder
+   - 2 tbsp grapeseed oil
+
+* Instructions
+  1. Add the egg white ingredients to the blender, and blitz until emulsified
+  2. Pour the mixture into a small saucepan, and heat until it just comes to a boil while stirring continuously
+  3. Immediately pour the mixture into an egg mould
+  4. Place the mould carefully in the fridge for 40min
+  5. In a clean blender, add the egg yolk ingredients. Blend on medium high to leave a little bit of texture
+  6. Pour the mixture into a small cup, and add the grapeseed oil. Stir to combine
+  7. Carefully pop out the egg whites from the moulds. Then, use a melon baller to create a small cavity in the egg white
+  8. Fill the cavity with the egg yolk
