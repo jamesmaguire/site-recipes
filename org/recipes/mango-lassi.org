@@ -1,0 +1,16 @@
+#+TITLE: Mango Lassi
+#+DATE: 2020-08-31
+#+SETUPFILE: ../recipe.setup
+
+Serves 2
+
+* Ingredients
+- 1.5 cups mango
+- 4 generous tbsp of coconut yogurt
+- 1/2 cup oat milk
+- 1 tsp cinnamon
+
+* Instructions
+  1. Add to blender
+  2. Blend
+  3. Add some additional oat milk to reach desired consistency

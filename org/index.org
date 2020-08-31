@@ -26,6 +26,7 @@
 - [[file:recipes/vegetarian-burrito-bowl.org][Vegetarian Burrito Bowl]]
 
 * White people food
+- [[file:recipes/cobb-salad.org][Cobb Salad]]
 - [[file:recipes/mac-n-cheese.org][Vegan Mac 'n' Cheese]]
 - [[file:recipes/oat-lentil-meat-loaf.org][Oat & Lentil "Meat Loaf"]]
 - [[file:recipes/vegan-meatballs-with-gravy.org][Vegan Meatballs with Gravy]]
@@ -41,13 +42,9 @@
 - [[file:recipes/tortilla-soup.org][Tortilla Soup]]
 - [[file:recipes/west-african-peanut-soup.org][West African Peanut Soup]]
 
-* Salad
-- [[file:recipes/cobb-salad.org][Cobb Salad]]
-
-* Breakfasts
-- [[file:recipes/oven-pancakes.org][Oven pancakes]]
-- [[file:recipes/peanut-butter-smoothie.org][Peanut butter smoothie]]
-- [[file:recipes/my-overnight-oats.org][My overnight oats]]
+* Smoothies
+- [[file:recipes/mango-lassi.org][Mango Lassi]]
+- [[file:recipes/peanut-butter-smoothie.org][Peanut Butter Smoothie]]
 
 * Sauces/dips
 - [[file:recipes/oil-free-hummus.org][Oil-Free Hummus]]
@@ -60,3 +57,5 @@
 
 * Miscellaneous
 - [[file:recipes/coconut-bacon.org][Coconut Bacon]]
+- [[file:recipes/oven-pancakes.org][Oven Pancakes]]
+- [[file:recipes/my-overnight-oats.org][Overnight Oats]]
