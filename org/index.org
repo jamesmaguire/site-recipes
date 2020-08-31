@@ -41,6 +41,9 @@
 - [[file:recipes/tortilla-soup.org][Tortilla Soup]]
 - [[file:recipes/west-african-peanut-soup.org][West African Peanut Soup]]
 
+* Salad
+- [[file:recipes/cobb-salad.org][Cobb Salad]]
+
 * Breakfasts
 - [[file:recipes/oven-pancakes.org][Oven pancakes]]
 - [[file:recipes/peanut-butter-smoothie.org][Peanut butter smoothie]]
@@ -54,3 +57,6 @@
 - [[file:recipes/aussie-damper.org][Aussie Damper]]
 - [[file:recipes/classic-italian-bread.org][Classic Italian Bread]]
 - [[file:recipes/pizza-dough.org][Pizza Dough]]
+
+* Miscellaneous
+- [[file:recipes/coconut-bacon.org][Coconut Bacon]]

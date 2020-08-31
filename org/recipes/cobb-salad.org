@@ -1,0 +1,63 @@
+#+TITLE: Cobb Salad
+#+DATE: 2020-08-31
+#+SETUPFILE: ../recipe.setup
+
+[[https://www.connoisseurusveg.com/vegan-cobb-salad/][Original link]]
+
+* Ingredients
+** For the Dressing:
+- 2 tablespoons minced shallot (about 1 small shallot)
+- 1/4 cup olive oil
+- 1/4 cup red wine vinegar
+- 1/4 cup water
+- 1 tablespoon Dijon mustard
+- 2 teaspoons maple syrup
+- 1/2 teaspoon salt, or to taste
+- 1/4 teaspoon black pepper, or to taste
+
+** For the Eggy Tofu:
+- 1/4 teaspoon turmeric
+- 1/4 teaspoon garlic powder
+- 1/4 teaspoon kala namak (black salt)
+- 1/4 teaspoon black pepper
+- 1 tablespoon olive oil
+- 200g extra-firm tofu, drained, pressed and cut into 1/2 inch cubes
+- 2 teaspoons lemon juice
+
+** For the Salad:
+- 1 small head romaine lettuce, cleaned and chopped
+- 1 small head bibb lettuce, cleaned and chopped
+- 1 large tomato diced
+- 1 cup cooked chickpeas
+- 1 avocado sliced
+- 1 cup [[file:./coconut-bacon.org][coconut bacon]]
+- Salt and pepper to taste
+- 2 tablespoons chopped fresh chives
+
+* Instructions
+1. Begin by whisking all of the dressing ingredients together in a small bowl or jar. Allow it to sit while you prepare the rest of the salad.
+2. To make the eggy tofu, first stir the turmeric, garlic powder, kala namak and pepper together in a small bowl.
+3. Coat the bottom of a medium skillet with olive oil and place it over medium heat.
+4. When the oil is hot, add the tofu and cook for about 10 minutes, flipping once or twice to achieve browning on multiple sides.
+5. Sprinkle the tofu with the lemon juice and flip a few times to coat.
+6. Sprinkle the turmeric mixture over the tofu and toss a few times to coat.
+7. Remove the skillet from the heat and transfer the tofu to a plate.
+8. Fill a large salad bowl with the lettuce (or divide it among 4 individual bowls).
+9. Arrange the toppings over the lettuce, then sprinkle with salt, pepper and chives.
+10. Drizzle with dressing and serve.
+
+* Nutrition
+
+| Nutrition info |         |
+|----------------+---------|
+| Servings: 4.0  |         |
+| Per serve:     |         |
+|----------------+---------|
+| *Energy*     | 2236 kJ |
+| *Total fat*    | 44 g    |
+| Saturated      | 12 g    |
+| *Sodium*         | 795 mg  |
+| *Total carbs*    | 36 g    |
+| Dietary fibre  | 10 g    |
+| Sugars         | 8 g     |
+| *Protein*        | 13 g    |
