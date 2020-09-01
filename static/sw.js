@@ -3,7 +3,6 @@ self.addEventListener('install', function(e) {
    caches.open('video-store').then(function(cache) {
      return cache.addAll([
        '/',
-       '/index.html',
        '/static/common.css',
        '/static/index.css',
        '/static/recipe.css',
