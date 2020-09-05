@@ -36,6 +36,7 @@
 - [[file:recipes/sweet-potato-chickpea-buddha-bowl.org][Sweet Potato Chickpea Buddha Bowl]]
 
 * Soups
+- [[file:recipes/vegetable-barley-soup.org][Vegetable Barley Soup]]
 - [[file:recipes/creamy-pasta-soup.org][Creamy Pasta Soup]]
 - [[file:recipes/curried-sweet-potato-and-lentil-soup.org][Curried Sweet Potato and Lentil Soup]]
 - [[file:recipes/coconut-curry-lentil-soup.org][Coconut Curry Lentil Soup]]
