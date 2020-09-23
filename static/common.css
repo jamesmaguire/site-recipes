@@ -9,13 +9,14 @@ body {
     font-family: Lora, serif;
     font-size: 13px;
     line-height: 1.4;
-    background: linear-gradient(to bottom right,
-                                rgba(251,250,246,1),
-                                rgba(212,206,191,1));
+    background: linear-gradient(
+        to bottom,
+        #ddd,
+        #ccc);
 }
 
 #content {
-    color: #565656;
+    color: #444;
     background: #FFF;
     max-width: 80%;
     overflow-y: auto;

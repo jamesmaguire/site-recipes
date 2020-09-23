@@ -1,6 +1,6 @@
 {
-  "theme_color": "#ededec",
-  "background_color": "#ededec",
+  "theme_color": "#dddddd",
+  "background_color": "#dddddd",
   "description": "James and Alex's vegan recipes",
   "display": "standalone",
   "icons": [
