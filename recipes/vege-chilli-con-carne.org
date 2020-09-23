@@ -1,0 +1,35 @@
+#+TITLE: Vege Chilli Con Carne
+#+DATE: 2018-07-15
+#+SETUPFILE: recipe.setup
+
+[[http://www.jamieoliver.com/recipes/vegetables-recipes/veggie-chilli/][Original link]]
+
+* Ingredients
+  - 2 medium sweet potatoes (500g)
+  - 1 level teaspoon cayenne pepper, plus extra for sprinkling
+  - 1 heaped teaspoon ground cumin, plus extra for sprinkling
+  - 1 level teaspoon ground cinnamon, plus extra for sprinkling
+  - olive oil
+  - 1 onion
+  - 1 red pepper
+  - 1 yellow pepper
+  - 2 cloves of garlic
+  - 1 bunch of fresh coriander
+  - 1 fresh red chilli
+  - 1 fresh green chilli
+  - 2 400 g tinned beans, such as kidney, chickpea, pinto, cannellini
+  - 2 400 g tins of quality plum tomatoes
+
+* Instructions
+  1. Preheat the oven to 200\deg{}C.
+  2. Peel and chop the sweet potatoes into bite-sized chunks, then place onto a baking tray.
+  3. Sprinkle with a pinch each of cayenne, cumin, cinnamon, sea salt and black pepper, drizzle with oil then toss to coat. Roast for 40 minutes, or until golden and tender.
+  4. Peel and roughly chop the onion. Halve, deseed and roughly chop the peppers, then peel and finely chop the garlic.
+  5. Pick the coriander leaves, finely chopping the stalks. Deseed and finely chop the chillies.
+  6. Meanwhile, heat 2 tablespoons of oil in a large pan over a medium-high heat, add the onion, peppers and garlic, and cook for 5 minutes.
+  7. Add the coriander stalks, chilli and spices, and cook for a further 5 to 10 minutes, or until softened, stirring occasionally.
+  8. Drain and add the beans. Tip in the tomatoes, breaking them up with the back of a spoon, then stir well.
+  9. Bring to the boil, then reduce to medium-low and leave to tick away for 25 to 30 minutes, or until thickened and reduced -- keep an eye on it, and add a splashes of water to loosen, if needed.
+  10. Stir the roasted sweet potato through the chilli with most of the coriander leaves, then taste and adjust the seasoning, if needed.
+  11. Scatter over the remaining coriander. Delicious served with soured cream, guacamole and rice or tortilla chips.
+
