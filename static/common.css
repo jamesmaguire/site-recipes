@@ -18,13 +18,13 @@ body {
 #content {
     color: #444;
     background: #FFF;
-    max-width: 90%;
+    width: 80%;
     overflow-y: auto;
     margin: auto;
     margin-top: 1rem;
     margin-bottom: 3rem;
     border-radius: 5px;
-    padding: 3rem;
+    padding: 7%;
     padding-top: 1rem;
     padding-bottom: 2rem;
     box-shadow: 1px 1px  20px  -5px  rgba(0,0,0,0.2);
