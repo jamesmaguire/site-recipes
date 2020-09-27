@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="appicon.svg">
+   sodipodi:docname="appicon.svg"
+   inkscape:export-filename="/home/james/Dropbox/www/recipes/static/appicon512.png"
+   inkscape:export-xdpi="135.47"
+   inkscape:export-ydpi="135.47">
   <defs
      id="defs2">
     <linearGradient
@@ -69,11 +72,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="307.19221"
-     inkscape:cy="452.40658"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="281.47312"
+     inkscape:cy="223.58808"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2-3"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1254"
      inkscape:window-height="1376"
@@ -89,20 +92,31 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Safe area"
+     style="display:none">
+    <circle
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.42300001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.423, 1.269;stroke-dashoffset:0;stroke-opacity:1"
+       id="path835"
+       cx="67.73333"
+       cy="67.73333"
+       r="54.186668" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="BG"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      transform="translate(0,-161.53332)">
     <g
        id="g936"
-       transform="matrix(1.4429255,0,0,1.4500576,-1.527096,159.6639)"
-       style="">
+       transform="matrix(1.4429255,0,0,1.4500576,-1.527096,159.6639)">
       <g
          style="display:inline"
          transform="translate(0,41.934631)"
