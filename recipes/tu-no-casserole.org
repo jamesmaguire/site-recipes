@@ -1,6 +1,6 @@
 #+TITLE: Tu-No Casserole
 #+DATE: 2020-10-11
-#+SETUPFILE: ../recipe.setup
+#+SETUPFILE: recipe.setup
 
 [[https://gamechangersmovie.com/recipes/tu-no-casserole/][Original link]]
 
