@@ -12,6 +12,7 @@
 - [[file:recipes/simmered-coconut-curried-tofu.org][Simmered Coconut Curried Tofu]]
 
 * East Asian
+- [[file:recipes/peanut-chilli-noodles.org][Peanut Chilli Noodles]]
 - [[file:recipes/cashew-ramen-egg.org][Cashew Ramen Egg]]
 - [[file:recipes/tan-tan-noodles.org][Tan Tan Noodles]]
 - [[file:recipes/dan-dan-noodles.org][Dan Dan Noodles]]
@@ -50,6 +51,7 @@
 - [[file:recipes/peanut-butter-smoothie.org][Peanut Butter Smoothie]]
 
 * Sauces/dips
+- [[file:recipes/homemade-chilli-oil.org][Homemade chilli oil]]
 - [[file:recipes/oil-free-hummus.org][Oil-Free Hummus]]
 - [[file:recipes/creamy-jalapeno-avocado-sauce.org][Creamy Jalapeno Avocado Sauce]]
 

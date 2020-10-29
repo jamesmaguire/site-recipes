@@ -1,0 +1,35 @@
+#+TITLE: Peanut Chilli Noodles
+#+DATE: 2020-10-22
+#+SETUPFILE: recipe.setup
+
+[[https://www.youtube.com/watch?v=mfs_ykCaqfg2][Original link]]
+
+* Ingredients
+- 1 handful cremini or button mushrooms
+- 2 pieces garlic
+- 1 small piece ginger
+- 2 sticks green onion
+- 100g extra firm tofu
+- 1 bundle udon noodles
+- drizzle of toasted sesame oil
+- 3 tbsp chili oil ([[file:./homemade-chilli-oil.org][Homemade chilli oil]])
+- 1 small bunch canned bamboo
+- 1/4 cup corn
+- 1 tbsp peanut butter
+- 2 tbsp soy sauce
+- 1/2 cup water
+- 2 tbsp crushed roasted peanuts
+- 1 tbsp white sesame seeds
+
+* Instructions
+1. Bring a pot of water to boil for the noodles
+2. Quarter the mushrooms.  Finely chop the garlic and ginger.  Chop the green onion leaving some of the green part for garnish
+3. Use a paper towel to dry off the tofu.  Then, crumble and set aside
+4. Cook the noodles for half the time to package instructions (in this case 4min)
+5. When the noodles are cooked, strain out the water and toss with a drizzle of toasted sesame oil
+6. Heat up a saute pan on medium heat
+7. Add the chili oil.  Then, saute the garlic, ginger, and green onion for about 1min
+8. Add the tofu and bamboo.  Saute for a few minutes
+9. Add the mushrooms, corn, peanut butter, soy sauce, and the noodles
+10. Add the 1/2 cup water and stir until the noodles have absorbed the liquid (few minutes)
+11. Garnish with the rest of the green onion, peanuts, the white sesame seeds, and an optional drizzle of chili oil
