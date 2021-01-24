@@ -46,9 +46,12 @@
 - [[file:recipes/tortilla-soup.org][Tortilla Soup]]
 - [[file:recipes/west-african-peanut-soup.org][West African Peanut Soup]]
 
-* Smoothies
-- [[file:recipes/mango-lassi.org][Mango Lassi]]
+* Breakfasts
+- [[file:recipes/porridge.org][Porridge]]
 - [[file:recipes/peanut-butter-smoothie.org][Peanut Butter Smoothie]]
+- [[file:recipes/peanut-butter-smoothie.org][Peanut Butter Smoothie]]
+- [[file:recipes/oven-pancakes.org][Oven Pancakes]]
+- [[file:recipes/my-overnight-oats.org][Overnight Oats]]
 
 * Sauces/dips
 - [[file:recipes/homemade-chilli-oil.org][Homemade chilli oil]]
@@ -62,5 +65,4 @@
 
 * Miscellaneous
 - [[file:recipes/coconut-bacon.org][Coconut Bacon]]
-- [[file:recipes/oven-pancakes.org][Oven Pancakes]]
-- [[file:recipes/my-overnight-oats.org][Overnight Oats]]
+- [[file:recipes/mango-lassi.org][Mango Lassi]]
