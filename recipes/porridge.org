@@ -1,0 +1,25 @@
+#+TITLE: Porridge
+#+DATE: 2021-01-24
+#+SETUPFILE: recipe.setup
+
+* Ingredients
+
+- 1/2 cups oats
+- 1 cup oat milk + dash after cooked
+- Pinch salt
+
+** Optional
+- 2tbsp quinoa mixed into oats
+- Dried fruit
+- Frozen fruit
+- Peanut butter
+- Hemp seeds
+- Flaxseed meal
+
+* Instructions
+
+  1. Add the oats and oat milk to sauspan
+  2. Turn on the heat
+  3. Add in the salt
+  4. Stir every now and then until cooked as preferred
+  5. Stir through another dash of oat milk
