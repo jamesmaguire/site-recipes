@@ -1,0 +1,22 @@
+#+TITLE: Enchilada Lasagne
+#+DATE: 2021-07-25
+#+SETUPFILE: recipe.setup
+
+[[https://www.emilieeats.com/vegan-enchilada-casserole/][Original link]]
+
+* Ingredients
+- 1 large bell pepper, thinly sliced
+- 1/2 medium yellow onion, thinly sliced
+- 2 cloves garlic, minced
+- 1/2 teaspoon ground cumin
+- 1/2 teaspoon ground paprika
+- 2 1/4 cups enchilada sauce
+- 18 corn tortillas
+- 3 cups (2 15-ounce cans) low-sodium black beans, drained and rinsed
+- 1 1/2 cups shredded vegan cheese
+
+* Instructions
+1. Preheat oven to 180\deg{}C.
+2. In a medium skillet over medium heat, add oil. When hot, add bell pepper and onion. Sauté for 6-8 minutes, until tender. Add garlic, cumin, and paprika; cook for 1 minute, until fragrant.
+3. In a 9x13 baking dish, layer casserole ingredients in this order: 3/4 cup enchilada sauce, 6 corn tortillas, 1 cup black beans, 1/2 cup sautéed vegetables, 1/2 cup vegan cheese. Repeat two more times.
+4. Bake for 30 minutes. Let cool before serving.
