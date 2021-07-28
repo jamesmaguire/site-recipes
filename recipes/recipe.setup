@@ -9,3 +9,4 @@
 # Navigation
 #+HTML_LINK_HOME: ../index.html
 #+HTML_LINK_UP: ../index.html
+#+BIND: org-html-home/up-format "<div id=\"org-div-home-and-up\"> <a href=\"%s\"> Home </a> </div>"

@@ -1,57 +1,34 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+/* Loosely based on - https://codepen.io/THEORLAN2/pen/bpBeyv */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*, :before, :after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Roboto, sans-serif;
+  font-size: 12pt;
+}
 
 html {
-    min-height: 100%;
+  height: 100%;
+  background: linear-gradient(135deg,
+    rgba(251,250,246,1) 9%,
+    rgba(212,206,191,1) 74%,
+    rgba(212,206,191,1) 100%);
+  background: linear-gradient(135deg, #ff450000 9%, #ff450011 44%, #ff450033 100%);
+  background-attachment: fixed;
 }
 
 body {
-    height: 100%;
-    font-family: Lora, serif;
-    font-size: 13px;
-    line-height: 1.4;
-    background: linear-gradient(
-        to bottom,
-        #ddd,
-        #ccc);
+  margin: auto;
+  text-align: center;
+  padding-bottom: 2rem;
 }
 
-#content {
-    color: #444;
-    background: #FFF;
-    width: 80%;
-    overflow-y: auto;
-    margin: auto;
-    margin-top: 1rem;
-    margin-bottom: 3rem;
-    border-radius: 5px;
-    padding: 7%;
-    padding-top: 1rem;
-    padding-bottom: 2rem;
-    box-shadow: 1px 1px  20px  -5px  rgba(0,0,0,0.2);
-}
-
-h1 { /* Title */
-    color: #241C3E;
-    text-transform: capitalize;
-    text-align: center;
-    font-weight: 700;
-    font-size: 200%;
-    border-bottom: 3px solid #EDEDEC;
-    padding-bottom: 1.5rem;
-}
-
-#org-div-home-and-up {
-    text-align: center;
-    font-size: 90%;
-    padding-top: 0.5rem;
-    text-transform: lowercase;
-}
-
-a {
-    color: steelblue;
-    text-decoration: none;
-}
-
-a:hover {
-    text-shadow: 2px 2px 2px lightgrey;
+h1 {
+  text-align: center;
+  font-size: 150%;
+  padding-top: 1rem;
+  padding-bottom: 0.2rem;
 }

@@ -1,33 +1,60 @@
-#content {
-    max-width: 30rem;
-    padding: 1.5rem;
+#org-div-home-and-up {
+  display: none;
 }
 
 #filterInput {
-    background: #EEEEEE;
-    width: 45%;
-    text-align: left;
-    font-size: 100%;
-    padding: 0.3rem;
-    margin: 0;
-    border: none;
-    border-radius: 5px;
-}
-
-h2 {
-    color: grey;
-    font-size: 110%;
-    margin: 0;
-    padding: 0;
+  background: white;
+  width: 95%;
+  text-align: left;
+  font-size: 100%;
+  padding: 0.3rem;
+  margin-top: 1rem;
+  border: none;
+  border-bottom: 1px solid #ddd;
 }
 
 ul {
-    list-style-type: none;
-    padding: 0;
-    margin-top: 0;
-    margin-bottom: 0.8rem;;
+  list-style: none;
+  line-height: 1.5;
 }
 
-li {
-    margin: 0.3rem;
+#content {
+  text-align: left;
+  background: white;
+  margin: auto;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  padding: 3rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  width: 60ch;
+  max-width: 90%;
+  border-radius: 3px;
+  box-shadow: 1px 1px  20px -5px rgba(0,0,0,0.2);
 }
+
+
+a {
+  text-decoration: none;
+  color: #333;
+  font-size: 90%;
+}
+a:hover {
+  color: #ff4500cc;
+}
+h2 {
+  text-transform: uppercase;
+  padding-top: 1rem;
+  font-weight: normal;
+  padding-bottom: 0.5rem;
+  
+}
+/*   text-transform: uppercase;
+  padding: 1rem;
+  margin-left: -4rem;
+  padding-top: 0.5rem;
+  padding-bottom: 1.5rem;
+  border-top: 5px solid orangered;
+  width: min-content; */
+}
+

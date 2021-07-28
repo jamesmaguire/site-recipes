@@ -1,75 +1,87 @@
-#content {
-    max-width: 55rem;
-}
 
 .outline-2 {
-    padding-right: 1rem;;
+  text-align: left;
+  background: white;
+  margin: auto;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  padding-bottom: 1rem;
+  width: 60ch;
+  max-width: 90%;
+  border-radius: 3px;
+  box-shadow: 1px 1px 20px -5px rgba(0,0,0,0.2);
+  overflow-y: auto;
+  resize: vertical;
+  height: 35vh;
 }
 
+/* Heading */
+h1 {
+  text-align: center;
+  font-size: 150%;
+  padding-top: 1rem;
+  padding-bottom: 0.2rem;
+}
+a {
+  padding-top: 1rem;
+  text-decoration: none;
+  color: grey;
+  text-transform: lowercase;
+  font-size: 90%;
+}
 h2 {
-    color: #241C3E;
-    font-weight: bold;
-    font-size: 120%;
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
+  text-decoration: underline;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding: 1rem;
+  margin-left: -3rem;
+  width: min-content;
+  color: #222;
 }
-
 h3 {
-    color: #241C3E;
-    font-size: 100%;
-    font-weight: normal;
-    font-style: italic;
-    padding: 0;
-    margin: 0;
+  padding-bottom: 0.5rem;
+}
+.outline-3 {
+  padding-bottom: 1rem;
 }
 
+/* Ingredients */
 ul {
-    padding: 0;
-    max-width: 30ch;
-    list-style: none;
+  list-style: none;
+}
+ul li {
+  line-height: 1.4;
 }
 
+/* Instructions */
 ol {
-    padding: 0;
-    margin: 0;
-    margin-left: 2ch;
-    max-width: 60ch;
+  list-style: none;
+  counter-reset: instructions;
 }
-
-li {
-    padding: 0.2rem;
-    padding-right: 0;
-    padding-left: 0.3rem;
-    border-radius: 3px;
+ol li {
+  line-height: 1.4;
+  counter-increment: instructions;
+  padding-left: 1rem;
+  margin-left: -1rem;
+  margin-bottom: 1.5rem;
+  padding-right: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-left: 3px solid #ff450033;
 }
-
+ol li:before {
+  width: 120%;
+  display: block;
+  font-weight: bold;
+  font-size: 80%;
+  color: #444;
+  padding-bottom: 1rem;
+  content: "STEP " counter(instructions) " ";
+  margin-left: -1.2rem;
+  background: white;
+}
 li:hover {
-    background: #eee;
-    transition-duration: 0.5s;
-}
-
-.outline-2 {
-    float: left;
-}
-
-table, tbody, colgroup {
-    border: none;
-}
-
-table {
-    font-family: Sans;
-    font-size: 70%;
-    border: black 1px solid;
-}
-
-td, th {
-    padding: 2px;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-th.org-left {
-    text-align: left;
-    font-size: 120%;
-    border-bottom: black 1px solid;
+  background-color: #ff450011;
+  transition-duration: 0.5s;
 }
