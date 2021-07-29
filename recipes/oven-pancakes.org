@@ -20,7 +20,7 @@
    - Banana
    - Dark choc chips
 
-* Instructions
+* Method
   1. Preheat oven to 200\deg{}C
   2. In a medium bowl, add the flour, sugar, baking powder, and salt, and stir to combine.
   3. In a medium bowl or liquid measuring cup, add almond milk, apple cider vinegar, and vanilla, and stir to combine. Let it sit for 5-7 minutes.

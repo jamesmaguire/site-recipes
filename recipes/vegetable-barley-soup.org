@@ -25,7 +25,7 @@
 - salt
 - pepper
 
-* Instructions
+* Method
 - Heat olive oil in a large pot over medium heat.
 - Add onions, carrots, and celery to oil; season with salt and pepper.
 - Saute veggies until softened, about 5 minutes.

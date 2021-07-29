@@ -17,7 +17,7 @@
    - Frozen strawberry
    - LSA/flaxseed
 
-* Instructions
+* Method
   1. Add to blender
   2. Blend
 

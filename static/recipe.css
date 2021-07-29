@@ -55,7 +55,7 @@ ul li {
   line-height: 1.4;
 }
 
-/* Instructions */
+/* Method */
 ol {
   list-style: none;
   counter-reset: instructions;

@@ -29,7 +29,7 @@ This recipe will make a single serving.
    - 1 tbsp korean dried chili pepper threads
    - 1 [[file:./cashew-ramen-egg.org][cashew ramen egg]] 
 
-* Instructions
+* Method
   1. Bring a pot of water to boil for the noodles. In the meantime, heat up a sauté pan on medium high heat and add a drizzle of olive oil
   2. Sauté the bamboo for a few minutes. Add the corn and sauté for another minute. Then, set aside
   3. Mince the rehydrated wild mushrooms and sauté with a pinch of pink salt for 2-3min. Then, set aside
