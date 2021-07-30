@@ -1,68 +1,100 @@
-@import url('https://fonts.googleapis.com/css2?family=Average&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Georgia&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 *, :before, :after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: Average;
-  color: #1e282f;
+  color: black;
+  
+  --main-colour: #6b705c;
+  --secondary-colour: #bc6c25;
+  
+  --search-bar: #b7b7a4;
 }
 
 html {
-  height: 100%;
-  background: linear-gradient(to right, lightsteelblue 2rem, white 0);
+  min-height: 100%;
+  background: linear-gradient(to bottom, var(--main-colour) 3rem, white 0, white 100%);
 }
+
 #org-div-home-and-up {
-  padding-left: calc(2rem + 5%);  
+  display: flex;
+  height: 3rem;
+  padding-left: 2rem;
   padding-top: 1rem;
   padding-bottom: 1rem;
-/*   background-color: lightsteelblue; */
   margin-bottom: 2rem;
 }
-#content {
-  padding-left: calc(2rem + 5%);
-  padding-right: 4rem;
+#org-div-home-and-up a {
+  color: var(--search-bar);
+}
+#org-div-home-and-up a:before {
+  background-color: var(--search-bar);
 }
 
+#content {
+  margin-left: 10%;
+  padding-bottom: 5rem;
+  font-family: Roboto;
+  font-size: 16px;
+  letter-spacing: 0.08rem;
+  font-weight: normal;
+}
 
 h1 {
-  font-size: 36px;
-  font-weight: normal;
-  text-align: 
-}
-a {
   font-family: Montserrat;
-  font-size: 13px;
-  color: #a3865b;
-  text-transform: uppercase;
-  text-decoration: none;
+  font-weight: 500;
+  text-transform: lowercase;
+  font-size: 48px;
+  padding-top: 4rem;
 }
 h2 {
-  font-family: Georgia;
-  color: steelblue;
-  font-size: 24px;
   font-weight: normal;
-  font-style: italic;
-  border-bottom: 2px solid lightsteelblue;
-  margin-bottom: 1.5rem;
+  padding-top: 2rem;
+  padding-bottom: 0.3rem;
 }
 h3 {
   font-size: 100%;
-  font-family: Georgia;
   font-weight: bold;
-  font-style: italic;
   margin-top: 1rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
 }
+
+a {
+  position: relative;
+  font-family: Montserrat;
+  font-size: 13px;
+  color: var(--secondary-colour);
+  text-transform: uppercase;
+  text-decoration: none;
+}
+a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--secondary-colour);
+  visibility: hidden;
+  transform: scaleX(0);
+  transition: all 0.1s ease-in-out;
+}
+a:hover:before {
+  visibility: visible;
+  transform: scaleX(1);
+}
+
 
 .outline-2 {
   display: inline-block;
   vertical-align: top;
   text-align: justify;
-  width: 60ch;
-  padding: 2rem;
+  max-width: 60ch;
+  width: 90%;
+  padding-top: 2rem;
+  margin-right: 4rem;
 }
 .ingredients {
   width: 35ch;
@@ -71,21 +103,28 @@ h3 {
 
 li {
   list-style: none;
-  padding-bottom: 0.4rem;
-}
-li:hover {
-  background-color: #b0c4de33;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  padding-left: 0.5rem;
+  line-height: 1.1;
 }
 ol {
   counter-reset: step;
+}
+li a {
+  font-family: Roboto;
+  font-size: 100%;
+  text-transform: none;
 }
 ol li::before {
   display: block;
   counter-increment: step;
   content: "Step " counter(step);
-  margin-top: 1rem;
-  margin-bottom: 0.5rem;
-  font-family: Georgia;
+  margin-top: 1.5rem;
+  margin-bottom: 0.2rem;
   font-weight: bold;
-  font-style: italic;
+}
+ol li {
+  line-height: 1.4;
+  letter-spacing: 0.04rem;
 }
