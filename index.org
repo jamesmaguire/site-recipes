@@ -21,7 +21,7 @@
 - [[file:recipes/firecracker-vegan-lettuce-wraps.org][Firecracker Vegan Lettuce Wraps]]
 
 * Mexican
-- [[file:recipes/enchilada-lasagne.org][Encilada Lasagne]]
+- [[file:recipes/enchilada-lasagne.org][Enchilada Lasagne]]
 - [[file:recipes/vegetarian-chili.org][Vegetarian Chili]]
 - [[file:recipes/quinoa-enchilada-casserole.org][Quinoa Enchilada Casserole]]
 - [[file:recipes/vege-chilli-con-carne.org][Vege Chilli Con Carne]]
