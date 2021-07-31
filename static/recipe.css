@@ -20,6 +20,7 @@ html {
 
 #org-div-home-and-up {
   display: flex;
+  align-items: center;
   height: 3rem;
   padding-left: 2rem;
   padding-top: 1rem;
@@ -28,9 +29,18 @@ html {
 }
 #org-div-home-and-up a {
   color: var(--search-bar);
+  margin-left: 0.3rem;
 }
 #org-div-home-and-up a:before {
   background-color: var(--search-bar);
+}
+
+#org-div-home-and-up::before {
+  content: "";
+  background-image: url("../static/home-icon.svg");
+  height: 1.8rem;
+  width: 1.8rem;
+  background-size: 1.8rem 1.8rem;
 }
 
 #content {
@@ -127,4 +137,78 @@ ol li::before {
 ol li {
   line-height: 1.4;
   letter-spacing: 0.04rem;
+}
+
+
+/* Checkbox */
+.check {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.check input[type=checkbox] {
+  display: none;
+}
+.check span {
+  position: relative;
+  float: left;
+  margin-left: -1.5rem;
+  margin-right: 0.5rem;
+  height: 0.8rem;
+  width: 0.8rem;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  transition: all 0.1s ease-in-out;
+}
+[type=checkbox]:checked + span {
+  background-color: var(--secondary-colour);
+  border: 2px solid var(--secondary-colour);
+  
+}
+[type=checkbox]:checked + span:before {
+  content: "";
+  background-image: url(../static/tick-mark.svg);
+  height: 0.8rem;
+  width: 0.8rem;
+  background-size: 0.8rem 0.8rem;
+  position: absolute;
+  top: -2px;
+  left: -2px;
+}
+
+#btns {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: 1rem;
+  top: 0rem;
+  height: 3rem;
+}
+button {
+  width: 2rem;
+  height: 1.5rem;
+  border: none;
+  border-radius: 4px;
+  
+  color: var(--main-color);
+  background-color: var(--search-bar);
+/*   background: none; */
+  margin-left: 1rem;
+}
+button:hover {
+  color: #333;
+  cursor: pointer;
+}
+button:active {
+  transform: translate(1px, 1px);
+}
+#copy-btn {
+  content: "";
+  background-image: url("../static/copy-icon.svg");
+  background-size: 100% 100%;
+}
+#untick-btn {
+  content: "";
+  background-image: url("../static/refresh-icon.svg");
+  background-size: 100% 100%;
 }
