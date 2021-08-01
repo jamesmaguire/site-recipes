@@ -12,6 +12,7 @@
 - [[file:recipes/simmered-coconut-curried-tofu.org][Simmered Coconut Curried Tofu]]
 
 * East Asian
+- [[file:recipes/mapo-tofu.org][Mapo tofu]]
 - [[file:recipes/peanut-chilli-noodles.org][Peanut Chilli Noodles]]
 - [[file:recipes/cashew-ramen-egg.org][Cashew Ramen Egg]]
 - [[file:recipes/tan-tan-noodles.org][Tan Tan Noodles]]
