@@ -102,9 +102,10 @@ a:hover:before {
   vertical-align: top;
   text-align: justify;
   max-width: 60ch;
+  min-width: 35ch;
   width: 90%;
   padding-top: 2rem;
-  margin-right: 4rem;
+  padding-right: 5%;
 }
 .ingredients {
   width: 35ch;
