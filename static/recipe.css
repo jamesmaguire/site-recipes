@@ -213,3 +213,20 @@ button:active {
   background-image: url("../static/refresh-icon.svg");
   background-size: 100% 100%;
 }
+
+/* Notification */
+#notify {
+  position: absolute;
+  visibility: hidden;
+  top: 4rem;
+  right: 1rem;
+  font-family: Roboto;
+  color: var(--main-colour);
+  padding: 0.5rem;
+  width: 13ch;
+  background-color: #0001;
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: #ddd 2px 2px 2px;
+  pointer-events: none;
+}

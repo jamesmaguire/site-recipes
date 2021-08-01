@@ -9,4 +9,4 @@
 # Navigation
 #+HTML_LINK_HOME: ../index.html
 #+HTML_LINK_UP: ../index.html
-#+BIND: org-html-home/up-format "<div id=\"org-div-home-and-up\"> <a href=\"%s\"> Home </a> </div> <div id=\"btns\"><button id=\"copy-btn\" onclick=\"copyTicked()\"></button> <button id=\"untick-btn\" onclick=\"untickAll()\"></button></div>"
+#+BIND: org-html-home/up-format "<div id=\"org-div-home-and-up\"> <a href=\"%s\"> Home </a> </div> <div id=\"btns\"><button id=\"copy-btn\" onclick=\"copyTicked()\"></button> <button id=\"untick-btn\" onclick=\"untickAll()\"></button></div><div id=\"notify\">Copied!</div>"

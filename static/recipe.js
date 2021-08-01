@@ -24,7 +24,18 @@ function copyTicked() {
             text += items[i].innerText;
         }
     }
-    navigator.clipboard.writeText(text);
+    if (text) {
+        document.getElementById("notify").innerText = "Copied!";
+        navigator.clipboard.writeText(text);
+        displayNotification();
+    } else {
+        document.getElementById("notify").innerText = "Tick items to copy";
+        displayNotification();
+    }
+}
+function displayNotification() {
+    document.getElementById("notify").style.visibility = "visible";
+    setTimeout(() => document.getElementById("notify").style.visibility = "hidden", 1000);
 }
 
 function untickAll() {
