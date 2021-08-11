@@ -19,7 +19,7 @@ function copyTicked() {
         let item = items[i].getElementsByTagName("input")[0];
         if (item.checked) {
             if (text != "") {
-                text += "\n";
+                text += "\r\n";
             }
             text += items[i].innerText;
         }
