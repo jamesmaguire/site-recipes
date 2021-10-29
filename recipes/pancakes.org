@@ -1,0 +1,22 @@
+#+TITLE: Pancakes
+#+DATE: 2021-10-30
+#+SETUPFILE: recipe.setup
+
+* Ingredients
+
+** Wet
+- 1 cup flour
+- 2 tablespoons organic sugar
+- 1 tablespoon baking powder
+- 1/2 teaspoon salt
+** Dry
+- 1 cup non-dairy milk (240 mL)
+- 1 tablespoon apple cider vinegar
+- 1 teaspoon vanilla
+
+* Method
+
+1. In a medium bowl add dry ingredients and stir to combine.
+2. Create a well in dry ingredients and add wet ingredients.
+3. Whisk until smooth, then rest for 5 minutes.
+4. Cook on pan and serve.

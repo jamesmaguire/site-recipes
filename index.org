@@ -51,6 +51,7 @@
 - [[file:recipes/west-african-peanut-soup.org][West African Peanut Soup]]
 
 * Breakfasts
+- [[file:recipes/pancakes.org][Pancakes]]
 - [[file:recipes/porridge.org][Porridge]]
 - [[file:recipes/peanut-butter-smoothie.org][Peanut Butter Smoothie]]
 - [[file:recipes/peanut-butter-smoothie.org][Peanut Butter Smoothie]]
