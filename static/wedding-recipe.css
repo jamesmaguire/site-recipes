@@ -5,9 +5,10 @@
   margin: 0;
   padding: 0;
   
-  --bg: #fff;
+  --bg: #e4ded1;
   --fg: #444;
-  --hl: #94b199;
+  --hl: #acb7a2;
+  --hd: #33623b;
 }
 
 html {
@@ -45,6 +46,7 @@ h1 {
   margin-top: 2.5rem;
   font-size: 2rem;
   margin-bottom: 2rem;
+  color: var(--hd);
 }
 
 img {
@@ -58,7 +60,7 @@ p {
 
 h2 {
   margin-top: 2rem;
-  color: black;
+  color: var(--hd);
   text-transform: uppercase;
   letter-spacing: 0.1rem;
   font-weight: 900;
@@ -94,4 +96,8 @@ li {
   width: 2rem;
   height: 2rem;
   border-radius: 1rem;
+}
+
+a {
+  color: #4f1e0c;
 }
