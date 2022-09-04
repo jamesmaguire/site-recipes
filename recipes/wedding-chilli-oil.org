@@ -1,0 +1,55 @@
+#+TITLE: Our Favourite Chilli Oil
+
+#+OPTIONS: toc:nil creator:nil timestamp:nil html-postamble:nil num:nil
+#+OPTIONS: html-style:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/wedding-recipe.css" />
+#+HTML_HEAD: <link rel="icon" type="image/ico" href="../static/favicon.svg" />
+
+[[../images/chilli-oil.png]]
+
+Congratulations! You've won a jar of our favourite chilli oil. It's a great condiment, we make it ourselves and we love using it in lots of different ways, so we thought it would be fun to share with some of our favourite people.
+
+* How to use chilli oil
+Some of our favourite ways to use our chilli oil include:
+
+- drizzled over avocado toast
+- drizzled with soy sauce over dumplings
+- [[file:dan-dan-noodles.org][dan dan noodles]]
+- drizzled over a [[file:creamy-ramen.org][creamy bowl of ramen]]
+
+If you enjoy the chilli oil, here's how you can make it yourself:
+
+* Ingredients:
+2 tsp Sichuan peppercorns
+
+4 tbsp red pepper powder (we use Korean gochugaru)
+
+2 tbsp sesame seeds
+
+1 star anise
+
+1 bay leaf
+
+1 tsp sesame oil
+
+1 cup grapeseed oil
+
+1 small piece ginger
+
+* Method: 
+
+1. Crush the peppercorns in a pestle and mortar. Then, add all of the dry ingredients and sesame oil into a mason jar (you can pre-warm the glass with hot water to prevent cracking)
+1. Heat the grapeseed oil in a saucepan over medium high heat for about 5-8min
+1. Place the ginger in the oil
+1. When the ginger turns golden brown, remove it, and turn the heat off
+1. Carefully pour the hot oil into the mason jar
+1. Once cool, store in the fridge
+
+We hope you enjoy it!
+
+Lots of love,
+
+Alex & James
+
+@@html: <div class="header"> <img class="bubble" src="../images/alex-james.png"> Alex & James, 2022 </div> @@
+

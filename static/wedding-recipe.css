@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+*, :before, :after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+  --bg: #fff;
+  --fg: #444;
+  --hl: #94b199;
+}
+
+html {
+  min-height: 100%;
+  background: var(--bg);
+}
+
+body {
+  background: var(--bg);
+  padding-top: 1rem;
+  border: 1px lightgrey solid;
+  margin: 2rem;
+  margin-top: 7rem;
+  margin-bottom: 3rem;
+  padding-bottom: 3rem;
+}
+
+#content {
+  width: min(75ch, 80%);
+  margin: auto;
+  padding-bottom: 5rem;
+  font-family: Lato;
+  font-size: 16px;
+  letter-spacing: 0.08rem;
+  font-weight: normal;
+  color: var(--fg);
+}
+
+
+h1 {
+  text-transform: uppercase;
+  font-weight: 900;
+  letter-spacing: 0.5rem;
+  color: black;
+  margin-top: 2.5rem;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+p {
+  line-height: 1.7rem;
+}
+
+h2 {
+  margin-top: 2rem;
+  color: black;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  font-weight: 900;
+  margin-bottom: 0.2rem;
+}
+
+ul,ol {
+  margin-top: 1rem;
+  margin-left: 5ch;
+}
+
+li {
+  margin-bottom: 1rem;
+}
+
+.header {
+  background-color: var(--hl);
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  text-align: left;
+  padding: 1.5rem;
+  letter-spacing: 0.05rem;
+}
+.header img {
+  margin: 0;
+  padding: 0;
+  margin-bottom: -0.5rem;
+  margin-top: -0.5rem;
+  margin-right: 0.7rem;
+  float: left;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 1rem;
+}
