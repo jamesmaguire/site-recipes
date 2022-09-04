@@ -44,6 +44,7 @@
 - [[file:recipes/sweet-potato-chickpea-buddha-bowl.org][Sweet Potato Chickpea Buddha Bowl]]
 
 * Soups
+- [[file:recipes/hearty-lentil-soup.org][Hearty Lentil Soup]]
 - [[file:recipes/creamy-potato-and-leek-soup.org][Creamy Potato and Leek Soup]]
 - [[file:recipes/vegetable-barley-soup.org][Vegetable Barley Soup]]
 - [[file:recipes/creamy-pasta-soup.org][Creamy Pasta Soup]]
@@ -53,6 +54,7 @@
 - [[file:recipes/west-african-peanut-soup.org][West African Peanut Soup]]
 
 * Breakfasts
+- [[file:recipes/huevos-rancheros.org][Huevos Rancheros]]
 - [[file:recipes/pancakes.org][Pancakes]]
 - [[file:recipes/porridge.org][Porridge]]
 - [[file:recipes/peanut-butter-smoothie.org][Peanut Butter Smoothie]]

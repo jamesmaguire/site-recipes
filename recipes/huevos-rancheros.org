@@ -1,0 +1,34 @@
+#+TITLE: Huevos Rancheros
+#+DATE: 2022-09-04
+#+SETUPFILE: recipe.setup
+
+* Ingredients
+** Salsa
+- Can of tomatoes (chopped)
+- Hot sauce
+- Red onion
+- Jalepeno
+- Corn (optional)
+- Cumin
+- Paprika
+- Salt & Pepper
+
+** Tofu scramble
+- Tofu (firm)
+- Black salt
+- Turmeric
+- Salt & Pepper
+
+** Other
+- Small tortillas
+- Avocado
+- Fresh lime
+
+* Instructions
+  1. Turn oven to 200\deg{}C
+  2. Cook onion and jalapeno in saucepan until brown
+  3. Add other salsa ingredients and bring to boil
+  4. Cook crumbled tofu with spices
+  5. Place mound of salsa onto tortilla and then top with tofu scramble
+  6. Cook in oven for 15 minutes or until tortilla is crisp
+  7. Serve with avocado and fresh squeeze of lime juice
