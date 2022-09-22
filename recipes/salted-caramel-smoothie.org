@@ -1,0 +1,16 @@
+#+TITLE: Salted caramel smoothie
+#+DATE: 2022-09-23
+#+SETUPFILE: recipe.setup
+
+Inspired by Bare Wholefoods, Sydney
+
+* Ingredients
+  - Coconut water
+  - Dates (3 per serve)
+  - Banana
+  - Cinnamon
+  - Almond butter (or sub peanut butter)
+  - Sea salt
+
+* Instructions
+  1. Combine ingredients in preferred quantities in blender and blend

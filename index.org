@@ -4,6 +4,7 @@
 @@html:<div id="filterinput"><input type="text" id="filterInput" onkeyup="indexFilter()" placeholder="What's for dinner?"></div>@@
 
 * Indian
+- [[file:recipes/easy-dal.org][Easy dal]]
 - [[file:recipes/chickpea-curry.org][Chickpea curry]]
 - [[file:recipes/vegan-palak-paneer.org][Vegan Palak Paneer]]
 - [[file:recipes/curried-chickpea-and-quinoa.org][Curried Chickpea and Quinoa]]
@@ -54,6 +55,7 @@
 - [[file:recipes/west-african-peanut-soup.org][West African Peanut Soup]]
 
 * Breakfasts
+- [[file:recipes/salted-caramel-smoothie.org][Salted caramel smoothie]]
 - [[file:recipes/huevos-rancheros.org][Huevos Rancheros]]
 - [[file:recipes/pancakes.org][Pancakes]]
 - [[file:recipes/porridge.org][Porridge]]
