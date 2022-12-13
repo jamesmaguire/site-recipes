@@ -34,6 +34,7 @@
 - [[file:recipes/vegetarian-burrito-bowl.org][Vegetarian Burrito Bowl]]
 
 * White people food
+- [[file:recipes/nut-loaf.org][Nut loaf]]
 - [[file:recipes/tu-no-casserole.org][Tu-No Casserole]]
 - [[file:recipes/cobb-salad.org][Cobb Salad]]
 - [[file:recipes/mac-n-cheese.org][Vegan Mac 'n' Cheese]]
