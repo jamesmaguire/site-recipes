@@ -157,6 +157,7 @@ ol li {
   margin-right: 0.5rem;
   height: 0.8rem;
   width: 0.8rem;
+  min-width: 0.8rem;
   border: 1px solid #ddd;
   border-radius: 3px;
   transition: all 0.1s ease-in-out;
