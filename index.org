@@ -24,6 +24,7 @@
 - [[file:recipes/firecracker-vegan-lettuce-wraps.org][Firecracker Vegan Lettuce Wraps]]
 
 * Mexican
+- [[file:recipes/crispy-oven-balck-bean-tacos.org][Crispy Oven Balck Bean Tacos]]
 - [[file:recipes/enchilada-bake.org][Enchilada Bake]]
 - [[file:recipes/roast-cauliflower-tacos.org][Roast Cauliflower Tacos with Green Sauce]]
 - [[file:recipes/enchilada-lasagne.org][Enchilada Lasagne]]
