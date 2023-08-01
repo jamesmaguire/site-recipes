@@ -12,7 +12,8 @@
 - [[file:recipes/1-pot-lentil-dal.org][1 Pot Lentil Dal]]
 - [[file:recipes/simmered-coconut-curried-tofu.org][Simmered Coconut Curried Tofu]]
 
-* East Asian
+* Asian
+- [[file:recipes/japanese-curry.org][Japanese curry]] 
 - [[file:recipes/creamy-ramen.org][Creamy ramen]] 
 - [[file:recipes/mapo-tofu.org][Mapo tofu]]
 - [[file:recipes/peanut-chilli-noodles.org][Peanut Chilli Noodles]]
