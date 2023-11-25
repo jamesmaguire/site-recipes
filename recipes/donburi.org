@@ -1,0 +1,16 @@
+#+TITLE: Donburi
+#+DATE: 2023-11-25
+#+SETUPFILE: recipe.setup
+
+* Ingredients
+  - Sushi rice
+  - Vegan kewpie mayo
+  - Carrots (julienne)
+  - Cucumber (julienne)
+  - Brocolli (lightly steamed)
+  - Corn
+  - Tofu (crumbed)
+  - Mushrooms (soy sauce and sriracha)
+
+* Instructions
+  1. Prepare ingredients and plate up

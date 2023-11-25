@@ -1,0 +1,25 @@
+#+TITLE: Nasi Lemak
+#+DATE: 2023-11-25
+#+SETUPFILE: recipe.setup
+
+* Ingredients
+** Coconut rice
+- 1.5 cups rice
+- 1/2 cup coconut milk
+- 2 cups water
+- Lemongrass stalk
+- 3 cloves garlic
+- Ginger
+
+** Toppings
+- Rendang (Wan Long)
+- Sambal sauce
+- Cucumber
+- Roast peanuts
+- Crispy fried shallots
+
+* Instructions
+1. Cook rice
+2. Heat rendang
+3. Prepare toppings
+4. Serve up

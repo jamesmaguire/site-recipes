@@ -13,6 +13,8 @@
 - [[file:recipes/simmered-coconut-curried-tofu.org][Simmered Coconut Curried Tofu]]
 
 * Asian
+- [[file:recipes/donburi.org][Donburi]]
+- [[file:recipes/nasi-lemak.org][Nasi Lemak]]
 - [[file:recipes/japanese-curry.org][Japanese curry]] 
 - [[file:recipes/creamy-ramen.org][Creamy ramen]] 
 - [[file:recipes/mapo-tofu.org][Mapo tofu]]
