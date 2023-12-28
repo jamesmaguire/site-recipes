@@ -1,0 +1,25 @@
+#+TITLE: Edamame Rice
+#+DATE: 2023-12-28
+#+SETUPFILE: recipe.setup
+
+[[https://www.chinasichuanfood.com/steamed-tofu/#ingredients][Original link]] (just using sauce recipe)
+
+* Ingredients
+** Rice/topping
+- Jasmine or other preferred rice
+- Edamame (steamed or microwaved)
+- Peanuts
+** Sauce
+- 2 tbsp light soy sauce
+- 1 tbsp vegetarian stir fry sauce
+- 1 tbsp sesame oil
+- 2 garlic cloves, chopped
+- 1 tbsp chopped scallion and coriander (or scallion only)
+- 1/2 tsp salt (taste your sauce and see how much is needed)
+- 1/2 tsp sugar
+- 1/2 tbsp black vinegar
+
+* Instructions
+  1. Cook rice and edamame, adjust quantity depending on levels of hunger
+  2. Mix sauce ingredients in a small container
+  3. To serve, pour sauce over rice and top with edamame and peanuts
