@@ -1,0 +1,29 @@
+#+TITLE: Roast vege and quinoa salad
+#+DATE: 2024-02-04
+#+SETUPFILE: recipe.setup
+
+* Ingredients
+- Cooked quinoa (1 cup to 2 cups water)
+** Vegies
+- Potato
+- Sweet potato
+- Carrot
+- Kale
+- Brocolli
+** Peanut, ginger and lime sauce
+- 1 Clove garlic
+- 1 tsp grated ginger
+- 3-4 tbsp water
+- 6 tbsp natural peanut butter
+- 2 tbsp fresh lime juice
+- 2 tbsp grapeseed oil
+- 1 tbsp soy sauce
+- 2 tsp maple syrup
+- 1 tsp sriracha
+- 1/4 tsp salt
+
+* Instructions
+  1. Roast the veggies
+  2. Cook the quinoa
+  3. Mix the sauce ingredients (either in blender or in a bowl)
+  4. Combine and serve
