@@ -39,6 +39,7 @@
 - [[file:recipes/vegetarian-burrito-bowl.org][Vegetarian Burrito Bowl]]
 
 * White people food
+- [[file:recipes/dried-tomato-pasta-bake.org][Dried tomato pasta bake]]
 - [[file:recipes/lentil-+-vegan-ricotta-lasagna.org][Lentil + vegan ricotta lasagna]]
 - [[file:recipes/tofu-mac-n-cheese.org][Tofu mac n cheese]] 
 - [[file:recipes/roast-vege-and-quinoa-salad.org][Roast vege and quinoa salad]]
