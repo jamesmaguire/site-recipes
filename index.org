@@ -39,8 +39,6 @@
 - [[file:recipes/vegetarian-burrito-bowl.org][Vegetarian Burrito Bowl]]
 
 * White people food
-- [[file:recipes/dried-tomato-pasta-bake.org][Dried tomato pasta bake]]
-- [[file:recipes/lentil-+-vegan-ricotta-lasagna.org][Lentil + vegan ricotta lasagna]]
 - [[file:recipes/tofu-mac-n-cheese.org][Tofu mac n cheese]] 
 - [[file:recipes/roast-vege-and-quinoa-salad.org][Roast vege and quinoa salad]]
 - [[file:recipes/nut-loaf.org][Nut loaf]]
@@ -53,6 +51,11 @@
 - [[file:recipes/roast-carrot-lentil-curry-bowls.org][Roast Carrot Lentil Curry Bowls]]
 - [[file:recipes/spicy-buddha-bowl.org][Spicy Buddha Bowl]]
 - [[file:recipes/sweet-potato-chickpea-buddha-bowl.org][Sweet Potato Chickpea Buddha Bowl]]
+
+* Italian
+- [[file:recipes/simple-pasta-bake.org][Simple pasta bake]]
+- [[file:recipes/dried-tomato-pasta-bake.org][Dried tomato pasta bake]]
+- [[file:recipes/lentil-+-vegan-ricotta-lasagna.org][Lentil + vegan ricotta lasagna]]
 
 * Soups
 - [[file:recipes/hearty-lentil-soup.org][Hearty Lentil Soup]]

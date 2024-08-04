@@ -1,0 +1,34 @@
+#+TITLE: Simple pasta bake
+#+DATE: 2024-08-05
+#+SETUPFILE: recipe.setup
+
+[[https://www.jaroflemons.com/vegan-pasta-bake/#wprm-recipe-container-145252][Original link]]
+
+* Ingredients
+- 340 g pasta (of choice)
+- 1 Tbsp olive oil
+- 1 1/2 cups diced red onion
+- 1 Tbsp minced garlic
+- 1 medium bell pepper (finely diced)
+- 2 medium carrots (finely diced)
+- 1 1/2 cups cooked green lentils
+- 700 mL jar marinara sauce
+- 400 g can diced tomatoes
+- 1/2 tsp salt
+- 1/2 tsp black pepper
+- 1/4 cup chopped fresh basil
+- 1/2 cup vegan parmesan
+- 1 1/2 cup shredded vegan mozzarella
+
+* Instructions
+1. Bring a large pot of salted water to a boil and cook pasta according to package instructions.
+2. Preheat the oven to 220\deg{}C.
+3. Add the oil to a skillet and heat over medium heat.
+4. Add in the diced onion and saute for about 5-7 minutes, until translucent.
+5. Add in the garlic, diced pepper and carrots.
+6. Saute for an additional 5 or so minutes.
+7. Add in the lentils, diced tomatoes, marinara, salt, and pepper.
+8. Stir in the cooked pasta, basil, and parmesan. Mix well to combine.
+9. Transfer to a large casserole or baking dish.
+10. Top with the mozzarella and bake, uncovered, for 20-25 minutes or until the cheese is melted.
+11. Enjoy!
