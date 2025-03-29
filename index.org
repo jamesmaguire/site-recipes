@@ -4,6 +4,7 @@
 @@html:<div id="filterinput"><input type="text" id="filterInput" onkeyup="indexFilter()" placeholder="What's for dinner?"></div>@@
 
 * Indian
+- [[file:recipes/dal-makhani.org][Dal Makhani]]
 - [[file:recipes/easy-dal.org][Easy dal]]
 - [[file:recipes/chickpea-curry.org][Chickpea curry]]
 - [[file:recipes/vegan-palak-paneer.org][Vegan Palak Paneer]]
