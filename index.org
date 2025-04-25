@@ -72,6 +72,7 @@
 - [[file:recipes/west-african-peanut-soup.org][West African Peanut Soup]]
 
 * Breakfasts
+- [[file:recipes/banana-pancakes.org][Banana pancakes]]
 - [[file:recipes/souffle-pancakes.org][Souffle Pancakes]]
 - [[file:recipes/salted-caramel-smoothie.org][Salted caramel smoothie]]
 - [[file:recipes/huevos-rancheros.org][Huevos Rancheros]]
