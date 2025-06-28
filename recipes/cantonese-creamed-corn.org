@@ -1,0 +1,24 @@
+#+TITLE: Cantonese Creamed Corn with Tofu and Rice (Sook Mei Faan)
+#+DATE: 2025-06-28
+#+SETUPFILE: recipe.setup
+
+* Ingredients
+  - 1 cups corn kernels
+  - 1 can of creamed corn
+  - 1 tbsp neutral oil
+  - 1 piece ginger
+  - 1 clove garlic
+  - 2 scallions
+  - 1 1/2 cups vegetable stock
+  - Salt
+  - White pepper
+  - 2 tsp cornstarch mixed w/ 2 tbsp water
+  - Steamed rice for serving
+  - Silken tofu for serving
+  - Corriander and chili oil for garnish
+
+* Instructions
+  1. Heat a medium sauspan and cook ginger, garlic, scallion until aromatic
+  2. Add the corn, stock and season with salt and white pepper. Cook for 2-3 minutes to bring to a boil
+  3. Stirring constantly add the cornstarch slurry and cook for a further 2-3 minutes until slightly thickened
+  4. Serve over rice and tofu and garnish

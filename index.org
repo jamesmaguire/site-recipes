@@ -14,6 +14,7 @@
 - [[file:recipes/simmered-coconut-curried-tofu.org][Simmered Coconut Curried Tofu]]
 
 * Asian
+- [[file:recipes/cantonese-creamed-corn.org][Cantonese Creamed Corn, Tofu, Rice]]
 - [[file:recipes/edamame-rice.org][Edamame Rice]]
 - [[file:recipes/donburi.org][Donburi]]
 - [[file:recipes/nasi-lemak.org][Nasi Lemak]]
