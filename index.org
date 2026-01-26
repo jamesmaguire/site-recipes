@@ -57,6 +57,7 @@
 - [[file:recipes/sweet-potato-chickpea-buddha-bowl.org][Sweet Potato Chickpea Buddha Bowl]]
 
 * Italian
+- [[file:recipes/white-sauce-pasta-bake.org][White sauce pasta bake]]
 - [[file:recipes/yogurt-mince-pasta.org][Yogurt mince pasta]]
 - [[file:recipes/simple-pasta-bake.org][Simple pasta bake]]
 - [[file:recipes/dried-tomato-pasta-bake.org][Dried tomato pasta bake]]
