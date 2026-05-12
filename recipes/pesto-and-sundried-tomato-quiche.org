@@ -1,0 +1,27 @@
+#+TITLE: Pesto and Sundried Tomato Quiche
+#+DATE: 2026-05-12
+#+SETUPFILE: recipe.setup
+
+[[./pesto-and-sundried-tomato-quiche.html][The Vegan Home Baker by Georgia Irwin]]
+
+* Ingredients
+  - 1 sheet puff pastry
+  - 2 tbsp olive oil
+  - 300g silken tofu
+  - 3 tbsp nutritional yeast
+  - 2 cloves garlic
+  - 1 tsp dijon mustard
+  - 1 tsp onion powder
+  - 1/2 tsp salt
+  - 1/2 tsp pepper
+  - Basil pesto
+  - 50g chopped sundried tomatoes
+
+* Instructions
+  1. Preheat the oven to 180\deg{}C
+  2. Grease of baking paper a 20cm tart tin
+  3. Drape pastry over tin and press down. Pierce the bottom with a fork. Place another sheet of baking paper and put a weight over before baking for 15 min
+  4. Remove weights and bake for another 5 min until slightly golden
+  5. For the filling, add oil, tofu, nutritional yeast, garlic, mustard, onion powder, salt, and pepper to the blender. Blend to smooth
+  6. Add the filling to the crust and top with pesto and sundried tomatoes
+  7. Bake for 35 minutes, remove and rest for 5 minutes

@@ -41,6 +41,7 @@
 - [[file:recipes/vegetarian-burrito-bowl.org][Vegetarian Burrito Bowl]]
 
 * White people food
+- [[file:recipes/pesto-and-sundried-tomato-quiche.org][Pesto and Sundried tomato quiche]]
 - [[file:recipes/green-power-tofu-sandwich.org][Green Power Tofu sandwich]]
 - [[file:recipes/wellington-loaf.org][Wellington loaf]]
 - [[file:recipes/tofu-mac-n-cheese.org][Tofu mac n cheese]] 
