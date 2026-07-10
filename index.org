@@ -98,6 +98,7 @@
 - [[file:recipes/pizza-dough.org][Pizza Dough]]
 
 * Miscellaneous
+- [[file:recipes/polenta.org][Polenta]]
 - [[file:recipes/coconut-bacon.org][Coconut Bacon]]
 - [[file:recipes/mango-lassi.org][Mango Lassi]]
 - [[file:recipes/baked-vegan-cheesecake.org][Baked Vegan Cheesecake]]

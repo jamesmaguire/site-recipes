@@ -1,0 +1,17 @@
+#+TITLE: Polenta
+#+DATE: 2026-07-11
+#+SETUPFILE: recipe.setup
+
+* Ingredients
+- 4 cups boiling water
+- 2 tsp stock powder (optional)
+- 1 tsp salt
+- 1 cup polenta
+- 2 tbsp margarine
+
+* Instructions
+1. Bring water /broth to a boil
+2. Optionally add some water to polenta to mix into a paste
+3. Add polenta to boiling water and stir with a whisk to remove clumps
+4. Cook for 30 minutes on low heat stirring regularly
+5. Mix through margarine, let cool, and eat
