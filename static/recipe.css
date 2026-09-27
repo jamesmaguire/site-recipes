@@ -139,6 +139,10 @@ ol li {
   line-height: 1.4;
   letter-spacing: 0.04rem;
 }
+p {
+  line-height: 1.4em;
+  padding-bottom: 0.5em;
+}
 
 
 /* Checkbox */
