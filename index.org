@@ -94,6 +94,7 @@
 - [[file:recipes/creamy-jalapeno-avocado-sauce.org][Creamy Jalapeno Avocado Sauce]]
 
 * Breads
+- [[file:recipes/scones.org][Scones]]
 - [[file:recipes/focaccia.org][Focaccia]]
 - [[file:recipes/aussie-damper.org][Aussie Damper]]
 - [[file:recipes/classic-italian-bread.org][Classic Italian Bread]]
