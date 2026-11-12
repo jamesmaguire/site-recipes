@@ -1,0 +1,33 @@
+#+TITLE: Our recipes (archived)
+#+SETUPFILE: index.setup
+
+@@html:<div id="filterinput"><input type="text" id="filterInput" onkeyup="indexFilter()" placeholder="What's for dinner?"></div>@@
+
+
+- [[file:recipes/curried-chickpea-and-quinoa.org][Curried Chickpea and Quinoa]]
+- [[file:recipes/1-pot-lentil-dal.org][1 Pot Lentil Dal]]
+- [[file:recipes/donburi.org][Donburi]]
+- [[file:recipes/cashew-ramen-egg.org][Cashew Ramen Egg]]
+- [[file:recipes/tan-tan-noodles.org][Tan Tan Noodles]]
+- [[file:recipes/edamame-brown-rice-bowl.org][Edamame Brown Rice Bowl]]
+- [[file:recipes/roast-cauliflower-tacos.org][Roast Cauliflower Tacos with Green Sauce]]
+- [[file:recipes/vegetarian-chili.org][Vegetarian Chili]]
+- [[file:recipes/vege-chilli-con-carne.org][Vege Chilli Con Carne]]
+- [[file:recipes/vegetable-paella.org][Vegetable Paella]]
+- [[file:recipes/vegetarian-burrito-bowl.org][Vegetarian Burrito Bowl]]
+- [[file:recipes/cobb-salad.org][Cobb Salad]]
+- [[file:recipes/mac-n-cheese.org][Vegan Mac 'n' Cheese]]
+- [[file:recipes/chickpea-carrot-patties.org][Chickpea Carrot Patties]]
+- [[file:recipes/spicy-buddha-bowl.org][Spicy Buddha Bowl]]
+- [[file:recipes/dried-tomato-pasta-bake.org][Dried tomato pasta bake]]
+- [[file:recipes/vegetable-barley-soup.org][Vegetable Barley Soup]]
+- [[file:recipes/sweet-potato-chickpea-buddha-bowl.org][Sweet Potato Chickpea Buddha Bowl]]
+- [[file:recipes/curried-sweet-potato-and-lentil-soup.org][Curried Sweet Potato and Lentil Soup]]
+- [[file:recipes/coconut-curry-lentil-soup.org][Coconut Curry Lentil Soup]]
+- [[file:recipes/tortilla-soup.org][Tortilla Soup]]
+- [[file:recipes/west-african-peanut-soup.org][West African Peanut Soup]]
+- [[file:recipes/peanut-butter-smoothie.org][Peanut Butter Smoothie]]
+- [[file:recipes/pancakes.org][Pancakes]]
+- [[file:recipes/porridge.org][Porridge]]
+- [[file:recipes/oil-free-hummus.org][Oil-Free Hummus]]
+- [[file:recipes/coconut-bacon.org][Coconut Bacon]]
