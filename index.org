@@ -101,6 +101,7 @@
 - [[file:recipes/pizza-dough.org][Pizza Dough]]
 
 * Miscellaneous
+- [[file:recipes/chicken-style-seitan.org][Chicken-style seitan]]
 - [[file:recipes/polenta.org][Polenta]]
 - [[file:recipes/coconut-bacon.org][Coconut Bacon]]
 - [[file:recipes/mango-lassi.org][Mango Lassi]]
